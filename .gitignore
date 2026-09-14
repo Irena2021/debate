@@ -1,0 +1,10 @@
+# === 密钥 / 敏感（切勿提交）===
+.env
+*cookies.txt
+
+# === 运行产物 / 缓存 / 原始数据（可再生成）===
+__pycache__/
+*.pyc
+output/
+data/
+input/

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "id": "procon",
+      "name": "Britannica ProCon",
+      "home": "https://www.britannica.com/procon",
+      "language": "EN",
+      "enabled": true,
+      "max_items": 20
+    },
+    {
+      "id": "idebate",
+      "name": "iDebate Debatabase",
+      "home": "https://idebate.net/resources/debatabase",
+      "language": "EN",
+      "enabled": true,
+      "max_items": 20
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+# This House believes in the use of affirmative action
+
+> **元信息**：英语 | 来源：iDebate Debatabase | 分类：Economy | [原文](https://idebate.net/this-house-believes-in-the-use-of-affirmative-action~b670/) | 2026-09-14
+
+---
+
+## 🎯 中文导读
+
+### 议题速览
+这个辩题在争的是：社会该不该用「平权措施」（给历史上受歧视的群体在升学、就业等方面优先照顾）来纠正过去的不公，还是应该只按个人能力（merit）来选人。
+
+### 正方立场
+- 社会有道德义务纠正自己犯过的错，补偿那些被不公正对待的群体。
+- 歧视（无论明里暗里）会带来实实在在的伤害，不能因为「看不见」就当作没发生。
+- 过去的歧视造成「代际劣势」：教育和工作机会被剥夺，家庭陷入贫困，形成恶性循环，平权措施能打破这个循环、拉平起跑线。
+- 平权措施有「示范效应」：让受歧视群体证明自己，从而慢慢消除社会上残留的偏见。
+- 偏见会自我延续，必须主动出手纠正，光靠「不歧视」是不够的。
+
+### 反方立场
+- 唯才是举（meritocracy）才是唯一公平的制度；不看能力、只看身份来选人，对没被「照顾」的人反而不公平。
+- 平权措施会让少数族裔的职场环境变差：别人会默认「你是靠身份进来的，不是靠实力」，从而轻视、排挤他们。
+- 这种「靠身份上位」的印象会让人心生怨恨，觉得少数族裔「白拿」了别人辛苦才得到的东西。
+- 结果适得其反：平权措施不但没消除偏见，反而制造和加深了偏见。
+- 用身份而非能力作标准，本身就违背了公平原则。
+
+### 写作借鉴
+- 引出论点：*Society has a moral obligation to right its wrongs and compensate those they have treated unjustly.*（用于开篇立论，强调道德责任）
+- 让步转折：*Any system that does not reward individuals on the basis of their merit is one that is unjust to those not in the group that is "preferred."*（用于承认对方合理之处后，再指出其漏洞）
+- 因果论证：*The existence of affirmative action creates a de-facto assumption that anyone of that particular minority must have gotten where they are not on their own merit.*（用于说明政策带来的负面连锁反应）
+
+## 📖 背景 Background
+
+Affirmative action is the term used for a system that instead of operating purely on meritocratic grounds, grants preferential status in selection for people of a particular sex, race, ethnicity or other similar qualification. Affirmative action is used to assist groups who were victims of past discrimination and aims to right past injustices and equalize opportunities and outcomes for these disadvantaged groups.
+
+## ✅ 正方论点 Pros
+
+### There is a moral obligation to provide affirmative action programs
+
+Society has a moral obligation to right its wrongs and compensate those they have treated unjustly. Discrimination, whether overt or convert, is an unacceptable practice that arbitrarily disadvantages certain people on grounds that they have no control over. Discrimination not only is theoretically a bad thing to do to people, but also has tangible negative impacts. Discrimination against groups such as the African American community in the USA has left them without the education or employment opportunities to even have a chance at achieving the success and happiness they deserve . Discrimination is unacceptable practice for any society to engage in and victims of discrimination deserve compensation for the physical and psychological harms they suffered from being rejected by their very own community . Past discrimination has left communities without the physical goods and psychological feelings of acceptance and safety all individuals deserve from their country and thus there is a moral obligation of society to take steps to offer the physical and symbolic advantages they have been denied through affirmative action.
+
+**反驳 Counterpoint**：Society may owe an obligation to the victims of past discrimination, but offering advantages to descendants of people who suffered discrimination does not do this. If discrimination occurred several generations ago, the individuals who simply happen to be of the same gender/race as those who were previously discriminated against generations ago are not entitled to preferential treatment as they are not the victims of discrimination. By not targeting those who actually suffered from discrimination due to the generational gap, you are simply giving unfair preferential treatment to people of a particular gender/race and therefore committing an injustice by discriminating against everyone else who was not given the same treatment.
+
+### Affirmative action removes the cyclical disadvantages of discrimination
+
+Affirmative action evens the playing field for those who have suffered past discrimination. Discrimination in the past not only leaves a feeling of rejection by one’s community, but also a legacy of disadvantage and perpetual poverty. Discrimination is not only psychologically damaging, but tangibly. The denial of opportunities for education and employment in the past has left families in situations where they are stuck in a poverty trap and cannot afford to achieve the basic opportunities that others can as they are stuck in a cycle of poverty . A good example of this can be seen in the example of Brazil, where poverty is much more wide-spread in African communities who were previously used as slaves . There is no equality of opportunity in cases of past discrimination. Affirmative action helps level the playing field for selection by assisting those who are held back from a continual historical denial of opportunity and providing them the equality of opportunity everyone deserves.
+
+**反驳 Counterpoint**：Affirmative action is not the best way to deal with these issues. If it is true that there are cycles of poverty caused by past discrimination, the most precise way of righting this wrong is to offer assistance to all people in poverty to get themselves out of its cyclical grasp as opposed to blanket policies based on race or gender that may or may not necessarily help those who have been adversely affected by past discrimination.
+
+### Affirmative action reduces social prejudice
+
+Past discrimination lingers on in society through subtle prejudice that must be righted. Past discrimination against particular groups lingers today through the perception of those groups and how they perceive themselves. By using affirmative action, a demonstration effect is created where individuals are previously discriminated groups prove to society and other members of their racial or gender group that they are capable of gaining power and functioning in the same positions of power, responsibility and success as those of other groups in society. This challenges society’s perception of these groups as the poor people in society and proves to them that the individuals of this race/gender are equally capable and deserving members of society and can and should function in the same positions of society as them.
+
+**反驳 Counterpoint**：Affirmative action does not reduce societal prejudice, but actually increases it. By creating a situation where individuals receive state help in gaining the jobs and success they have, this simply confirms the prejudice in peoples’ minds that individuals of this group cannot gain anything on their own merit, but rather require external assistance. (Refer to opposition arguments two and three)
+
+## ❌ 反方论点 Cons
+
+### Meritocracy is the only fair system by which society should be ordered
+
+Any system that does not reward individuals on the basis of their merit is one that is unjust to those not in the group that is “preferred” and therefore benefitted by it. Meritocracy is the only fair system to run a society on. Any system that does not reward individuals on the basis of their skill and effort is one that is unjust. The use of any criteria other than merit to select or benefit an individual is the definition of discrimination itself. Simply putting the word “positive” in front of it does not make it a beneficial or just system. For every act of “positive” discrimination enacted, an act of “negative” discrimination occurs against the individual that was denied a position or achievement they earned on their own merit for the person that received the “positive” end of the discrimination. Affirmative action is simply reversing the discrimination in society so injustice is enacted in the opposite direction. This is not a just system of distribution; it’s simply unjust against a different group. The only truly fair system to use is one that has no criteria other than merit to determine who receives what.
+
+**反驳 Counterpoint**：This issue is not whether or not meritocracy is good, but rather if society is meritocratic without intervention by the public or private sector. The system is not meritocratic without affirmative action; with the endemic psychological and tangible disadvantages as discussed in proposition points two and three, people of previously discriminated groups do not get judged on their own merit. They do not receive the same basic opportunities and they are given no inspiration to strive to achieve the things that would indicate their merit because they believe it to be impossible for someone of their group. Meritocracy only works when everyone is entering a fight from the same playing field, which does not currently happen. Affirmative action adjusts this to a meritocratic system by adjusting for the fact that individuals of previously discriminated groups will not have the same indicators of merit such as academic achievements due to a lack of opportunity as opposed to lack of merit. Moreover, it will afford these individuals these missed opportunities to level the playing field in the long-run, allowing true meritocracy to exist .
+
+### Affirmative action creates bad workplaces for all minorities
+
+Affirmative action creates a negative workplaces for all minorities whose group receives affirmative action support. The existence of affirmative action creates a de-facto assumption that anyone of that particular minority must have gotten where they are not on their own merit, but simply because they are that particular minority. This causes people to resent the minority group for getting for “free” what people feel they had to work hard for. This furthers the perception of the minority as being inferior, and removes their capacity to be treated as an equal in the workplace and prove themselves. This assumption is not only harmful to those minorities who did receive assistance from affirmative action, but also anyone of that minority group regardless of if they were hired using affirmative action because there is simply an assumption that they are less qualified and there because of the policy because the policy exists. Therefore, affirmative action creates an assumption that minorities in the workplace are less qualified and inherently inferior to the other workers due to the affirmative action policy causing resentment and deepening inequality, not helping eradicate it.
+
+**反驳 Counterpoint**：The prejudice that individuals in the workplace hold for these minorities already exist through their current perception of these people as being less qualified as them due to their conspicuous absence from the workplace as it is. The best way to deal with such resentment and prejudice is to use affirmative action and bring more of these minorities into the workplace where they work side-by-side as co-workers and prove themselves as equally competent and qualified as every other person in the workplace. Although affirmative action may initially cause this assumption to occur, it is its own cure as affirmative action allows these minorities to prove themselves in the workplace and dispel such a baseless assumption.
+
+### Affirmative action perpetuates prejudice
+
+Affirmative action causes prejudice against minorities in society. The existence of affirmative action creates a de-facto assumption that anyone of that particular minority must have gotten where they are not on their own merit, but simply because they are that particular minority. This causes people to resent the minority group for getting for “free” what people feel they had to work hard for. People feel as though that minority is getting a “free-ride” and are inherently less worthy of what they achieve. This is damaging on a societal level because minorities who receive affirmative action are assumed to be less qualified and less valuable than others in society simply because many of them are aided by affirmative action policies. This not only creates damaging stereotypes, but also causes resentment and backlash from others in society who view affirmative action as simply unfair. This is best demonstrated by the backlash in America in the mid-1990s over the existence of affirmative action policies .
+
+**反驳 Counterpoint**：This resentment already exists in society, and as explained in counterargument two, in many specific environments, affirmative action is its own cure. On a wider societal level, this prejudice will not be created by affirmative action, but already exists. Simply because people may not particularly like the idea of affirmative action and get a bit resentful about it is not a good enough reason to let these minorities be denied the opportunities and lives they deserve. Add to favourites Add to Favourites Please Log In to add this debate to Favourites Log In Have a good for or against point on this topic? Share it with us!

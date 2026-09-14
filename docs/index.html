@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Debate 辩论素材库</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <h1>Debate 辩论素材库</h1>
+  <span class="sub">议论文正反论点 · <span id="count">45</span> 个辩题</span>
+</div></header>
+<main class="wrap">
+  <div class="filters">
+    <div class="src-group">
+      <button class="src-btn active" data-src="all">全部</button>
+      <button class="src-btn" data-src="procon">ProCon</button>
+      <button class="src-btn" data-src="idebate">iDebate</button>
+    </div>
+    <input id="search" type="search" placeholder="搜索辩题 / 分类…">
+  </div>
+  <div id="cats" class="chips"></div>
+  <div id="cards" class="cards"></div>
+</main>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
