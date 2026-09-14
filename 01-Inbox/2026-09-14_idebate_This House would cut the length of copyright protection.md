@@ -1,83 +1,237 @@
 # This House would cut the length of copyright protection
 
-> **元信息**：英语 | 来源：iDebate Debatabase | 分类：Digital Freedoms | [原文](https://idebate.net/this-house-would-cut-the-length-of-copyright-protection~b1393/) | 2026-09-14
+> **元信息**：英·中·法 | 来源：iDebate Debatabase | 分类：Digital Freedoms | [原文](https://idebate.net/this-house-would-cut-the-length-of-copyright-protection~b1393/) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题讨论的是：政府是否应该大幅缩短版权保护期限，让作品更快进入公共领域供大众使用。
+
+- 中：这个辩题讨论的是：政府是否应该大幅缩短版权保护的期限。
+- EN：This debate asks whether the government should significantly shorten the length of copyright protection.
+- FR：Ce débat demande si le gouvernement devrait réduire de façon importante la durée de la protection du droit d'auteur.
 
 ### 正方立场
-- 版权保护期太长会让成功艺术家变得自满，还会让他们把大量时间花在打官司、追查盗版上，而不是继续创作。
-- 绝大多数作品在刚发布后不久就赚到了几乎全部收入，之后漫长的保护期对传播作品毫无效率。
-- 超长版权导致大量「孤儿作品」（找不到版权持有人的作品）无法被公开使用，据统计 40% 的书籍都受此困扰。
-- 版权把艺术作品围起来，阻碍了后来者对其进行再创作和重新演绎，而很多伟大作品恰恰是对旧作的重塑。
+
+- 中：版权保护太长会让艺术家变得自满，还会让他们把时间浪费在打官司和追查盗版上，而不是继续创作。
+- EN：Overly long copyright makes artists complacent and forces them to waste time fighting pirates and lawsuits instead of creating new work.
+- FR：Une protection trop longue du droit d'auteur rend les artistes complaisants et les oblige à perdre leur temps à poursuivre les pirates et à faire des procès au lieu de créer.
+
+- 中：绝大多数作品只在刚发布时赚钱，之后几乎没人用，所以超长版权对传播作品来说效率极低。
+- EN：Most works only earn money right after publication and are rarely used afterward, so extremely long copyright is very inefficient for spreading works.
+- FR：La plupart des œuvres ne rapportent de l'argent qu'juste après leur publication et sont rarement utilisées ensuite, donc une protection très longue est très inefficace pour diffuser les œuvres.
+
+- 中：版权太长会严重限制公众接触作品，很多「孤儿作品」因为找不到版权人而无法在网上或免费渠道获取。
+- EN：Long copyright severely limits public access, and many "orphan works" cannot be put online or shared freely because their copyright owners cannot be found.
+- FR：Une longue durée du droit d'auteur limite gravement l'accès du public, et de nombreuses « œuvres orphelines » ne peuvent pas être mises en ligne ou partagées librement car leurs titulaires sont introuvables.
+
+- 中：版权太长会阻止别人对原作进行再创作，而很多伟大的艺术作品本来就是在前人作品基础上重新演绎出来的。
+- EN：Long copyright blocks others from reworking original works, even though many great works of art are reimaginings of earlier creations.
+- FR：Une longue protection empêche les autres de retravailler les œuvres originales, alors que beaucoup de grandes œuvres d'art sont des réinterprétations de créations antérieures.
 
 ### 反方立场
-- 艺术家付出了努力创造出无形的作品，理应像财产一样受到保护，版权是对他们劳动的合理回报。
-- 作品是创作者对世界的独特表达，如何使用自己的作品应该由创作者本人及其指定的继承人来决定。
-- 很多艺术家没有固定雇主和养老金，版权收入是他们养活自己和家人的重要保障，甚至去世后还要靠它养活后代。
-- 版权带来的收益预期激励人们投入创作；如果没有所有权保障，人们就不愿意花时间去创作了。
+
+- 中：艺术家付出了努力创造出无形的作品，他们理应从中获利，版权正是对他们劳动的合理回报。
+- EN：Artists put in effort to create intangible works and deserve to profit from them; copyright is fair payment for their labour.
+- FR：Les artistes fournissent un effort pour créer des œuvres immatérielles et méritent d'en tirer profit ; le droit d'auteur est une juste récompense pour leur travail.
+
+- 中：作品是创作者对世界的独特表达，所以怎么使用它应该由创作者本人或其指定的继承人决定。
+- EN：A work is the creator's unique expression of how they see the world, so how it is used should be decided by the creator or their chosen successors.
+- FR：Une œuvre est l'expression unique de la vision du monde de son créateur, donc son utilisation devrait être décidée par le créateur ou ses successeurs désignés.
+
+- 中：很多艺术家没有固定工资或养老金，他们靠版权收入养活自己和家人，甚至去世后家人还要靠它生活。
+- EN：Many artists have no regular salary or pension and rely on copyright income to support themselves and their families, even after they die.
+- FR：Beaucoup d'artistes n'ont ni salaire régulier ni pension et dépendent des revenus du droit d'auteur pour subvenir à leurs besoins et à ceux de leur famille, même après leur mort.
+
+- 中：版权保护带来的收益预期能激励人们投入时间和精力去创作，如果没有这种保障，创作动力会大大降低。
+- EN：The promise of profit from copyright motivates people to invest time and effort in creating; without this guarantee, the incentive to create drops sharply.
+- FR：La promesse de profits grâce au droit d'auteur motive les gens à investir temps et effort dans la création ; sans cette garantie, l'incitation à créer chute fortement.
 
 ### 写作借鉴
-- 引出论点：Artists deserve to profit from their work and copyright provides just recompense.（用于支持版权保护、强调创作者权益）
-- 让步转折：Only a tiny fraction of copyrighted works ever become massive successes.（用于承认对方有一定道理后，指出绝大多数作品其实并不靠长期版权获利）
-- 总结/收束：The promise of copyright protection galvanizes people to develop creative endeavors.（用于强调版权激励创作的核心逻辑，适合放在结论段）
+
+- EN：Overlong copyright protection stifles the creativity and saps the time of artists.
+- 中：用于「引出论点」——开门见山提出一个负面后果，适合放在正文段首。
+- FR：Utilisation : introduire un argument — présenter directement une conséquence négative, idéal pour débuter un paragraphe.
+
+- EN：Artists deserve to profit from their work and copyright provides just recompense.
+- 中：用于「提出主张」——用 deserve 和 just 表达道义上的合理性，语气坚定。
+- FR：Utilisation : affirmer une position — « deserve » et « just » expriment une légitimité morale, avec un ton ferme.
+
+- EN：Without the guarantee of ownership over one's artistic work, the incentive to invest in its creation is significantly diminished.
+- 中：用于「假设论证」——用 Without… 开头设想反面情况，说明某事物的必要性。
+- FR：Utilisation : argumenter par hypothèse — commencer par « Without… » pour imaginer le contraire et montrer la nécessité d'une chose.
 
 ## 📖 背景 Background
 
+**English**
+
 Copyright is a legal right furnished by governments that provide the creators of new and original works with the exclusive right of use and sale of those works. It protects a wide range of artistic works from literature and dramatic works, to art, music and recordings. [1] This protection usually lasts for a limited length of time. The length of time varies from place to place, but in most jurisdictions it extends for the length of the artist’s life plus fifty years. [2] This proposal would mean significantly cutting the length of copyright significantly to a point where it lasts less than an individual’s lifetime.
+
+**中文**
+
+版权是政府提供的一种法律权利，它赋予新原创作品的创作者对这些作品的专有使用和销售权。它保护从文学和戏剧作品到艺术、音乐和录音等广泛的艺术作品。[1] 这种保护通常持续有限的一段时间。时间长度因地而异，但在大多数司法管辖区，它延续到艺术家去世后五十年。[2] 这一提议意味着大幅缩短版权期限，使其短于一个人的寿命。
+
+**Français**
+
+Le droit d'auteur est un droit légal accordé par les gouvernements qui confère aux créateurs d'œuvres nouvelles et originales le droit exclusif d'utiliser et de vendre ces œuvres. Il protège un large éventail d'œuvres artistiques, allant de la littérature et des œuvres dramatiques à l'art, la musique et les enregistrements. [1] Cette protection dure généralement une durée limitée. La durée varie d'un endroit à l'autre, mais dans la plupart des juridictions, elle s'étend sur la vie de l'artiste plus cinquante ans. [2] Cette proposition signifierait réduire considérablement la durée du droit d'auteur, à un point tel qu'elle serait inférieure à la durée de vie d'un individu.
 
 ## ✅ 正方论点 Pros
 
 ### Overlong copyright protection stifles the creativity and saps the time of artists
 
+**English**
+
 In some instances, when artists achieve success they face the enervating impulse that their achievement brings. They become satisfied and complacent with what they have, robbing them of their demiurgic drive. Worse, and more frequently, successful artists become embroiled in defending their work from pirates, downloaders, and other denizens of the internet. The result is artists wasting time in court, fighting lawsuits that sap them of time to actually focus on creating new works. Artists should be incentivized to look forward, not spend their time clinging to what they have already made. Obviously, they have a right to profit from their work to an extent, which is why a certain, reduced length of copyright is still important. But clearly the current length is far too great as artists retain their copyright until their death and many years after. Moreover once the artist has died it is difficult to see how copyright can be considered to be enhancing or even rewarding creativity; it simply becomes a negative weight on others creativity.
 
 **反驳 Counterpoint**：The artistic drive to create is rarely stifled by having been successful. Individuals deserve to profit from their success and to retain control of what they create in their lifetime, as much as the founder of a company deserves to own what he or she creates until actively deciding to part with it. However, even patents, novel creations in themselves, have far less protection than copyright. While most patents offer protection for a total of twenty years, copyright extends far beyond the life of its creator, a gross overstretch of the right of use.
 
+**中文**
+
+过长的版权保护扼杀创造力，耗费艺术家的时间
+
+在某些情况下，当艺术家取得成功时，他们会面临成就带来的消沉冲动。他们对自己所拥有的感到满足和自满，失去了创造的动力。更糟糕且更常见的是，成功的艺术家会卷入保护自己的作品免受盗版者、下载者和互联网其他居民侵害的纷争中。结果是艺术家在法庭上浪费时间，打官司消耗了他们真正专注于创作新作品的时间。应该激励艺术家向前看，而不是把时间花在固守他们已经创作的东西上。显然，他们在一定程度上有权从自己的作品中获利，这就是为什么某种缩短的版权期限仍然重要。但显然目前的期限太长了，因为艺术家保留版权直到去世后许多年。而且一旦艺术家去世，很难看出版权如何还能被视为增强甚至奖励创造力；它只是成为对他人创造力的负担。
+
+反驳：创作的艺术动力很少被……扼杀
+
+**Français**
+
+Une protection trop longue du droit d'auteur étouffe la créativité et épuise le temps des artistes
+
+Dans certains cas, lorsque les artistes connaissent le succès, ils font face à l'impulsion énervante que leur réussite apporte. Ils deviennent satisfaits et complaisants avec ce qu'ils ont, ce qui les prive de leur élan créateur. Pire encore, et plus fréquemment, les artistes à succès se retrouvent embourbés dans la défense de leur œuvre contre les pirates, les téléchargeurs et autres habitants d'Internet. Le résultat est que les artistes perdent leur temps au tribunal, luttant dans des procès qui les privent du temps nécessaire pour se concentrer réellement sur la création de nouvelles œuvres. Les artistes devraient être incités à regarder vers l'avenir, et non à passer leur temps à s'accrocher à ce qu'ils ont déjà fait. De toute évidence, ils ont le droit de tirer profit de leur travail dans une certaine mesure, c'est pourquoi une certaine durée réduite du droit d'auteur reste importante. Mais il est clair que la durée actuelle est bien trop longue, car les artistes conservent leur droit d'auteur jusqu'à leur mort et de nombreuses années après. De plus, une fois l'artiste décédé, il est difficile de voir comment le droit d'auteur peut être considéré comme renforçant ou même récompensant la créativité ; il devient simplement un poids négatif sur la créativité des autres.
+
+Contre-argument : L'élan artistique de créer est rarement étouffé par…
+
 ### Lengthy copyright protection is extremely inefficient for the dissemination of works
+
+**English**
 
 Only a tiny fraction of copyrighted works ever become massive successes, breeding the riches of a JK Rowling or the like. Far more often, artists only make modest profits from their artistic works. In fact, almost all income from copyright comes immediately after publication of a work. Ultimately, copyright serves to protect a work from being used, while at the same time that work does little to benefit the original artist. Freeing up availability of artistic works much faster would serve to benefit consumers in the extreme, who could now enjoy the works for free and engage in the dissemination and reexamination of the works. If artists care about having their work seen and appreciated, they should realize that they are best served by reduced copyright. Ultimately, long copyrights tend only to benefit corporations that buy up large quantities of work, and exploit it after artists’ deaths. Notably when the United States has a system that required a renewal of copyright after 28 years only 15% of copyrights were actually renewed. It would be far better for everyone that copyright be shortened and to increase appreciation of works.
 
 **反驳 Counterpoint**：Inefficient or not, artists should have the right to retain control of their creations. Even if they are not making any money out of it, they still have the right, and often the desire, to maintain control of the way their art is used. If artists do not desire such control, they can opt to release their works into the public domain, while allowing those who do not wish to do so to protect their work.
 
+**中文**
+
+过长的版权保护对作品的传播极其低效
+
+只有极少数受版权保护的作品会取得巨大成功，造就像J·K·罗琳那样的财富。更常见的情况是，艺术家只能从自己的艺术作品中获得微薄的利润。事实上，几乎所有的版权收入都来自作品出版后不久。归根结底，版权的作用是保护作品不被使用，而与此同时，该作品对原创艺术家几乎没有好处。更快地开放艺术作品的可用性将极大地惠及消费者，他们现在可以免费欣赏这些作品，并参与作品的传播和重新审视。如果艺术家关心自己的作品被看到和欣赏，他们应该意识到，缩短版权对他们最有利。归根结底，长期版权往往只惠及那些大量收购作品并在艺术家去世后加以利用的公司。值得注意的是，当美国实行28年后需要续展版权的制度时，实际上只有15%的版权被续展。对每个人来说，缩短版权并……会好得多。
+
+**Français**
+
+Une longue protection du droit d'auteur est extrêmement inefficace pour la diffusion des œuvres
+
+Seule une infime fraction des œuvres protégées par le droit d'auteur connaît un succès massif, engendrant la richesse d'une J.K. Rowling ou similaire. Bien plus souvent, les artistes ne tirent que de modestes profits de leurs œuvres artistiques. En fait, presque tous les revenus du droit d'auteur proviennent immédiatement après la publication d'une œuvre. En fin de compte, le droit d'auteur sert à protéger une œuvre contre l'utilisation, tandis que dans le même temps, cette œuvre profite peu à l'artiste original. Libérer beaucoup plus rapidement la disponibilité des œuvres artistiques bénéficierait extrêmement aux consommateurs, qui pourraient désormais profiter gratuitement des œuvres et s'engager dans la diffusion et le réexamen des œuvres. Si les artistes tiennent à ce que leur travail soit vu et apprécié, ils devraient réaliser qu'ils sont mieux servis par un droit d'auteur réduit. En fin de compte, les droits d'auteur longs ne tendent à bénéficier qu'aux entreprises qui achètent de grandes quantités d'œuvres et les exploitent après la mort des artistes. Notamment, lorsque les États-Unis avaient un système qui exigeait un renouvellement du droit d'auteur après 28 ans, seulement 15 % des droits d'auteur étaient réellement renouvelés. Il serait bien mieux pour tout le monde que le droit d'auteur soit raccourci et de…
+
 ### Long copyrights serve to severely limit access by the public to creative works
+
+**English**
 
 Because copyrights are so long, they often result in severely limiting access to some works by anyone. Many “orphan works”, whose copyright holders are unknown, cannot be made available online or in other free format due to copyright protection. This is a major problem, considering that 40% of all books fall into this category. A mix of confusion over copyright ownership and unwillingness of owners to release their works, often because it would not be commercially viable to do so, means that only 2% of all works currently protected by copyright are commercially available. The public is robbed of a vast quantity of artistic work, often simply because no one can or is willing to publish it even in a commercial context. Reducing copyright length would go a long way to freeing this work for public consumption.
 
 **反驳 Counterpoint**：The problems associated with “orphan works” can be sorted out separate from limiting copyright length. It simply demands a closer attention from executors and legal professionals to sort these issues out. In terms of availability, it must be up to the artist to release the work as he or she sees fit. Encouraging artists and their successors to release their works into the public domain could go a long way to solving this problem without recourse to adulterating existing protections.
 
+**中文**
+
+长期版权严重限制了公众对创意作品的获取
+
+由于版权期限如此之长，它们往往导致任何人获取某些作品都受到严重限制。许多“孤儿作品”——其版权所有者不明——由于版权保护而无法在网上或以其他免费形式提供。这是一个重大问题，考虑到所有书籍中有40%属于这一类。版权归属的混乱与所有者不愿发布其作品（通常是因为这样做在商业上不可行）相结合，意味着目前受版权保护的所有作品中只有2%可以商业获取。公众被剥夺了大量艺术作品，往往仅仅是因为没有人能够或愿意出版它，即使是在商业背景下。缩短版权期限将大大有助于将这些作品释放给公众消费。
+
+反驳：“孤儿作品”相关的问题可以与限制版权期限分开解决。这只需要执行者和法律专业人士更加密切地关注以解决这些问题。就可获取性而言，必须由艺术家来决定是否发布作品，因为他或……
+
+**Français**
+
+Les droits d'auteur longs limitent sévèrement l'accès du public aux œuvres créatives
+
+Parce que les droits d'auteur sont si longs, ils entraînent souvent une limitation sévère de l'accès à certaines œuvres par quiconque. De nombreuses « œuvres orphelines », dont les titulaires de droits sont inconnus, ne peuvent pas être mises à disposition en ligne ou sous d'autres formats gratuits en raison de la protection du droit d'auteur. C'est un problème majeur, étant donné que 40 % de tous les livres entrent dans cette catégorie. Un mélange de confusion sur la propriété du droit d'auteur et de réticence des propriétaires à diffuser leurs œuvres, souvent parce que cela ne serait pas commercialement viable, signifie que seulement 2 % de toutes les œuvres actuellement protégées par le droit d'auteur sont disponibles commercialement. Le public est privé d'une vaste quantité d'œuvres artistiques, souvent simplement parce que personne ne peut ou ne veut les publier, même dans un contexte commercial. Réduire la durée du droit d'auteur contribuerait grandement à libérer ces œuvres pour la consommation publique.
+
+Contre-argument : Les problèmes associés aux « œuvres orphelines » peuvent être résolus séparément de la limitation de la durée du droit d'auteur. Cela exige simplement une attention plus étroite de la part des exécuteurs testamentaires et des professionnels du droit pour régler ces questions. En termes de disponibilité, il doit appartenir à l'artiste de diffuser l'œuvre comme il ou…
+
 ### Long copyright stifles creative responses to and re-workings of the original work
+
+**English**
 
 Artistic creations, be they books, films, paintings, etc. serve as a spark for others to explore their own creativity. Much of the great works of art of the 20 th century, like Disney films reworking ancient fairy tales, were reexaminations of existing works. That is the nature of artistic endeavor, and cutting it off by putting a fence around works of art serves to cut off many avenues of response and expression. When copyright is too long, the work passes beyond the present into a new status quo other than that in which it was made. This means contemporary responses and riffs on works are very difficult, or even impossible. In the United States tough copyright law has prevented the creation of a DJ/remix industry because the costs of such remixing is prohibitive. While a certain length of copyright is important, it is also critical for the expression of art to develop that it occur within a not overlong time. Furthermore, it is valuable for artists to experience the responses to their own work, and to thus be able to become a part of the discourse that develops, rather than simply be dead, and thus voiceless.
 
 **反驳 Counterpoint**：While there is value in other artists exploring their own creativity by means of others’ work, it does not give them an overriding right. Rather, artists should have a meaningful control over how their art is disseminated and viewed in the world, as it is ultimately their creation. Furthermore, the protections copyright affords means that the responses that do arise must be more creative and novel in and of themselves, and not simply hackneyed riffing on existing work. This helps to benefit the arts by ensuring that there is regular innovation and change.
 
+**中文**
+
+长期版权扼杀对原作品的创造性回应和再创作
+
+艺术创作，无论是书籍、电影、绘画等，都能激发他人探索自己的创造力。20世纪的许多伟大艺术作品，如迪士尼电影改编古代童话，都是对现有作品的重新审视。这就是艺术努力的本质，而通过给艺术作品围上栅栏来切断它，会切断许多回应和表达的途径。当版权太长时，作品就超越了当下，进入了一种不同于其创作时的新状态。这意味着对作品的当代回应和即兴改编变得非常困难，甚至不可能。在美国，严厉的版权法阻止了DJ/混音产业的产生，因为这种混音的成本高得令人望而却步。虽然一定长度的版权很重要，但艺术表达的发展在不太长的时间内发生也至关重要。此外，艺术家体验对自己作品的回应，从而能够成为发展中的对话的一部分，而不是仅仅死去，从而……，这也是有价值的。
+
+**Français**
+
+Un droit d'auteur long étouffe les réponses créatives et les réélaborations de l'œuvre originale
+
+Les créations artistiques, qu'il s'agisse de livres, de films, de peintures, etc., servent d'étincelle pour que d'autres explorent leur propre créativité. Bon nombre des grandes œuvres d'art du 20e siècle, comme les films Disney réélaborant d'anciens contes de fées, étaient des réexamens d'œuvres existantes. C'est la nature de l'effort artistique, et le couper en érigeant une clôture autour des œuvres d'art revient à couper de nombreuses voies de réponse et d'expression. Lorsque le droit d'auteur est trop long, l'œuvre dépasse le présent pour entrer dans un nouveau statu quo autre que celui dans lequel elle a été créée. Cela signifie que les réponses contemporaines et les variations sur les œuvres sont très difficiles, voire impossibles. Aux États-Unis, une loi stricte sur le droit d'auteur a empêché la création d'une industrie de DJ/remix parce que les coûts d'un tel remixage sont prohibitifs. Bien qu'une certaine durée de droit d'auteur soit importante, il est également essentiel pour l'expression artistique de se développer qu'elle se produise dans un délai pas trop long. En outre, il est précieux pour les artistes de faire l'expérience des réponses à leur propre œuvre, et ainsi de pouvoir faire partie du discours qui se développe, plutôt que d'être simplement morts, et donc…
+
 ## ❌ 反方论点 Cons
 
 ### Artists deserve to profit from their work and copyright provides just recompense
+
+**English**
 
 Artists generating ideas and using their effort to produce an intangible good, be it a new song, painting, film, etc. have a property right over those ideas and the products that arise from them. It is the effort to produce a real good, albeit an intangible one, that marks the difference between an idea in someone’s head that he or she does not act upon, and an artistic creation brought forth into the world. Developing new inventions, songs, and brands are all very intensive endeavours, taking time, energy, and often a considerable amount of financial investment, if only from earnings forgone in the time necessary to produce the work. Artists deserve as a matter of principle to benefit from the products of the effort of creation. For this reason, robbing individuals of lifelong and transferable copyright is tantamount to stealing an actual physical product. Each is a real thing, even if one can be touched while the other is intangible in a physical sense. Copyright is the only real scheme that can provide the necessary protection for artists to allow them to enjoy the fruits of their very real labours.
 
 **反驳 Counterpoint**：Copyright would still exist, and the artist is able to profit from it, even if the length of copyright is reduced. People deserve recompense, but the stifling force of current laws make for negative outcomes. It would be better to strike a more appropriate balance, allowing artists to profit while they can, which in practice is only during the first few years after their work’s release, and at the same time allowing the art to reach the public sphere and to interact with it in fuller fashion.
 
+**中文**
+
+艺术家理应从其作品中获利，版权正好提供了公正的回报。
+
+艺术家产生创意并付出努力来创造一种无形的产品——无论是一首新歌、一幅画、一部电影等——他们便对这些创意以及由此产生的产品拥有财产权。正是创造一种真实产品（尽管是无形的）所付出的努力，区分了某人脑中一个未曾付诸行动的念头，与一件被带到世上的艺术创作。开发新发明、创作歌曲和打造品牌都是极其耗费精力的工作，需要时间、精力，而且往往需要相当数量的资金投入——哪怕只是因创作所需时间而放弃的收入。从原则上讲，艺术家理应受益于创作努力所带来的成果。因此，剥夺个人终身享有且可转让的版权，无异于窃取一件实实在在的实物产品。两者都是真实的东西，即使一个可以触摸，而另一个在物理意义上无形。版权是唯一能为艺术家提供必要保护、让他们享受其非常真实的劳动成果的真正制度……
+
 ### Control of an artistic work and its interaction in the public sphere is the just province of the creator and his or her designated successors
+
+**English**
 
 The creator of a piece of copyrighted material has brought forth a novel concept and product of the human mind. That artist thus should have a power over that work’s use. Art is the expression of its creator’s sense of understanding of the world, and thus that expression will always have special meaning to him or her. How that work is then used thus remains an active issue for the artist, who should, as a matter of justice be able to retain a control over its dissemination. That control can extend, as with the bequeathing of tangible assets, to designated successors, be the trusts, family, or firms. In carrying out the wishes of the artist, these successors can safeguard that legacy in their honor. Many artists care about their legacies and the future of their artistic works, and should thus have this protection furnished by the state through the protection of lengthy copyrights.
 
 **反驳 Counterpoint**：Once a piece of art enters the public sphere, it takes on a character of its own as it is consumed, absorbed, and assimilated by other artists. It is important that art as a whole be able to thrive in society, but this is only possible when artists are able to make use of, and actively reinterpret and utilize existing works. This can only be furthered by a significant reduction in length of copyright protections. It is also disingenuous to suggest that the artist’s work is not itself the product of exposure to other artists’ work. All art is a response, even if only laterally, to the previous traditions. While those who gain a copyright get it because of a ‘novel concept’ it is open to question just how novel this has to be. A painter who paints a new painting in a style never seen before may well still be using oil and canvas just as thousands of artists have in the past.
 
+**中文**
+
+对一件艺术作品的控制及其在公共领域中的互动，是创作者及其指定继承人的正当领域。
+
+一件受版权保护的作品的创作者，带来了一个新颖的概念和人类心智的产物。因此，那位艺术家应当对那件作品的使用拥有权力。艺术是创作者对世界理解之感的表达，因此这种表达对他或她而言永远具有特殊意义。那件作品随后如何被使用，因而对艺术家来说始终是一个切身的问题；从正义的角度讲，他或她应当能够保留对其传播的控制。这种控制可以像有形资产的遗赠一样，延伸到指定的继承人——无论是信托机构、家族还是公司。在实现艺术家意愿的过程中，这些继承人可以体面地守护那份遗产。许多艺术家关心自己的遗产及其艺术作品的未来，因此应当由国家通过保护长期版权来提供这种保护。
+
+反方观点：一旦一件艺术品进入公共领域，当它被其他艺术家消费、吸收和同化时，它就具有了自己的特性。它是……
+
 ### Artists often rely on copyright protection to support dependents and family after, including after they are dead
+
+**English**
 
 Artists may rely on their creative output to support themselves. This is certainly no crime, and existing copyright laws recognize this fact. Artists rarely have pensions of the sort that people in other professions have as they are rarely employed by anyone for more than a short period. As a result artists who depend on their creations for their wherewithal look to their art and copyright as a guaranteed pension, a financial protection they can rely on even if they are too old to continue artistic or other productive work for their upkeep. They also recognize the need of artists to be able to support their dependents, many of whom too rely on the artist’s output. In the same way financial assets like stocks can be bequeathed to people for them to profit, so too must copyright be. Copyright is a very real asset and financial protection that should be sustained for the sake of artists’ financial wellbeing and that of their loved ones.
 
 **反驳 Counterpoint**：The vast majority of artistic output results in having little lifelong, let alone postmortem economic value. Most artists glean all they are going to get out of their art within a couple years of its production, and the idea that it will sustain their families is silly. In the small number of cases of phenomenally successful artists, they usually make enough to sustain themselves and family, but even still, the benefits accrued to outliers should not be sufficient reason to significantly slow the pace of artistic progress and cross-pollination of ideas. Besides, in any other situation in which wealth is bequeathed, that money must have been earned already. Copyright is a bizarre construct that allows for the passing on of the right to accrue future wealth.
 
+**中文**
+
+艺术家常常依靠版权保护来供养受抚养人和家人，包括在他们去世之后。
+
+艺术家可能依靠自己的创作成果来养活自己。这当然不是罪过，现行版权法也承认这一事实。艺术家很少拥有其他职业人士那种养老金，因为他们很少被任何人长期雇用。因此，依靠自己的创作来维持生计的艺术家，把自己的艺术和版权视为有保障的养老金，一种即使他们年老到无法继续从事艺术或其他生产性工作来维持生计时仍可依靠的经济保护。他们也认识到艺术家需要能够供养受抚养人，其中许多人同样依赖艺术家的创作成果。正如股票等金融资产可以遗赠给人们，让他们从中获利一样，版权也必须如此。版权是一种非常真实的资产和经济保护，为了艺术家的经济福祉及其亲人的福祉，应当予以维持。
+
+反方观点：绝大多数艺术创作成果几乎没有终身的经济价值，更不用说死后的经济价值了。大多数艺术家……
+
 ### The promise of copyright protection galvanizes people to develop creative endeavors
+
+**English**
 
 The incentive to profit drives a great deal of people’s intellectual endeavours. Without the guarantee of ownership over one’s artistic work, the incentive to invest in its creation is significantly diminished. Within a robust copyright system, individuals feel free to invest time in their pursuits because they have full knowledge that the fruits of their efforts will be theirs to reap. With these protections the marginal cases, like people afraid to put time into actually writing a novel rather than doing more hours at their job, will take the opportunity. Even if the number of true successes is very small in the whole of artistic output, the chance of riches and fame can be enough for people to make the gamble. If their work were to quickly leave their control, they would be less inclined to do so. Furthermore, the inability of others to simply duplicate existing works as their own means they too will be galvanized to break ground on new ideas, rather than simply re-tread over current ideas.
 
 **反驳 Counterpoint**：Artists generally desire to create, and will do so whether there is financial incentive or not. Besides, many artists live and die in relative poverty, yet their experience seems to not have put off people from pursuing art as a profession and passion. The loss of a few marginal cases must be weighed against the massive losses to art in general, such as the huge curtailment of exploration of and response to existing works, which are often artistically meritorious in their own right, and also the rendering unavailable of much of the artistic output of the world. Add to favourites Add to Favourites Please Log In to add this debate to Favourites Log In Bibliography Center for the Study of the Public Domain, “What Could Have Entered the Public Domain on January 1, 2012?”, Duke University, 2012, http://web.law.duke.edu/cspd/publicdomainday/2012/pre-1976 Gapper, J. “Shorten Copyright and Make it Stick”. Financial Times . 1 July 2010 http://www.ft.com/cms/s/0/c446aa38-84a7-11df-9cbb-00144feabdc0.html#axzz2JyVnvY00 Greenberg, M. “Reason or Madness: A Defense of Copyright’s Growing Pains”. John Marshall Review of Intellectual Property Law. 2007, http://www.jmripl.com/Publications/Vol7/Issue1/Greenberg.pdf Intellectual Property Office, “About copyright” http://www.ipo.gov.uk/types/copy/c-about.htm Jordan, Jim, and Teller, Paul, “RSC Policy Brief: Three Myths about Copyright Law and Where to Start to Fix it” The Republican Study Committee, 16 November 2012, http://infojustice.org/wp-content/uploads/2012/11/three-myths.pdf Keegan, V. “Shorter Copyright Would Free Creativity”. The Guardian . 7 October 2009, http://www.guardian.co.uk/technology/2009/oct/07/shorter-copyright-term Posner, Richard A., “Patent Trolls Be Gone”, Slate, 15 October 2012, http://www.slate.com/articles/news_and_politics/view_from_chicago/2012/10/patent_protection_how_to_fix_it.html The Economist, “Art for money’s sake”, 27 May 2004, http://www.economist.com/node/2714114 Have a good for or against point on this topic? Share it with us!
+
+**中文**
+
+版权保护的承诺激励人们投身于创造性事业。
+
+获利的动机驱动着人们大量的智力活动。如果一个人的艺术作品不能保证归自己所有，那么投资于其创作的动机就会大大减弱。在一个健全的版权制度中，个人可以放心地把时间投入到自己的追求中，因为他们完全知道自己的努力成果将由自己收获。有了这些保护，那些边缘情况的人——比如害怕把时间花在真正写一部小说上而不是多上几个小时班的人——也会抓住机会。即使在整个艺术产出中真正成功的数量非常少，致富和成名的机会也足以让人们去赌一把。如果他们的作品很快就会脱离他们的控制，他们就不太愿意这样做了。此外，其他人无法简单地把现有作品复制为自己的作品，这也意味着他们同样会被激励去开创新想法，而不是仅仅重复现有的想法。
+
+反方观点：艺术家通常渴望创作，无论有没有经济激励，他们都会……
+
+**Français**
+
+Les artistes méritent de tirer profit de leur travail, et le droit d’auteur leur offre une juste récompense.
+
+Les artistes qui produisent des idées et déploient des efforts pour créer un bien immatériel — qu’il s’agisse d’une nouvelle chanson, d’une peinture, d’un film, etc. — détiennent un droit de propriété sur ces idées et sur les produits qui en découlent. C’est l’effort visant à produire un bien réel, bien qu’immatériel, qui fait la différence entre une idée dans la tête de quelqu’un qu’il ou elle ne met pas en œuvre et une création artistique apportée au monde. Développer de nouvelles inventions, des chansons et des marques sont autant d’entreprises très exigeantes, qui demandent du temps, de l’énergie et souvent un investissement financier considérable, ne serait-ce qu’en raison des revenus auxquels on renonce pendant le temps nécessaire à la production de l’œuvre. Les artistes méritent, par principe, de bénéficier des produits de l’effort de création. Pour cette raison, priver quelqu’un d’un droit d’auteur à vie et transférable équivaut à voler un produit physique réel. Chacun est une chose réelle, même si l’un peut être touché tandis que l’autre est immatériel au sens physique. Le droit d’auteur est le seul véritable régime capable d’offrir aux artistes la protection nécessaire pour leur permettre de jouir des fruits de leurs travaux bien réels…

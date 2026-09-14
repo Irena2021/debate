@@ -1,62 +1,184 @@
 # Internet
 
-> **元信息**：英语 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Internet-debate) | 2026-09-14
+> **元信息**：英·中·法 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Internet-debate) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-互联网这项划时代发明到底是在帮人类进步，还是在悄悄损害我们的注意力、记忆力和独立思考能力。
+
+- 中：互联网彻底改变了我们的生活，但它到底是在让我们变聪明，还是在让我们变笨、变懒、失去专注力？
+- EN：The Internet has transformed every part of our lives, but is it making us smarter, or is it making us less focused, less capable, and less intelligent?
+- FR：Internet a transformé tous les aspects de notre vie, mais nous rend-il plus intelligents, ou plutôt moins concentrés, moins capables et moins intelligents ?
 
 ### 正方立场
-- 互联网的即时性和无处不在正在重塑大脑，削弱专注力、改变记忆方式，让人习惯浅层浏览而放弃深度阅读，还容易传播错误信息。
-- 数字成瘾问题严重，人们越来越难静下心来耐心思考。
-- 智商分数几十年来持续下降，恰好与互联网等技术的兴起同步，挪威研究甚至发现弗林效应出现逆转。
-- 我们越来越依赖语音助手和搜索引擎完成简单任务，正在丧失基本的生活与思考能力。
+
+- 中：互联网的速度和无处不在是前所未有的，它正在重新改造我们的大脑——让我们更难专注、记忆力下降、只愿意快速浏览而不愿深度阅读，还可能导致数字成瘾。
+- EN：The speed and ubiquity of the Internet is unlike any previous technology, and it is rewiring our brains for the worse — reducing our focus, changing our memory, promoting skimming over deep reading, and leading to digital addiction.
+- FR：La vitesse et l'omniprésence d'Internet sont sans précédent, et il modifie notre cerveau pour le pire : il réduit notre concentration, change notre mémoire, favorise la lecture rapide au détriment de la lecture profonde et peut mener à une dépendance numérique.
+
+- 中：智商分数几十年来一直在下降，而这恰好与互联网等技术的兴起同步——20世纪智商持续上升的「弗林效应」正在逆转，挪威研究发现每代人智商下降约7分。
+- EN：IQ scores have been falling for decades, coinciding with the rise of technologies like the Internet — the Flynn effect (IQ rising three points per decade in the 20th century) is reversing, with a Norwegian study finding a drop of about 7 IQ points per generation.
+- FR：Les scores de QI baissent depuis des décennies, en même temps que l'essor des technologies comme Internet — l'effet Flynn (une hausse de trois points de QI par décennie au 20e siècle) s'inverse, une étude norvégienne ayant constaté une baisse d'environ 7 points de QI par génération.
+
+- 中：互联网让我们连简单的事情都不会做了——从开灯、煮饭到记路、算时间，我们越来越依赖语音助手和搜索引擎，基本生活能力正在退化。
+- EN：The Internet is causing us to lose the ability to perform simple tasks — from turning on lights and cooking rice to remembering directions and telling time, we increasingly rely on voice assistants and search engines, and our basic life skills are declining.
+- FR：Internet nous fait perdre la capacité d'accomplir des tâches simples — de l'allumage des lumières à la cuisson du riz, en passant par la mémorisation d'itinéraires et la lecture de l'heure, nous dépendons de plus en plus des assistants vocaux et des moteurs de recherche, et nos compétences de base régressent.
 
 ### 反方立场
-- 历史上几乎所有新技术都曾被恐惧和抵制，但这些担忧大多被证明是毫无根据的，互联网也不例外。
-- 互联网为多元群体和弱势人群提供了平等获取信息的机会，用智商测试来评判“变笨”本身就带有种族、阶级和性别偏见。
-- 还有数千万人无法稳定上网，忽视这些人的处境让“互联网让人变蠢”的论点站不住脚。
-- 大脑运作方式改变不一定是坏事，把记忆“外包”给网络、只记住去哪里找信息，其实是善用工具资源的理性选择。
+
+- 中：几乎所有新技术刚出现时都被人恐惧，但这些恐惧大多没有根据——人们曾担心火车会伤害女性身体、电话会破坏社交，结果这些担忧都被证明是多余的。
+- EN：Virtually all new technologies have been feared when they first appeared, and those fears have been largely unfounded — people once worried that trains would harm women's bodies or that telephones would destroy social life, yet these fears proved groundless.
+- FR：Presque toutes les nouvelles technologies ont suscité la peur à leur apparition, et ces craintes se sont révélées largement infondées — on craignait autrefois que les trains nuisent au corps des femmes ou que le téléphone détruise la vie sociale, mais ces peurs se sont avérées sans fondement.
+
+- 中：互联网是多元群体和弱势群体的福音，它让更多人获得平等的信息 access——而且用智商测试来定义「聪明」本身就是有问题的，带有种族、阶级和性别偏见。
+- EN：The Internet is a gift to diverse and challenged populations, giving more people equal access to information — and using IQ tests to define "smart" is itself problematic, as these tests are racist, classist, and sexist.
+- FR：Internet est un cadeau pour les populations diverses et défavorisées, offrant à plus de gens un accès égal à l'information — et utiliser les tests de QI pour définir l'intelligence est en soi problématique, car ces tests sont racistes, classistes et sexistes.
+
+- 中：大脑运作方式改变不一定是坏事——我们只是把记忆「外包」给了互联网，把脑力用在更有价值的地方，就像不需要记住每个事实本身，只需要知道去哪里找到它。
+- EN：Changing how the brain works is not necessarily bad — we are simply outsourcing memory to the Internet and using our mental resources for more valuable things, like knowing where to find facts rather than memorizing the facts themselves.
+- FR：Changer le fonctionnement du cerveau n'est pas forcément mauvais — nous externalisons simplement la mémoire vers Internet et utilisons nos ressources mentales pour des choses plus utiles, comme savoir où trouver les faits plutôt que de les mémoriser.
 
 ### 写作借鉴
-- “The Internet has reduced our ability to focus; changed how our memory functions; promoted skimming text over deep, critical reading.”——用途：引出正方论点，用排比列举具体危害。
-- “Virtually all new technologies, the Internet included, have been feared, and those fears have been largely unfounded.”——用途：引出反方论点，用历史规律反驳技术恐慌。
-- “Changing how the brain works and how we access and process information is not necessarily bad.”——用途：让步转折，承认变化存在但重新定义其性质。
+
+- EN：It takes patience and concentration to...
+- 中：用于强调某种能力需要付出努力才能获得，适合在论证「互联网削弱了某种能力」时引出对比。
+- FR：Il faut de la patience et de la concentration pour...
+
+- EN：This might sound a little depressing, but it makes perfect sense if we are making the most of the tools and resources available to us.
+- 中：用于「让步转折」——先承认对方观点听起来有道理，再转折说明其实合理，适合反驳时使用。
+- FR：Cela peut sembler un peu déprimant, mais cela a parfaitement du sens si nous tirons le meilleur parti des outils et des ressources à notre disposition.
+
+- EN：The basis of the argument that... is problematic and ignores...
+- 中：用于「驳斥对方论据」——指出对方论证的基础有问题，并且忽略了某些重要群体或事实。
+- FR：Le fondement de l'argument selon lequel... est problématique et ignore...
 
 ## 📖 背景 Background
 
+**English**
+
 Few observers would deny that the Internet has been one of the most significant inventions in modern history. Developed in the 1960s from a U.S. Department of Defense project and network called ARPANET , mainly for academic and research purposes, the all-encompassing Internet system of communication that evolved from that network has left no area of the world, no area of life, and no aspect of human activity and interaction untouched if not transformed in radical ways. But what about the negative aspects of this revolutionary development?
+
+**中文**
+
+很少有观察者会否认互联网是现代历史上最重要的发明之一。它于20世纪60年代由美国国防部的一个名为ARPANET的项目和网络发展而来，主要用于学术和研究目的。从这个网络演变而来的包罗万象的互联网通信系统，已经触及世界的每一个角落、生活的每一个领域以及人类活动和互动的每一个方面，即使没有以激进的方式彻底改变它们。但是，这一革命性发展的负面影响又如何呢？
+
+**Français**
+
+Peu d'observateurs nieraient qu'Internet a été l'une des inventions les plus importantes de l'histoire moderne. Développé dans les années 1960 à partir d'un projet et d'un réseau du département de la Défense des États-Unis appelé ARPANET, principalement à des fins académiques et de recherche, le système de communication Internet global qui a évolué à partir de ce réseau n'a laissé aucune région du monde, aucun domaine de la vie et aucun aspect de l'activité et de l'interaction humaines intacts, voire transformés de manière radicale. Mais qu'en est-il des aspects négatifs de ce développement révolutionnaire ?
 
 ## ✅ 正方论点 Pros
 
 ### Pro 1: The speed and ubiquity of the Internet is different from previous breakthrough technologies and is reprogramming our brains for the worse.
 
+**English**
+
 The Internet has reduced our ability to focus; changed how our memory functions; promoted skimming text over deep, critical reading (which, in turn, promotes dangerously false information); and changed how we interact with people. Digital addiction is also a concern. In the 2020 update to The Shallows: What the Internet Is Doing to Our Brains , Nicholas Carr summarizes, “It takes patience and concentration to evaluate new information—to gauge its accuracy, to weigh its relevance and worth, to put it into context—and the Internet, by design, subverts patience and concentration. When the brain is overloaded by stimuli, as it usually is when we’re peering into a network-connected computer screen, attention splinters, thinking becomes superficial, and memory suffers. We become less reflective and more impulsive. Far from enhancing human intelligence, I argue, the Internet degrades it.” A 2019 study found that the Internet “can produce both acute and sustained alterations” in three areas: “a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real-world social processes creates a new interplay between the Internet and our social lives, including our self-concepts and self-esteem.” Moreover, several studies have found that not only do people reading digital text skim more and retain less information than those reading text printed on paper, but that the effects of digital reading span from less reading comprehension to less in-depth textual analysis to less empathy for others. Reading less critically not only results in low English grades, but also in readers believing and proliferating false information, as well as misunderstanding potentially important documents such as contracts and voter referendums. Bonnie Kristian, contributing editor at The Week , also noted the Internet’s destruction of interpersonal relationships, especially during the COVID-19 pandemic: Many people have “a lack of intimate friendships and hobbyist communities. In the absence of that emotional connection and healthy recreational time use, this media engagement can become a bad substitute. The memes become the hobby. The Facebook bickering supplants the relationships. And it’s all moving so fast—tweet, video, meme, Tucker, tweet, video, meme, Maddow—the change goes unnoticed. The brain breaks.” Because the Internet touches nearly everything we do now, the fundamental ways our brains process information are changing to accommodate and facilitate the fast, surface-level, distracting nature of the Internet, to the detriment of ourselves and society.
+
+**中文**
+
+正方论点1：互联网的速度和无处不在与以往的突破性技术不同，它正在以更糟的方式重新编程我们的大脑。
+
+互联网降低了我们的专注能力；改变了我们记忆的运作方式；促使人们浏览文本而非深入、批判性地阅读（这反过来又助长了危险的虚假信息）；并改变了我们与人互动的方式。数字成瘾也是一个令人担忧的问题。在2020年更新的《浅薄：互联网如何改变我们的大脑》一书中，尼古拉斯·卡尔总结道：“评估新信息——衡量其准确性、权衡其相关性和价值、将其置于背景中——需要耐心和专注，而互联网从设计上就颠覆了耐心和专注。当大脑被刺激所淹没时——就像我们盯着联网的电脑屏幕时通常发生的那样——注意力就会分散，思维变得肤浅，记忆力也会受损。我们变得不那么善于反思，更加冲动。我认为，互联网远非增强人类智力，反而使其退化。”2019年的一项研究发现，互联网“能够产生急性和持续性的改变”，涉及三个方面：“a) 注意力能力，因为不断演变的……
+
+**Français**
+
+Argument pour 1 : La vitesse et l'omniprésence d'Internet sont différentes des technologies révolutionnaires précédentes et reprogramment notre cerveau pour le pire.
+
+Internet a réduit notre capacité de concentration ; modifié le fonctionnement de notre mémoire ; favorisé le survol du texte au détriment d'une lecture approfondie et critique (ce qui, à son tour, favorise la désinformation dangereuse) ; et changé notre façon d'interagir avec les gens. La dépendance numérique est également une préoccupation. Dans la mise à jour de 2020 de The Shallows : What the Internet Is Doing to Our Brains, Nicholas Carr résume : « Il faut de la patience et de la concentration pour évaluer de nouvelles informations — pour jauger leur exactitude, peser leur pertinence et leur valeur, les replacer dans leur contexte — et Internet, par sa conception même, subvertit la patience et la concentration. Lorsque le cerveau est surchargé de stimuli, comme c'est généralement le cas lorsque nous fixons un écran d'ordinateur connecté à un réseau, l'attention se fragmente, la pensée devient superficielle et la mémoire souffre. Nous devenons moins réfléchis et plus impulsifs. Loin d'améliorer l'intelligence humaine, je soutiens qu'Internet la dégrade. » Une étude de 2019 a révélé qu'Internet « peut produire des altérations à la fois aiguës et durables » dans trois domaines : « a) les capacités attentionnelles, car l'évolution constante…
 
 ### Pro 2: IQ scores have been falling for decades, coinciding with the rise of technologies, including the Internet.
 
+**English**
+
 For the majority of the 20th century, IQ scores rose an average of three points per decade, which is called the Flynn effect, after James R. Flynn, a New Zealand intelligence researcher. Flynn believes this constant increase of IQ was related to better nutrition, health care, and education. However, a 2018 Norwegian study found a reversal of the Flynn effect, with a drop of 7 IQ points per generation because of environmental, social, and lifestyle changes, including the effect of too much technological stimulation; specifically, the Flynn effect hit its peak for people born during the mid-1970s but has declined ever since, which coincides, most significantly, with the rise of the Internet. As summarized by Evan Horowitz, director of research communication at FCLT Global (a financial think tank), “People are getting dumber. That’s not a judgment; it’s a global fact.” Flynn noted a drop in IQ points among British male teenagers and hypothesized a cause: “It looks like there is something screwy among British teenagers. What we know is that the youth culture is more visually oriented around computer games than they are in terms of reading and holding conversations.” Further, the Internet makes us believe we can multitask, a skill scientists have found humans do not have. Our functional IQ (our ability to perform everyday tasks) drops 10 points when we are distracted by multiple browser tabs, email, a chat app, a video of puppies, a text document, all while listening to music, smart speakers, and waiting on a video call. The loss of 10 IQ points is more than the effect of a lost night’s sleep and more than double the effect of smoking marijuana. Not only can we not process all of these functions at once, but trying to do so degrades our performance in each. Trying to complete two tasks at the same time takes three to four times as long, each switch between tasks adds 20 to 25 seconds, and the effect magnifies with each new task. The Internet has destroyed our ability to focus on and satisfactorily complete one task at a time.
+
+**中文**
+
+正方论点2：智商分数几十年来一直在下降，恰逢包括互联网在内的技术兴起。
+
+在20世纪的大部分时间里，智商分数平均每十年上升三点，这被称为弗林效应，以新西兰智力研究员詹姆斯·R·弗林命名。弗林认为智商的持续增长与更好的营养、医疗保健和教育有关。然而，2018年挪威的一项研究发现弗林效应出现逆转，由于环境、社会和生活方式的变化，包括过多技术刺激的影响，每代人智商下降7点；具体来说，弗林效应在20世纪70年代中期出生的人群中达到顶峰，此后一直在下降，而这一下降最显著地与互联网的兴起相吻合。正如FCLT Global（一家金融智库）研究传播总监埃文·霍罗维茨所总结的：“人们正在变得越来越笨。这不是一种评判，而是一个全球性的事实。”弗林注意到英国男性青少年智商分数的下降，并推测了一个原因：“看起来英国青少年中存在某种问题。我们所知道的是，青年文化更加注重视觉……”
+
+**Français**
+
+Argument pour 2 : Les scores de QI baissent depuis des décennies, ce qui coïncide avec l'essor des technologies, y compris Internet.
+
+Pendant la majeure partie du XXe siècle, les scores de QI ont augmenté en moyenne de trois points par décennie, ce qu'on appelle l'effet Flynn, du nom de James R. Flynn, un chercheur néo-zélandais en intelligence. Flynn estime que cette augmentation constante du QI était liée à une meilleure nutrition, aux soins de santé et à l'éducation. Cependant, une étude norvégienne de 2018 a constaté une inversion de l'effet Flynn, avec une baisse de 7 points de QI par génération en raison de changements environnementaux, sociaux et de mode de vie, y compris l'effet d'une stimulation technologique excessive ; plus précisément, l'effet Flynn a atteint son apogée pour les personnes nées au milieu des années 1970 mais a diminué depuis, ce qui coïncide, de manière très significative, avec l'essor d'Internet. Comme le résume Evan Horowitz, directeur de la communication de la recherche chez FCLT Global (un groupe de réflexion financier) : « Les gens deviennent plus bêtes. Ce n'est pas un jugement, c'est un fait mondial. » Flynn a noté une baisse des points de QI chez les adolescents britanniques et a émis une hypothèse sur la cause : « On dirait qu'il y a quelque chose qui cloche chez les adolescents britanniques. Ce que nous savons, c'est que la culture jeune est plus visuelle…
 
 ### Pro 3: The Internet is causing us to lose the ability to perform simple tasks.
 
+**English**
+
 “Hey, Alexa, turn on the bathroom light… play my favorite music playlist, cook rice in the Instant Pot… read me the news… what’s the weather today…” “Hey, Siri, set a timer… call my sister… get directions to Los Angeles… what time is it in Tokyo… who stars in that TV show I like…” While much of the technology is too new to have been thoroughly researched, we rely on the Internet for everything from email to seeing who is at our front doors to looking up information, so much so that we forget how to or never learn to complete simple tasks. And the accessibility of information online makes us believe we are smarter than we are. In the 2018 election, Virginia state officials learned that young adults in Generation Z wanted to vote by mail but did not know where to buy stamps, because they are so used to communicating online rather than via U.S. mail. We require GPS maps narrated by the voice of a digital assistant to drive across the towns in which we have lived for years. Nora Newcombe, professor of psychology at Temple University, explains, “GPS devices cause our navigational skills to atrophy, and there’s increasing evidence for it. The problem is that you don’t see an overview of the area, and where you are in relation to other things. You’re not actively navigating—you’re just listening to the voice.” Millennials are more likely to use preprepared foods, use the Internet for recipes, and use a meal delivery service. They are least likely to know offhand how to prepare lasagna, carve a turkey, or fry chicken, and fewer reported being a “good cook” than Gen Xers or Baby Boomers, who are older and less likely to rely on the Internet for cooking tasks. Using the Internet to store information we previously would have committed to memory (how to roast a chicken, for example) is “offloading.” According to Benjamin Storm, associate professor of psychology at the University of California at Santa Cruz, “Offloading robs you of the opportunity to develop the long-term knowledge structures that help you make creative connections, have novel insights and deepen your knowledge.”
+
+**中文**
+
+正方论点3：互联网正在导致我们丧失完成简单任务的能力。
+
+“嘿，Alexa，打开浴室灯……播放我最喜欢的音乐播放列表，用Instant Pot煮米饭……给我读新闻……今天天气怎么样……”“嘿，Siri，设置一个计时器……给我姐姐打电话……获取去洛杉矶的路线……东京现在几点……我喜欢的那部电视剧是谁主演的……”虽然许多技术太新，尚未得到彻底研究，但我们依赖互联网做一切事情，从发邮件到查看谁在我们前门，再到查找信息，以至于我们忘记了如何完成或从未学会完成简单的任务。而且，网上信息的便捷获取让我们相信自己比实际更聪明。在2018年选举中，弗吉尼亚州官员了解到，Z世代的年轻人想通过邮寄投票，但不知道在哪里买邮票，因为他们太习惯于在线交流而不是通过美国邮政。我们需要数字助手语音播报的GPS地图才能开车穿过我们已居住多年的城镇。天普大学心理学教授诺拉·纽科姆解释说：“GPS设备导致我们的导航能力萎缩，而且……”
+
+**Français**
+
+Argument pour 3 : Internet nous fait perdre la capacité d'accomplir des tâches simples.
+
+« Hé Alexa, allume la lumière de la salle de bain… joue ma playlist musicale préférée, fais cuire du riz dans l'Instant Pot… lis-moi les nouvelles… quel temps fait-il aujourd'hui… » « Hé Siri, mets un minuteur… appelle ma sœur… donne-moi l'itinéraire pour Los Angeles… quelle heure est-il à Tokyo… qui joue dans cette série télé que j'aime… » Bien qu'une grande partie de cette technologie soit trop récente pour avoir été étudiée en profondeur, nous dépendons d'Internet pour tout, de l'e-mail à voir qui est à notre porte en passant par la recherche d'informations, à tel point que nous oublions comment accomplir des tâches simples ou ne les apprenons jamais. Et l'accessibilité des informations en ligne nous fait croire que nous sommes plus intelligents que nous ne le sommes. Lors de l'élection de 2018, les responsables de l'État de Virginie ont appris que les jeunes adultes de la génération Z voulaient voter par correspondance mais ne savaient pas où acheter des timbres, car ils sont tellement habitués à communiquer en ligne plutôt que par la poste américaine. Nous avons besoin de cartes GPS narrées par la voix d'un assistant numérique pour conduire à travers les villes où nous vivons depuis des années. Nora Newcombe, professeure de psychologie à l'université Temple, explique : « Les appareils GPS font atrophier nos compétences de navigation, et il…
 
 ## ❌ 反方论点 Cons
 
 ### Con 1: Virtually all new technologies, the Internet included, have been feared, and those fears have been largely unfounded.
 
+**English**
+
 Many technologies and inventions considered commonplace today were once thought to be extremely dangerous to users and harmful to society. The new technologies were met with technophobia, as people shunned and feared them. For example, some feared that women could be harmed by riding trains, because their “bodies were not designed to go at 50 miles an hour”; their “uteruses would fly out of [their] bodies as they were accelerated to that speed.” Others feared that bodies, regardless of gender, would simply melt at such a high speed. Information technologies have not escaped the centuries-old technophobia (. Greek philosopher Socrates was afraid that writing would transplant knowledge and memory. The printing press created a “confusing and harmful abundance of books” that, according to philosopher Gottfried Wilhelm, “might lead to a fall back into barbarism.” Similarly, the newspaper was going to socially isolate people as they read news alone instead of gathering at the church’s pulpit to get information. The telegraph was “too fast for the truth,” and its “constant diffusion of statements in snippets” was bemoaned. The telephone was feared to create a “race of left-eared people—that is, of people who hear better with the left than with the right ear.” We would become “nothing but transparent heaps of jelly to each other,” allowing basic manners to degrade. Schools were going to “exhaust the children’s brains and nervous systems with complex and multiple studies, and ruin their bodies by protracted imprisonment,” according to an 1883 medical journal. Excessive academic study by anyone was a sure path to mental illness. The radio was “loud and unnecessary noise,” and children had “developed the habit of dividing attention between the humdrum preparation of their school assignments and the compelling excitement of the loudspeaker.” Television was going to be the downfall of radio, conversation, reading, and family life. Calculators were going to destroy kids’ grasp of math concepts. The VCR was going to be the end of the film industry. Motion Picture Association of America’s (MPAA) Jack Valenti complained to Congress, “I say to you that the VCR is to the American film producer and the American public as the [serial killer] Boston Strangler is to the woman home alone.” Clinical and neuropsychologist Vaughn Bell noted, “Worries about information overload are as old as information itself, with each generation reimagining the dangerous impacts of technology on mind and brain. From a historical perspective, what strikes home is not the evolution of these social concerns, but their similarity from one century to the next, to the point where they arrive anew with little having changed except the label.”
+
+**中文**
+
+反对观点1：几乎所有新技术，包括互联网，都曾令人恐惧，而这些恐惧在很大程度上是没有根据的。
+
+许多今天被视为司空见惯的技术和发明，曾经被认为对使用者极其危险、对社会极其有害。新技术遭遇了技术恐惧症，人们回避并害怕它们。例如，有人担心女性乘坐火车会受到伤害，因为她们的“身体并非为每小时50英里的速度而设计”；她们的“子宫会在加速到那种速度时飞出身体”。还有人担心，无论性别如何，身体在如此高速下会直接融化。信息技术也未能逃脱延续数百年的技术恐惧症。希腊哲学家苏格拉底担心书写会取代知识和记忆。印刷机造成了“令人困惑且有害的书籍泛滥”，哲学家戈特弗里德·威廉认为这“可能导致人类重新陷入野蛮状态”。同样，报纸被认为会让人们在独自阅读新闻时与社会隔离，而不是聚集在教堂讲坛前获取信息。电报“对真相来说太快了”，而它的……
+
+**Français**
+
+Argument contre 1 : Pratiquement toutes les nouvelles technologies, y compris Internet, ont suscité la peur, et ces peurs étaient en grande partie infondées.
+
+Beaucoup de technologies et d'inventions considérées aujourd'hui comme banales étaient autrefois jugées extrêmement dangereuses pour leurs utilisateurs et nuisibles à la société. Les nouvelles technologies ont été accueillies par la technophobie, les gens les évitant et les craignant. Par exemple, certains craignaient que les femmes ne soient blessées en montant dans un train, parce que leur « corps n'était pas conçu pour aller à 80 kilomètres à l'heure » ; leur « utérus s'envolerait de leur corps lorsqu'elles seraient accélérées à cette vitesse ». D'autres craignaient que le corps, quel que soit son sexe, ne fonde simplement à une vitesse aussi élevée. Les technologies de l'information n'ont pas échappé à cette technophobie vieille de plusieurs siècles. Le philosophe grec Socrate craignait que l'écriture ne remplace le savoir et la mémoire. L'imprimerie a créé une « abondance confuse et nuisible de livres » qui, selon le philosophe Gottfried Wilhelm, « pourrait conduire à un retour à la barbarie ». De même, le journal allait isoler socialement les gens, car ils liraient les nouvelles seuls au lieu de se rassembler devant la chaire de l'église pour s'informer. Le télégraphe était « trop rapide pour la vérité », et son……
 
 ### Con 2: The Internet is a gift to diverse and challenged populations needing equal access to information.
 
+**English**
+
 The basis of the argument that the Internet is “making us stupid” is problematic and ignores large populations of people. First, the idea of “stupidity” versus intelligence relies heavily upon IQ and other standardized tests, which are racist, classist, and sexist. Additionally, somewhere between 21 and 42 million Americans do not have reliable broadband access to the Internet at home, or between 6 percent and 13 percent. And 49 percent of the US population (162 million people) are not using the Internet at broadband speeds. Thus we have to question who the “us” includes when we ask if the Internet is “making us stupid.” For those who do have access, the Internet is an impressive tool. Kristin Jenkins, executive director of BioQUEST Curriculum Consortium, explained, “Access to information is enormously powerful, and the Internet has provided access to people in a way we have never before experienced…Information that was once accessed through print materials that were not available to everyone and often out of date is now much more readily available to many more people.” Social media in particular offers an accessible mode of communication for many people with disabilities. Deaf and hearing-impaired people don’t have to worry if a hearing person knows sign language or will be patient enough to repeat themselves for clarification. The Internet also offers spaces where people with similar disabilities can congregate to socialize, offer support, or share information, all without leaving home, an additional benefit for those for whom leaving home is difficult or impossible. Older adults use the Internet to carry out a number of everyday tasks, which is especially valuable if they don’t have local family, friends, or social services to help. Older adults who use the Internet were also more likely to be tied to other people socially via hobby, support, or other groups.
+
+**中文**
+
+反对观点2：互联网是送给需要平等获取信息的多元且处境不利人群的礼物。
+
+认为互联网“让我们变蠢”这一论点的基础是有问题的，而且忽视了大量人群。首先，“愚蠢”与聪明的概念严重依赖智商和其他标准化测试，而这些测试带有种族主义、阶级主义和性别主义色彩。此外，大约有2100万到4200万美国人（即6%到13%）在家中无法可靠地宽带上网。而49%的美国人口（1.62亿人）没有以宽带速度使用互联网。因此，当我们问互联网是否“让我们变蠢”时，我们必须质疑这个“我们”包括谁。对于那些确实能够上网的人来说，互联网是一个了不起的工具。BioQUEST课程联盟执行主任克里斯汀·詹金斯解释说：“获取信息具有巨大的力量，而互联网以前所未有的方式为人们提供了获取信息的途径……过去只能通过并非人人都能获得、而且常常过时的印刷材料获取的信息，现在对更多人来说都更容易获得了。”社会……
+
+**Français**
+
+Argument contre 2 : Internet est un cadeau pour les populations diverses et défavorisées qui ont besoin d'un accès égal à l'information.
+
+Le fondement de l'argument selon lequel Internet « nous abrutit » est problématique et ignore de vastes populations. D'abord, l'idée de « stupidité » opposée à l'intelligence repose fortement sur le QI et d'autres tests standardisés, qui sont racistes, classistes et sexistes. De plus, entre 21 et 42 millions d'Américains, soit entre 6 % et 13 %, n'ont pas d'accès haut débit fiable à Internet chez eux. Et 49 % de la population américaine (162 millions de personnes) n'utilise pas Internet à des vitesses haut débit. Nous devons donc nous demander qui est inclus dans ce « nous » lorsque nous demandons si Internet « nous abrutit ». Pour ceux qui y ont accès, Internet est un outil impressionnant. Kristin Jenkins, directrice exécutive du BioQUEST Curriculum Consortium, explique : « L'accès à l'information est extrêmement puissant, et Internet a donné accès à l'information d'une manière que nous n'avions jamais connue auparavant… Des informations autrefois accessibles par des documents imprimés qui n'étaient pas disponibles pour tout le monde et souvent dépassés sont maintenant beaucoup plus facilement accessibles à bien plus de personnes. » Social……
 
 ### Con 3: Changing how the brain works and how we access and process information is not necessarily bad.
 
+**English**
+
 Neuroscientist Erman Misirlisoy argues that “Internet usage has ‘Googlified’ our brains, making us more dependent on knowing where to access facts and less able to remember the facts themselves. This might sound a little depressing, but it makes perfect sense if we are making the most of the tools and resources available to us. Who needs to waste their mental resources on remembering that an ‘ostrich’s eye is bigger than its brain,’ when the Internet can tell us at a moment’s notice? Let’s save our brains for more important problems…[And] as with practically everything in the world, moderation and thoughtful consumption are likely to go a long way.” While we do tend to use the Internet to look up more facts now, consider what we did before the Internet. Did we know this information? Or did we consult a cookbook or call a friend who knows how to roast chicken? Benjamin C. Storm, associate professor of psychology at the University of California at Santa Cruz, explains, “It remains to be seen whether this increased reliance on the Internet is in any way different from the type of increased reliance one might experience on other information sources.” As with anything in life, moderation and smart usage play a role in the Internet’s effects on us. Nir Eyal, author of Hooked: How to Build Habit-Forming Products (2013), summarizes, “Technology is like smoking cannabis. Ninety percent of people who smoke cannabis do not get addicted. But the point is that you’re going to get some people who misuse a product; if it’s sufficiently good and engaging, that’s bound to happen.” We, and the Internet, have to learn to moderate our intake. Heather Kirkorian, associate professor in early childhood psychology at the University of Wisconsin Madison, offers another example: “the effects of social media depend on whether we use them to connect with loved ones throughout the day and get social support versus [use them to] compare our lives to the often highly filtered lives of others and expose ourselves to bullying or other negative content.”
+
+**中文**
+
+反对观点3：改变大脑的运作方式以及我们获取和处理信息的方式，未必是坏事。
+
+神经科学家埃尔曼·米西尔利索伊认为：“使用互联网已经让我们的头脑‘谷歌化’，使我们更加依赖知道在哪里获取事实，而更不擅长记住事实本身。这听起来可能有点令人沮丧，但如果我们充分利用可用的工具和资源，这完全合理。当互联网随时都能告诉我们‘鸵鸟的眼睛比它的大脑还大’时，谁还需要浪费脑力去记住它呢？让我们把大脑留给更重要的问题吧……而且，就像世界上几乎所有事情一样，适度和有思考的消费很可能大有帮助。”虽然我们现在确实倾向于用互联网查找更多事实，但想想互联网出现之前我们是怎么做的。我们本来就知道这些信息吗？还是我们查阅烹饪书，或者打电话给会烤鸡的朋友？加州大学圣克鲁兹分校心理学副教授本杰明·C·斯托姆解释说：“这种对互联网日益增加的依赖是否与那种……不同，还有待观察。”
+
+**Français**
+
+Argument contre 3 : Changer le fonctionnement du cerveau et notre façon d'accéder à l'information et de la traiter n'est pas nécessairement mauvais.
+
+Le neuroscientifique Erman Misirlisoy soutient que « l'usage d'Internet a “googlisé” notre cerveau, nous rendant plus dépendants du fait de savoir où accéder aux informations et moins capables de nous souvenir des faits eux-mêmes. Cela peut sembler un peu déprimant, mais c'est parfaitement logique si nous tirons le meilleur parti des outils et des ressources à notre disposition. Qui a besoin de gaspiller ses ressources mentales à retenir que “l'œil de l'autruche est plus gros que son cerveau”, quand Internet peut nous le dire en un instant ? Gardons notre cerveau pour des problèmes plus importants… [Et] comme pour pratiquement tout dans le monde, la modération et une consommation réfléchie sont susceptibles d'être très utiles. » Même si nous avons tendance à utiliser Internet pour rechercher davantage de faits aujourd'hui, pensons à ce que nous faisions avant Internet. Connaissions-nous ces informations ? Ou consultions-nous un livre de cuisine, ou appelions-nous un ami qui sait comment rôtir un poulet ? Benjamin C. Storm, professeur associé de psychologie à l'Université de Californie à Santa Cruz, explique : « Il reste à voir si cette dépendance accrue à Internet est en quoi que ce soit différente du type de……
 
 ## 📚 引用来源 Sources
 

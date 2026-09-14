@@ -1,83 +1,269 @@
 # This House would protect aboriginal culture
 
-> **元信息**：英语 | 来源：iDebate Debatabase | 分类：Culture | [原文](https://idebate.net/this-house-would-protect-aboriginal-culture~b765/) | 2026-09-14
+> **元信息**：英·中·法 | 来源：iDebate Debatabase | 分类：Culture | [原文](https://idebate.net/this-house-would-protect-aboriginal-culture~b765/) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题在争论：政府是否应该出手保护原住民（土著）文化，还是应该让原住民文化自行演变、政府不必干预。
+
+- 中：本辩题讨论政府是否应当出手保护原住民文化，还是应让原住民群体自行决定其文化的存续与演变。
+- EN：This motion asks whether governments should actively protect aboriginal culture, or whether indigenous groups should be left to preserve and shape their own culture.
+- FR：Ce sujet demande si les gouvernements devraient protéger activement la culture autochtone, ou s'il faudrait laisser les peuples autochtones préserver et façonner eux-mêmes leur propre culture.
 
 ### 正方立场
-- 保护原住民文化对全社会都有好处，因为原住民的传统习俗与土地紧密相关，学习这些知识（如可持续狩猎、动物利用、相关仪式）能让所有人受益。
-- 现有国家（如美国、加拿大、澳大利亚）历史上通过立法、屠杀、强制分离儿童等手段摧毁了原住民社会，因此有义务去逆转自己造成的伤害。
-- 保护被驱逐的文化有助于防止未来的压迫，因为“文化优越感”往往是驱逐和虐待原住民的根源（如博茨瓦纳总统称布须曼人为“石器时代生物”）。
-- 政府其实每天都在保护文化（如学校教传统艺术、国家历史、指定阅读书单），所以把同样的保护延伸到原住民文化上并不是什么过分的举动。
+
+- 中：保护原住民文化对全社会都有好处，因为原住民文化与土地紧密相连，传统知识（如狩猎、可持续食物供给）能让所有人受益。
+- EN：Protecting indigenous culture benefits all of society, because native customs are tied to the land and traditional knowledge—such as hunting and sustainable food supply—can benefit everyone.
+- FR：Protéger la culture autochtone profite à toute la société, car les coutumes autochtones sont liées à la terre et les savoirs traditionnels—comme la chasse et l'approvisionnement alimentaire durable—peuvent profiter à tous.
+
+- 中：现有国家曾通过法律、暴力等手段摧毁原住民社会，因此有责任纠正自己造成的后果。
+- EN：Existing states are responsible for destroying indigenous populations and societies, so they have an obligation to reverse the effects of their own actions.
+- FR：Les États actuels sont responsables de la destruction des peuples et des sociétés autochtones, et ils ont donc l'obligation de réparer les conséquences de leurs propres actions.
+
+- 中：保护被驱逐者的文化有助于防止未来的压迫，因为「文化优越感」往往是驱逐和虐待的根源。
+- EN：Preserving displaced cultures helps prevent future oppression, because the belief in cultural superiority is almost always what drives displacement and abuse.
+- FR：Préserver les cultures déplacées aide à prévenir l'oppression future, car la croyance en la supériorité culturelle est presque toujours ce qui motive le déplacement et les mauvais traitements.
+
+- 中：政府本来就在保护文化（如学校课程、历史教育），所以把同样的保护延伸到原住民文化并不算越界。
+- EN：Governments already protect culture every day—through school curricula and national history—so extending the same protection to aboriginal culture is not a big step.
+- FR：Les gouvernements protègent déjà la culture au quotidien—par les programmes scolaires et l'histoire nationale—donc étendre cette même protection à la culture autochtone n'est pas un grand pas.
 
 ### 反方立场
-- 文化没有 tangible（实实在在的）好处，不值得用政府资金去保护；如果原住民自己觉得文化重要，他们可以自己出钱出力，而政府的首要任务应是改善医疗、治安等生活服务。
-- 政府干预并非保护文化的必要条件；很多移民群体（如加拿大、美国的族裔社区）在没有政府帮助的情况下，通过宗教教育、在家说母语、周末学校、社区合作等方式成功保留了文化。
-- 文化会随时间演变，并受生活水平提高和接触其他文化的影响；政府若强行“保护”，反而会妨碍原住民按自己的方式塑造适应现代的身份（如美澳政府划保留地反而带来问题）。
-- 文化是极其复杂的概念，包含饮食、服饰、节日、神灵、亲子关系、婚恋习俗、性别角色、医疗、教育、法律等方方面面，政府很难全面批准或干预。
+
+- 中：文化没有可衡量的实际好处，不值得用纳税人的钱去保护；政府的首要任务应是医疗、治安等提升生活水平的服务。
+- EN：Culture provides no tangible benefit that justifies spending government funds on it; a government's first priority must be services like healthcare and law enforcement that improve living standards.
+- FR：La culture n'offre aucun avantage concret qui justifie l'utilisation des fonds publics ; la priorité d'un gouvernement doit être des services comme la santé et la sécurité qui améliorent le niveau de vie.
+
+- 中：政府干预并非保护文化的必要条件，许多移民群体在没有政府资助的情况下，靠家庭教育、母语和社区合作就成功保留了自己的文化。
+- EN：Government interference is not necessary to preserve culture; many immigrant groups keep their culture alive without government aid, through home education, their native language, and community cooperation.
+- FR：L'intervention du gouvernement n'est pas nécessaire pour préserver une culture ; de nombreux groupes d'immigrants maintiennent leur culture sans aide gouvernementale, grâce à l'éducation familiale, à leur langue maternelle et à la coopération communautaire.
+
+- 中：文化会随时间演变，政府若强行「保护」，反而会妨碍原住民按自己的方式塑造适应现代生活的身份认同。
+- EN：Culture evolves over time, and if a government tries to "preserve" it, it interferes with the group's ability to shape its own identity to fit the modern world.
+- FR：La culture évolue avec le temps, et si un gouvernement tente de la « préserver », il nuit à la capacité du groupe à façonner sa propre identité pour s'adapter au monde moderne.
+
+- 中：文化是极其复杂的概念，涉及家庭关系、性别角色、教育、法律等方方面面，政府很难也不应笼统地加以批准或保护。
+- EN：Culture is an incredibly complex concept—it covers parent-child relationships, gender roles, education, and law—so governments can rarely, and should rarely, give it blanket approval.
+- FR：La culture est un concept extrêmement complexe—elle touche aux relations parents-enfants, aux rôles de genre, à l'éducation et au droit—donc les gouvernements peuvent rarement, et devraient rarement, lui accorder une approbation globale.
 
 ### 写作借鉴
-- 引出论点：*All of society benefits from protection of indigenous culture.*（用于开头提出正方核心论点）
-- 让步转折：*While indigenous populations may feel strongly that their unique culture is worth preserving, a government's first priority must be services that improve the standard of living for its citizens.*（用于承认对方部分合理性后转折到反方立场）
-- 总结：*Culture evolves over time and is largely impacted by improved standards of living and exposure to other cultures.*（用于结尾段总结反方核心逻辑）
+
+- EN：All of society benefits from the protection of indigenous culture.
+- 中：用于「引出论点」——开门见山提出己方核心主张，适合放在段首。
+- FR：Toute la société profite de la protection de la culture autochtone. (pour introduire un argument)
+
+- EN：Existing states are responsible for the destruction of indigenous populations, and thereby have an obligation to help reverse the effects of their actions.
+- 中：用于「因果论证」——先指出责任来源，再推出应尽的义务，逻辑链清晰。
+- FR：Les États existants sont responsables de la destruction des populations autochtones et ont donc l'obligation d'aider à en inverser les effets. (pour un raisonnement de cause à effet)
+
+- EN：If indigenous populations feel strongly that their unique culture is worth preserving, they may direct their attention and funds towards this endeavor.
+- 中：用于「让步转折」——先承认对方关切，再指出其可自行解决，从而削弱对方论点。
+- FR：Si les populations autochtones estiment que leur culture mérite d'être préservée, elles peuvent y consacrer leurs propres ressources. (pour une concession suivie d'un contre-argument)
 
 ## 📖 背景 Background
 
+**English**
+
 Modern nations such as Australia, Canada, and the United States have struggled in their efforts to establish a fair and stable relationship with aboriginal, or indigenous, groups. In the past three hundred years, the aforementioned governments have often abused these groups through unfair and broken treaties, reckless dissemination of disease, and often direct violence. Consequently, these groups make up a small portion of the population today and are often plagued by problems with substance abuse and poor quality of life. Governments also struggle to establish a fair level of jurisdiction over said groups; while these nation-states recognize that indigenous groups were forced to submit to the government's authority, they are not willing to let indigenous groups break any law they dislike. This debate centers on the question of whether governments should act to preserve indigenous culture; this protection can take the form of land reservations set aside for aboriginals. However, it can also include language programs or funding for the arts so that, despite heavy losses in numbers over the generations, the remainder of these indigenous groups is able to pass down their culture. Protection of indigenous culture may also include special legal exemption from particular laws that are contrary to indigenous traditions. While many argue that aboriginals are entitled to special treatment because of a blemished past, others argue that this past is not a valid reason for special cultural protection.
+
+**中文**
+
+澳大利亚、加拿大和美国等现代国家在努力与原住民群体建立公平稳定的关系方面一直举步维艰。在过去三百年里，上述政府常常通过不公平且被违背的条约、肆意传播疾病以及往往直接的暴力来侵害这些群体。因此，这些群体今天只占总人口的一小部分，并且常常受到药物滥用和生活质量低下等问题的困扰。各国政府也难以对上述群体建立公平的管辖权限；虽然这些民族国家承认原住民群体是被迫服从政府权威的，但它们不愿意让原住民群体违反任何他们不喜欢的法律。这场争论的核心是：政府是否应当采取行动来保护原住民文化；这种保护可以采取为原住民划出保留地的形式。然而，它也可以包括语言项目或艺术资助，这样，尽管这些原住民群体在几代人中数量损失惨重，其余的人仍能将自己的文化传承下去。保护原住民文化还可能包括对某些与原住民传统相悖的具体法律给予特别豁免。虽然许多人认为，原住民因其有污点的过去而有权获得特殊对待，但另一些人则认为，这一过去并不是特殊文化待遇的正当理由。
+
+**Français**
+
+Les nations modernes telles que l'Australie, le Canada et les États-Unis ont eu du mal à établir une relation juste et stable avec les groupes aborigènes, ou autochtones. Au cours des trois cents dernières années, les gouvernements susmentionnés ont souvent maltraité ces groupes par des traités injustes et non respectés, la diffusion imprudente de maladies et souvent la violence directe. Par conséquent, ces groupes ne représentent aujourd'hui qu'une petite partie de la population et sont souvent en proie à des problèmes de toxicomanie et à une mauvaise qualité de vie. Les gouvernements ont également du mal à établir un niveau équitable de compétence sur ces groupes ; bien que ces États-nations reconnaissent que les groupes autochtones ont été contraints de se soumettre à l'autorité du gouvernement, ils ne sont pas prêts à laisser les groupes autochtones enfreindre une loi qui leur déplaît. Ce débat porte sur la question de savoir si les gouvernements doivent agir pour préserver la culture autochtone ; cette protection peut prendre la forme de réserves foncières mises de côté pour les autochtones. Cependant, elle peut aussi inclure des programmes linguistiques ou un financement des arts afin que, malgré de lourdes pertes démographiques au fil des générations, le reste de ces groupes autochtones puisse transmettre sa culture. La protection de la culture autochtone peut également inclure une exemption juridique spéciale de certaines lois contraires aux traditions autochtones. Alors que beaucoup soutiennent que les autochtones ont droit à un traitement spécial en raison d'un passé entaché, d'autres affirment que ce passé n'est pas une raison valable pour un traitement culturel spécial.
 
 ## ✅ 正方论点 Pros
 
 ### All of society benefits from protection of indigenous culture
 
+**English**
+
 Across the United States, Australia, and Canada, native customs are often tied closely to the land. For example, while descendants of the Sioux Indians of the American Midwest may no longer hunt buffalo, learning about traditional means of hunting, animal use, rituals involving the surrounding wildlife, means of ensuring a sustainable food supply, and other cultural norms related to the land gives people a greater appreciation for the land they now inhabit. Exposure to traditions that have been practiced in one's land for thousands of years helps us to appreciate the legacy we have inherited. This does not just benefit the direct descendants of those practicing these traditions but the whole of society. improve this
 
 **反驳 Counterpoint**：Protecting indigenous culture is unlikely to have a significant impact on the general population. Native groups often live in relative isolation, thereby having little contact with people outside the community. Furthermore, antiquated forms of hunting and cultivating food that were used over a hundred years ago have little relevance to the modern environment in which people live. Learning about these traditions is unlikely to impact the public's perception of its environment because the public is unlikely to make an emotional connection between these traditions and their modern homes. improve this
 
+**中文**
+
+保护原住民文化惠及整个社会
+
+在美国、澳大利亚和加拿大各地，原住民习俗往往与土地紧密相连。例如，虽然美国中西部苏族印第安人的后裔可能不再猎杀野牛，但了解传统的狩猎方式、动物利用、与周围野生动物有关的仪式、确保可持续食物供应的方法以及与土地有关的其他文化规范，会让人们更加珍视他们现在所居住的土地。接触在自己土地上已实践数千年的传统，有助于我们欣赏所继承的遗产。这不仅惠及实践这些传统者的直系后代，也惠及整个社会。改进这一点
+
+反方观点：保护原住民文化不太可能对普通民众产生重大影响。原住民群体往往生活在相对孤立之中，因此与社区外的人接触很少。此外，一百多年前使用的过时狩猎和耕作方式与人们生活的现代环境几乎没有关联。了解……
+
+**Français**
+
+Toute la société bénéficie de la protection de la culture autochtone
+
+Aux États-Unis, en Australie et au Canada, les coutumes autochtones sont souvent étroitement liées à la terre. Par exemple, bien que les descendants des Indiens Sioux du Midwest américain ne chassent peut-être plus le bison, apprendre les moyens traditionnels de chasse, l'utilisation des animaux, les rituels liés à la faune environnante, les moyens d'assurer un approvisionnement alimentaire durable et d'autres normes culturelles liées à la terre permet aux gens de mieux apprécier la terre qu'ils habitent aujourd'hui. L'exposition à des traditions pratiquées sur sa terre depuis des milliers d'années nous aide à apprécier l'héritage que nous avons reçu. Cela ne profite pas seulement aux descendants directs de ceux qui pratiquent ces traditions, mais à toute la société. Améliorer ceci
+
+Contre-argument : La protection de la culture autochtone n'aura probablement pas d'impact significatif sur la population générale. Les groupes autochtones vivent souvent dans un relatif isolement, ayant donc peu de contact avec les personnes extérieures à la communauté. En outre, les formes désuètes de chasse et de culture des aliments utilisées il y a plus de cent ans ont peu de pertinence pour l'environnement moderne dans lequel les gens vivent. Apprendre sur…
+
 ### Existing states are responsible for the destruction of indigenous populations and their societies, and thereby have an obligation to help reverse the effects of their actions
+
+**English**
 
 The Indian Removal Act of 1830 1 , the 1871 Indian Appropriations Act, and the 1887 General Allotment Act are just a few examples of legislation used to destroy Native American communities in the US 2 . Settlers in Australia are similarly responsible for a multitude of massacres 3 , as well as several decades of forced separation of aboriginal children from their parents in an effort to "Christianize" them 4 . While the current citizens of Canada, the US, and Australia are not guilty of the crimes of their predecessors, they nevertheless reap the benefits of those atrocities while today's indigenous populations still suffer from the lasting impact of oppression. When chemical companies make huge profits at the expense of damaging the surrounding community's environment, those companies are expected to pay reparations. A government that destroys an indigenous culture must similarly work to reverse their destruction. 1 Indian Treaty and Removal Act of 1830, U.S. Department of State. 2 Preamble to the Trail of Broken Treaties 20-Point Position Paper: An Indian Manifesto. American Indian Movement, 1972. 3 History of Australian Aboriginal Massacres, Treaty Republic, 2011. 4 "Living With the Past," FOCUS September 1997, Vol. 9, Asia-Pacific Human Rights Information Center. improve this
 
 **反驳 Counterpoint**：Indigenous populations have no more right to special government treatment than other minority groups. Even indigenous populations did not inhabit their current territory from the dawn of time, and many ethnic groups around the world live where they do because they were pushed out of some other territory hundreds or thousands of years ago. Virtually every ethnic group in the world has been conquered and abused by some other group. Tracing the entirety of human history to determine which group owes reparations to which other group is unproductive; rather, governments should move forward to promote a better standard of living for all citizens. improve this
 
+**中文**
+
+现有国家应对原住民人口及其社会的毁灭负责，因此有义务帮助扭转其行为造成的后果
+
+1830年的《印第安人迁移法》1、1871年的《印第安人拨款法》和1887年的《一般分配法》只是美国用来摧毁美洲原住民社区的几项立法例子2。澳大利亚的定居者同样对数起屠杀负有责任3，以及几十年来为使他们“基督教化”而强行将原住民儿童与父母分离4。虽然加拿大、美国和澳大利亚的当前公民对其前辈的罪行并无罪责，但他们仍然从那些暴行中获益，而今天的原住民人口仍在遭受压迫的持久影响。当化学公司以破坏周围社区环境为代价赚取巨额利润时，这些公司被期望支付赔偿。一个摧毁了原住民文化的政府同样必须努力扭转其造成的破坏。1 1830年《印第安人条约与迁移法》，美国国务院。2 《血泪之路》序言……
+
+**Français**
+
+Les États existants sont responsables de la destruction des populations autochtones et de leurs sociétés, et ont donc l'obligation d'aider à inverser les effets de leurs actions
+
+L'Indian Removal Act de 1830 1, l'Indian Appropriations Act de 1871 et le General Allotment Act de 1887 ne sont que quelques exemples de lois utilisées pour détruire les communautés amérindiennes aux États-Unis 2. Les colons en Australie sont de même responsables d'une multitude de massacres 3, ainsi que de plusieurs décennies de séparation forcée des enfants aborigènes de leurs parents dans le but de les « christianiser » 4. Bien que les citoyens actuels du Canada, des États-Unis et de l'Australie ne soient pas coupables des crimes de leurs prédécesseurs, ils bénéficient néanmoins des avantages de ces atrocités tandis que les populations autochtones d'aujourd'hui souffrent encore de l'impact durable de l'oppression. Lorsque des entreprises chimiques réalisent d'énormes profits au détriment de l'environnement de la communauté environnante, ces entreprises sont censées payer des réparations. Un gouvernement qui détruit une culture autochtone doit de même œuvrer à inverser sa destruction. 1 Indian Treaty and Removal Act de 1830, Département d'État des États-Unis. 2 Préambule du Trail of B…
+
 ### The preservation of displaced cultures is important in preventing future oppression.
+
+**English**
 
 Notions of cultural superiority virtually always influence displacement and abuse of indigenous cultures. For example, when the government of Botswana expelled the Kalahari Bushmen from their land in 2002, President Mogai defended his actions by describing the bushmen as "stone age creatures." 1 This cultural insensitivity, in addition to the incentive of material gains, led the Botswani government to violate the tribe's rights. By preserving indigenous culture, governments recognize the value of these groups and prevent future hostility. 1 John Simpson, "Bushmen Fight for Homeland," BBC, 2005
 
 **反驳 Counterpoint**：The government should rely on just legal systems to protect the rights of indigenous people, not cultural preservation. A constitution that enumerates rights and a court system that scrutinizes government activity is a much more direct and reliable venue of protecting indigenous rights than sporadic funding for cultural programs.
 
+**中文**
+
+保护流离失所的文化对于防止未来的压迫很重要。
+
+文化优越感的观念几乎总是影响着对原住民文化的驱逐和虐待。例如，当博茨瓦纳政府于2002年将卡拉哈里布须曼人驱逐出他们的土地时，总统莫哈伊为其行为辩护，将布须曼人描述为“石器时代的生物”。1这种文化上的麻木不仁，加上物质利益的诱因，导致博茨瓦纳政府侵犯了该部落的权利。通过保护原住民文化，政府承认这些群体的价值并防止未来的敌意。1 约翰·辛普森，《布须曼人为家园而战》，BBC，2005年
+
+反方观点：政府应依靠公正的法律体系来保护原住民人民的权利，而不是文化保护。一部列举权利的宪法和一个审查政府活动的法院系统，是比零星的文化项目资助更直接、更可靠的原住民权利保护途径。
+
+**Français**
+
+La préservation des cultures déplacées est importante pour prévenir l'oppression future.
+
+Les notions de supériorité culturelle influencent presque toujours le déplacement et les abus des cultures autochtones. Par exemple, lorsque le gouvernement du Botswana a expulsé les Bushmen du Kalahari de leurs terres en 2002, le président Mogai a défendu ses actions en décrivant les bushmen comme des « créatures de l'âge de pierre ». 1 Cette insensibilité culturelle, en plus de l'incitation aux gains matériels, a conduit le gouvernement botswanais à violer les droits de la tribu. En préservant la culture autochtone, les gouvernements reconnaissent la valeur de ces groupes et préviennent l'hostilité future. 1 John Simpson, « Bushmen Fight for Homeland », BBC, 2005
+
+Contre-argument : Le gouvernement devrait s'appuyer sur des systèmes juridiques justes pour protéger les droits des peuples autochtones, et non sur la préservation culturelle. Une constitution qui énumère les droits et un système judiciaire qui examine l'activité gouvernementale sont un moyen beaucoup plus direct et fiable de protéger les droits autochtones qu'un financement sporadique de programmes culturels.
+
 ### Governments protect culture every day
+
+**English**
 
 Governments already protect culture so it is not a big step to apply the same protections to aboriginal culture as well. In school, students learn about traditional art and their national history. For example, the state of California compiles reading lists that largely include Shakespeare, Virgil, and John Steinback, though also including ethnic authors like Maya Angelou 1 . Governments recognize days like Christmas and New Years and fund programs that promote the arts. States recognize marriage and structure divorce and custody laws based on cultural norms of gender roles and family responsibility. If a government can protect the norms on one culture in society, there is no reason that the government should not also protect the culture of those who first inhabited the land. This current protection makes it easy to build on, to make highlight more aboriginal culture, recognize their festivals etc. 1 California Reading List, California Department of Education, 2011. improve this
 
 **反驳 Counterpoint**：Governments also ignore or destroy culture all the time. Historic and significant buildings are built to build infrastructure, traditions are lost through an unwillingness to provide funding to prevent it from dying. When governments protect culture they inevitably protect one over the others. This is nearly always the culture of the majority. Instead it is not for the government to promote or protect any culture over others rather it should be left to private individuals and each cultural group to promote their own culture. improve this
 
+**中文**
+
+政府每天都在保护文化
+
+政府已经在保护文化，因此将同样的保护也适用于原住民文化并不是一大步。在学校里，学生学习传统艺术和本国历史。例如，加利福尼亚州编制的阅读书单主要包括莎士比亚、维吉尔和约翰·斯坦贝克，但也包括玛雅·安吉洛等族裔作家1。政府承认圣诞节和新年等节日，并资助促进艺术的项目。各州承认婚姻，并根据性别角色和家庭责任的文化规范来构建离婚和监护法律。如果一个政府能够保护社会中一种文化的规范，那么政府就没有理由不也保护那些最先居住在这片土地上的人的文化。这种现有的保护使得在此基础上进一步发展变得容易，以更加突出原住民文化，承认他们的节日等。1 加利福尼亚州阅读书单，加利福尼亚州教育部，2011年。改进这一点
+
+反方观点：政府也一直在忽视或摧毁文化。历史和重要建筑被拆除以建设基础设施，传统因……而丧失。
+
+**Français**
+
+Les gouvernements protègent la culture chaque jour
+
+Les gouvernements protègent déjà la culture, il n'est donc pas difficile d'appliquer les mêmes protections à la culture autochtone. À l'école, les élèves apprennent l'art traditionnel et l'histoire nationale. Par exemple, l'État de Californie compile des listes de lecture qui comprennent largement Shakespeare, Virgile et John Steinbeck, mais aussi des auteurs ethniques comme Maya Angelou 1. Les gouvernements reconnaissent des jours comme Noël et le Nouvel An et financent des programmes qui promeuvent les arts. Les États reconnaissent le mariage et structurent le divorce et les lois de garde en fonction des normes culturelles des rôles de genre et de la responsabilité familiale. Si un gouvernement peut protéger les normes d'une culture dans la société, il n'y a aucune raison pour que le gouvernement ne protège pas aussi la culture de ceux qui ont habité la terre en premier. Cette protection actuelle facilite la construction sur cette base, pour mettre davantage en valeur la culture aborigène, reconnaître leurs festivals, etc. 1 California Reading List, California Department of Education, 2011. Améliorer ceci
+
+Contre-argument : Les gouvernements ignorent ou détruisent aussi la culture tout le temps. Des bâtiments historiques et importants sont démolis pour construire des infrastructures, des traditions sont perdues par…
+
 ## ❌ 反方论点 Cons
 
 ### Culture provides no tangible benefit that justifies the use of government funds to preserve it.
+
+**English**
 
 If indigenous populations feel strongly that their unique culture is worth preserving, they may direct their attention and funds towards this endeavor. However, a government's first priority must be services that improve the standard of living for its citizens. Society, including indigenous people, would be better served if tax dollars were spent on services like healthcare and law enforcement. improve this
 
 **反驳 Counterpoint**：Cultural preservation enriches society; just because it cannot be measured quantitatively does not mean it is not worthwhile. Without government assistance, many museums and theaters would have to close down, or would be too expensive for the general public to access. Government support for cultural enrichment contributes towards the public's education and allows citizens to develop an appreciation for traditions other than their own. This does not mean arguing that the government should abandon its basic duties, but simply that a small portion of the budget be dedicated to preservation of indigenous culture. improve this
 
+**中文**
+
+文化并不能提供任何切实可见的好处，来证明政府动用资金去保护它是合理的。
+
+如果原住民群体强烈认为他们独特的文化值得保护，他们可以把注意力和资金投向这一事业。然而，政府的首要任务必须是改善公民生活水平的服务。如果税款用于医疗和执法等服务，社会——包括原住民——将得到更好的服务。改进此段
+
+反方观点：文化保护丰富了社会；仅仅因为它无法被定量衡量，并不意味着它没有价值。没有政府援助，许多博物馆和剧院将不得不关闭，或者对普通公众来说会过于昂贵而无法进入。政府对文化丰富的支持有助于公众教育，并使公民能够培养对自己传统之外的其他传统的欣赏。这并不意味着主张政府应放弃其基本职责，而只是说预算中的一小部分应专门用于保护原住民文化。改进此段
+
+**Français**
+
+La culture n'apporte aucun bénéfice tangible qui justifie l'utilisation de fonds publics pour la préserver.
+
+Si les populations autochtones estiment fermement que leur culture unique vaut la peine d'être préservée, elles peuvent diriger leur attention et leurs fonds vers cet effort. Cependant, la première priorité d'un gouvernement doit être les services qui améliorent le niveau de vie de ses citoyens. La société, y compris les peuples autochtones, serait mieux servie si l'argent des impôts était dépensé pour des services comme les soins de santé et l'application de la loi. Améliorer ceci
+
+Contre-argument : La préservation culturelle enrichit la société ; le fait qu'elle ne puisse pas être mesurée quantitativement ne signifie pas qu'elle ne vaut pas la peine. Sans l'aide du gouvernement, de nombreux musées et théâtres devraient fermer, ou seraient trop chers pour que le grand public puisse y accéder. Le soutien gouvernemental à l'enrichissement culturel contribue à l'éducation du public et permet aux citoyens de développer une appréciation pour des traditions autres que les leurs. Cela ne signifie pas soutenir que le gouvernement devrait abandonner ses devoirs fondamentaux, mais simplement qu'une petite partie du budget soit consacrée à la préservation de la culture autochtone. Améliorer ceci
+
 ### Government interference is not necessary to preserve culture
+
+**English**
 
 Plenty of ethnic groups immigrate to countries like Canada and the US and preserve their culture without government aid. They do so through religious education for children, speaking their native language at home, schools at the weekends that teach their culture and communication and cooperation within the ethnic community. This cultural preservation demonstrates that government assistance is unnecessary and thereby a form of excessive government involvement. improve this
 
 **反驳 Counterpoint**：Immigrant populations generally do not retain their cultural distinctiveness in the long run; while the first generation may be heavily influenced by their parents' culture, this influence fades by the second generation. Immigrant assimilation is actually proof that government assistance would be useful to native groups. improve this
 
+**中文**
+
+政府干预并非保护文化的必要手段
+
+许多族群移民到加拿大和美国等国家，并在没有政府援助的情况下保留了自己的文化。他们通过以下方式做到这一点：对子女进行宗教教育、在家中说母语、周末开设教授其文化的学校，以及族群社区内部的交流与合作。这种文化保护表明政府援助是不必要的，因而是一种政府过度介入的形式。改进此段
+
+反方观点：从长远来看，移民群体通常不会保留其文化独特性；虽然第一代可能深受父母文化的影响，但这种影响到第二代就会消退。移民的同化实际上证明了政府援助对原住民群体会有用。改进此段
+
+**Français**
+
+L'interférence du gouvernement n'est pas nécessaire pour préserver la culture
+
+De nombreux groupes ethniques immigrent dans des pays comme le Canada et les États-Unis et préservent leur culture sans aide gouvernementale. Ils le font par l'éducation religieuse des enfants, en parlant leur langue maternelle à la maison, par des écoles du week-end qui enseignent leur culture, et par la communication et la coopération au sein de la communauté ethnique. Cette préservation culturelle démontre que l'aide gouvernementale est inutile et constitue donc une forme d'ingérence excessive du gouvernement. Améliorer ceci
+
+Contre-argument : Les populations immigrées ne conservent généralement pas leur spécificité culturelle à long terme ; si la première génération peut être fortement influencée par la culture de ses parents, cette influence s'estompe dès la deuxième génération. L'assimilation des immigrants prouve en réalité que l'aide gouvernementale serait utile aux groupes autochtones. Améliorer ceci
+
 ### Culture evolves over time and is largely impacted by improved standards of living and exposure to other cultures
+
+**English**
 
 Virtually all cultures around the world have changed radically over the past two hundred years; if a government takes action towards "preserving" an indigenous culture, it is interfering with the group's ability to mold their identity to fit the modern world on their own terms. For example, the Australian and American governments have tried to appease native groups by offering land for reserves where they may lead a traditional lifestyle. Native individuals, however, often do not want to live in isolation, and would rather adapt their culture to an urban environment where they can have a higher standard of living. improve this
 
 **反驳 Counterpoint**：Mainstream cultural norms are so pervasive in every aspect of society that without an active effort, indigenous values and traditions will be lost. Preserving culture often involves funding- whether it is for a theatre group, art show, language program, or other means of cultural expression. In countries like the US and Australia, indigenous groups make up less than 3% of the current population; 1;2 without assistance from the government, it is unlikely these groups would be able to sustain such cultural efforts and as a result their culture would not have any chance to evolve. 1 Race - Universe: Total Population, U.S. Census Bureau American Fact Finder, 2009. 2 Experimental Estimates and Projections, Aboriginal and Torres Strait Islander Australians, 1991, to 2021, Australian Bureau of Statistics, 2009. improve this
 
+**中文**
+
+文化随时间演变，并在很大程度上受到生活水平提高和接触其他文化的影响
+
+过去两百年来，世界上几乎所有文化都发生了根本性的变化；如果政府采取行动去“保护”某种原住民文化，那就是在干涉该群体按照自己的方式塑造自身身份以适应现代世界的能力。例如，澳大利亚和美国政府曾试图通过提供保留地土地来安抚原住民群体，让他们可以在那里过传统生活。然而，原住民个人往往并不想与世隔绝地生活，他们更愿意让自己的文化适应城市环境，从而获得更高的生活水平。改进此段
+
+反方观点：主流文化规范在社会的方方面面都如此普遍，以至于如果不积极努力，原住民的价值观和传统将会消失。保护文化往往涉及资金——无论是用于剧团、艺术展、语言项目还是其他文化表达方式。在美国和澳大利亚等国家，原住民群体占当前人口不到3%；1;2 如果没有政府的援助……
+
+**Français**
+
+La culture évolue avec le temps et est largement influencée par l'amélioration du niveau de vie et l'exposition à d'autres cultures
+
+Pratiquement toutes les cultures du monde ont radicalement changé au cours des deux cents dernières années ; si un gouvernement agit pour « préserver » une culture autochtone, il interfère avec la capacité du groupe à façonner son identité pour l'adapter au monde moderne selon ses propres termes. Par exemple, les gouvernements australien et américain ont tenté d'apaiser les groupes autochtones en offrant des terres pour des réserves où ils peuvent mener un mode de vie traditionnel. Cependant, les individus autochtones ne veulent souvent pas vivre isolés et préfèrent adapter leur culture à un environnement urbain où ils peuvent avoir un niveau de vie plus élevé. Améliorer ceci
+
+Contre-argument : Les normes culturelles dominantes sont si omniprésentes dans tous les aspects de la société que, sans un effort actif, les valeurs et traditions autochtones seront perdues. Préserver la culture implique souvent un financement — que ce soit pour une troupe de théâtre, une exposition d'art, un programme linguistique ou d'autres moyens d'expression culturelle. Dans des pays comme les États-Unis et l'Australie, les groupes autochtones représentent moins de 3 % de la population actuelle ; 1;2 sans l'aide du gouvernement…
+
 ### Culture is an incredibly complex concept
+
+**English**
 
 Culture contains many elements; it is the food one eats, the clothing one wears, the holidays one celebrates, and the names of the spirits one worships. However, it is much more than that; culture dictates parent-child relationships, courting customs, family size, gender roles, healthcare, education, and every law, regulation, and standard a society holds. Governments rarely give blanket approval to an indigenous customs; children are often compelled to attend school and receive vaccines, substances used in religious rituals may be banned, and customs that infringe on the rights of group members are not permitted. These restrictions may be reasonable, however, they create a false sense of cultural preservation. Rather than ostensibly protect aboriginal culture, governments should leave it alone. improve this
 
 **反驳 Counterpoint**：Anarchy is not necessary for culture to exist. Legal restrictions do impact cultural norms; for example, Native American use of peyote for religious ceremonies is permitted only at the discretion of state governments 1 . However, restrictions on drug use have not turned native cultural expression into a meaningless practice. Rather, the fact that native groups must conform to external standards is more reason for the government to make an active effort to protect indigenous culture. In the previous example, the US government acknowledged that Native American use of peyote in religious ceremonies is different from typical drug use, and consequently permits such peyote use (with limitations). It is this active effort to respect native culture that allowed Native Americans to preserve their religious practice. 1 Elijah Sweete, "Peyote in Short Supply," The Moderate Voice, 2010. improve this Add to favourites Add to Favourites Please Log In to add this debate to Favourites Log In Bibliography Anderson, Ian PS. "Mutual Obligation, Shared Responsibility Agreements & Indigenous Health Strategy." BioMed Central Ltd, 2006. Behrendt, Larissa. "Nothing Mutual About Denying Aboriginals a Voice" The Sydney Morning Herald, 2004. California Reading List. California Department of Education, 2011. Employment Div. v. Smith, 494 US 872, 1990. U.S. Supreme Court. Experimental Estimates and Projections, Aboriginal and Torres Strait Islander Australians, 1991, to 2021. Australian Bureau of Statistics, 2009. History of Australian Aboriginal Massacres, Treaty Republic, 2011. Indian Treaty and Removal Act of 1830. U.S. Department of State. "Living With the Past," FOCUS September 1997, Vol. 9, Asia-Pacific Human Rights Information Center. Preamble to the Trail of Broken Treaties 20-Point Position Paper: An Indian Manifesto. American Indian Movement, 1972. Race- Universe: Total Population. U.S. Census Bureau American Fact Finder, 2009. Short, Damien. "Reconciliation, Assimilation, and the Indigenous Peoples of Australia" International Political Science Review, vol. 24, No. 42003. Simpson, John. "Bushmen Fight for Homeland," BBC, 2005. Sweete, Elijah. "Peyote in Short Supply," The Moderate Voice, 2010. Have a good for or against point on this topic? Share it with us!
+
+**中文**
+
+文化是一个极其复杂的概念
+
+文化包含许多元素；它是人们吃的食物、穿的衣服、庆祝的节日，以及所崇拜的神灵的名字。然而，它远不止于此；文化决定了亲子关系、求爱习俗、家庭规模、性别角色、医疗保健、教育，以及一个社会所持有的每一条法律、法规和标准。政府很少对原住民习俗给予全面批准；儿童往往被强制上学并接种疫苗，宗教仪式中使用的物质可能被禁止，侵犯群体成员权利的习俗也不被允许。这些限制可能是合理的，然而，它们制造了一种虚假的文化保护感。与其表面上保护原住民文化，政府不如不去干涉它。改进此段
+
+反方观点：无政府状态并非文化存在的必要条件。法律限制确实会影响文化规范；例如，美洲原住民在宗教仪式中使用佩约特仙人掌，只有在州政府酌情允许的情况下才被许可 1 。然而，对药物使用的限制并没有把原住民的文化表达变成一种毫无意义的实践……
+
+**Français**
+
+La culture est un concept incroyablement complexe
+
+La culture contient de nombreux éléments ; c'est la nourriture que l'on mange, les vêtements que l'on porte, les fêtes que l'on célèbre et les noms des esprits que l'on vénère. Cependant, elle est bien plus que cela ; la culture dicte les relations parent-enfant, les coutumes de courtoisie, la taille de la famille, les rôles de genre, les soins de santé, l'éducation, et chaque loi, règlement et norme qu'une société détient. Les gouvernements approuvent rarement de manière générale les coutumes autochtones ; les enfants sont souvent obligés d'aller à l'école et de recevoir des vaccins, les substances utilisées dans les rituels religieux peuvent être interdites, et les coutumes qui portent atteinte aux droits des membres du groupe ne sont pas autorisées. Ces restrictions peuvent être raisonnables, cependant, elles créent un faux sentiment de préservation culturelle. Plutôt que de protéger ostensiblement la culture aborigène, les gouvernements devraient la laisser tranquille. Améliorer ceci
+
+Contre-argument : L'anarchie n'est pas nécessaire pour que la culture existe. Les restrictions légales ont un impact sur les normes culturelles ; par exemple, l'utilisation du peyote par les Amérindiens pour les cérémonies religieuses n'est autorisée qu'à la discrétion des gouvernements des États 1 . Cependant, les restrictions sur la consommation de drogues n'ont pas transformé l'expression culturelle autochtone en une pratique dénuée de sens…

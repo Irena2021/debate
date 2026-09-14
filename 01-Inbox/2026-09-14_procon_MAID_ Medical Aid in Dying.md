@@ -1,59 +1,181 @@
 # MAID: Medical Aid in Dying
 
-> **元信息**：英语 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/MAID-medical-aid-in-dying-debate) | 2026-09-14
+> **元信息**：英·中·法 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/MAID-medical-aid-in-dying-debate) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题在争的是：绝症病人该不该有权通过医生协助、自己服药来结束生命，也就是“医疗协助死亡”（MAID）该不该合法化。
+
+- 中：这个辩题在争的是：绝症病人是否应该有权通过医生协助、自行服药来结束生命，还是这种做法会给社会带来危险。
+- EN：This debate asks whether terminally ill patients should have the right to end their own lives with prescribed medication, or whether this practice creates serious dangers for society.
+- FR : Ce débat pose la question suivante : les patients en phase terminale devraient-ils avoir le droit de mettre fin à leurs jours avec des médicaments prescrits, ou cette pratique crée-t-elle de graves dangers pour la société ?
 
 ### 正方立场
-- MAID 让绝症病人能选择一种“好死”，减少痛苦、保留尊严，而不是被病痛折磨到最后一刻。
-- 身体自主权是每个人的基本权利，自己的生命和身体应该由自己决定，包括如何、何时结束。
-- 合法化不等于放任，相关法律有严格条件（如成年、绝症、剩余寿命不足六个月）和监管措施，能防止滥用。
-- 与其让病人在暗地里冒险自杀，不如用法律把这件事管起来，反而更安全、更透明。
+
+- 中：MAID 让绝症病人可以选择一种「善终」，也就是有尊严、少痛苦地离开。
+- EN：MAID allows terminally ill people to choose a "good death" — one with dignity and less suffering.
+- FR : L'aide médicale à mourir permet aux personnes en phase terminale de choisir une « bonne mort », c'est-à-dire une mort digne et moins souffrante.
+
+- 中：每个人都有权掌控自己的身体，MAID 正是这种身体自主权的体现。
+- EN：Everyone should have bodily autonomy, and MAID is an expression of that right.
+- FR : Chaque personne devrait avoir le droit de disposer de son propre corps, et l'aide médicale à mourir est une façon d'exercer ce droit.
+
+- 中：MAID 有严格的法律规定和保障措施，能保护病人、防止滥用。
+- EN：MAID is carefully regulated with strict eligibility rules and safeguards that protect patients and prevent misuse.
+- FR : L'aide médicale à mourir est encadrée par des règles strictes et des mesures de protection qui protègent les patients et préviennent les abus.
 
 ### 反方立场
-- MAID 会把自杀“正常化”，让社会越来越接受“用死亡解决问题”，可能鼓励更多人放弃生命。
-- 弱势群体最危险：老人、残障人士、精神病患者、少数族裔可能被护理者、医生或保险公司施压或利用。
-- 一旦开了口子，就容易滑向更严重的“合法安乐死”，标准可能一步步放宽，最后失控。
-- 决定权看似在病人手里，但“是否合格、是否有判断力”最终由医生说了算，病人未必真正自主。
+
+- 中：MAID 会把自杀「正常化」，让社会越来越接受自杀这件事。
+- EN：MAID dangerously normalizes suicide by making society more accepting of ending one's own life.
+- FR : L'aide médicale à mourir banalise dangereusement le suicide en rendant la société plus tolérante face à la fin de vie volontaire.
+
+- 中：MAID 会危及弱势群体，比如老人、残障人士、有心理疾病的年轻人和少数族裔，他们可能被胁迫或利用。
+- EN：MAID endangers vulnerable groups — seniors, people with disabilities, young people with mental illness, and people of color — who may face coercion or abuse.
+- FR : L'aide médicale à mourir met en danger les groupes vulnérables — personnes âgées, personnes handicapées, jeunes atteints de maladie mentale et minorités raciales — qui risquent d'être contraints ou exploités.
+
+- 中：一旦开了头，MAID 可能变成滑坡，最终导致合法的安乐死，甚至更糟的情况。
+- EN：Once legalized, MAID could become a slippery slope leading to legal euthanasia, or worse.
+- FR : Une fois légalisée, l'aide médicale à mourir pourrait devenir une pente glissante menant à l'euthanasie légale, voire pire.
 
 ### 写作借鉴
-- 引出论点：MAID allows terminally ill people to choose a “good death.”（直接点出正方核心立场，适合做主题句）
-- 让步转折：While individual definitions of a “good death” may vary, the phrase has long been associated with medical aid in dying.（先承认定义有分歧，再拉回自己立场，适合反驳或过渡）
-- 总结/警示：The more a society becomes pro some suicides, the more normalized suicide will become.（用因果递进句式收尾，适合反方总结段）
+
+- EN：MAID allows terminally ill people to choose a "good death."
+- 中：用来引出正方核心论点，句式简单直接，适合放在段落开头。
+- FR : Cette phrase sert à introduire l'argument principal du camp « pour » ; sa structure simple et directe convient au début d'un paragraphe.
+
+- EN：MAID is a matter of bodily autonomy, a right everyone should have.
+- 中：用来把具体议题提升到「权利」层面，增强说服力。
+- FR : Cette phrase permet d'élever un enjeu précis au niveau d'un « droit », ce qui renforce la persuasion.
+
+- EN：MAID is a slippery slope to legal euthanasia, or worse.
+- 中：用来提出反方的「滑坡论证」，警告某个做法会引发更严重的后果。
+- FR : Cette phrase sert à présenter l'argument de la « pente glissante » du camp « contre », en avertissant qu'une mesure peut entraîner des conséquences plus graves.
 
 ## 📖 背景 Background
 
+**English**
+
 Medical aid in dying (MAID) is also called medical assistance in dying, physician-assisted suicide (PAS), physician-assisted death/dying (PAD), and self-determination in dying. The New York State Bar Association defined MAID as “when a terminally ill, mentally competent adult patient, who is likely to die within six months, takes prescribed medicines, which must be self-administered, to end suffering and achieve a peaceful death.”
+
+**中文**
+
+医疗辅助死亡（MAID）也被称为医疗协助死亡、医生协助自杀（PAS）、医生协助死亡（PAD）以及死亡自决。纽约州律师协会将MAID定义为：“当一位身患绝症、精神健全的成年患者，预计将在六个月内死亡时，服用必须自行服用的处方药物，以结束痛苦并实现平静死亡。”
+
+**Français**
+
+L'aide médicale à mourir (AMM) est aussi appelée assistance médicale à mourir, suicide assisté par un médecin (SAP), mort/décès assisté par un médecin (MAP) et autodétermination dans la mort. L'Association du barreau de l'État de New York a défini l'AMM comme « le fait, pour un patient adulte en phase terminale et mentalement compétent, susceptible de mourir dans les six mois, de prendre des médicaments prescrits, qu'il doit s'administrer lui-même, pour mettre fin à ses souffrances et parvenir à une mort paisible ».
 
 ## ✅ 正方论点 Pros
 
 ### Pro 1: MAID allows terminally ill people to choose a “good death.”
 
+**English**
+
 The word “euthanasia” comes from the Greek word euthanatos , which means “easy death” or “good death.” In English, “euthanasia” has meant a good death since Francis Bacon described it as “after the fashion and semblance of a kindly & pleasant sleepe” in the early 17th century. The phrase “good death” has been associated with medical aid in dying ever since. While individual definitions of a “good death” may vary, a literature review found 94 percent of reports about what makes for a good death placed “preferences for dying process (94 percent of reports), pain-free status (81 percent), and emotional well-being (64 percent)” at the top of the lists from patients, family members, and healthcare providers. Many opponents of MAID define the practice as suicide, and thus not a good death. However, the American Association of Suicidology asserted that “suicide and physician aid in dying are conceptually, medically, and legally different phenomena.” Anita Hannig, associate professor of anthropology at Brandeis University, also distinguishes MAID from suicide: Terminally ill patients who seek an assisted death aren’t suicidal. Absent a terminal prognosis, they have no independent desire to end their life…. Patients who pursue medical aid in dying are no longer looking at an open-ended life span either. To qualify for an assisted death in states with these laws they must already be on the verge of dying – that is, within six months of the end of their life. These patients don’t face a meaningful decision between living and dying, but between one kind of death and another. Moreover, because of the waiting periods enforced by MAID laws, the patients have had time to carefully consider their choices for medical care and their own moral or spiritual obligations. Patients who choose medical aid in dying are typically surrounded by family, friends, and other loved ones when they die in a peaceful and comfortable environment. The patients have had time to say goodbye to other people in their lives. Medical anthropologist Mara Buchbinder has amplified on the benefits of MAID, especially for patients facing a drawn-out physical and mental decline punctuated by incessant medical interventions and a painful and heavily sedated death: MAID renders not only the time of death but also the broader landscape of death open to human control. MAID allows terminally ill patients to choreograph their own deaths, deciding not only when but where and how and with whom. Part of the appeal is that one must go on living right up until the moment of death. It takes work to engage in all the planning; it keeps one vibrant and busy. There are people to call, papers to file, and scenes to set [turning] … dying into an active extension of life.
+
+**中文**
+
+正方1：MAID让绝症患者能够选择“善终”。
+
+“安乐死”一词源自希腊语euthanatos，意为“轻松的死亡”或“善终”。在英语中，自17世纪初弗朗西斯·培根将其描述为“以一种亲切而愉快的睡眠的方式和样子”以来，“安乐死”就一直意味着善终。“善终”这一说法从此便与医疗辅助死亡联系在一起。虽然每个人对“善终”的定义可能不同，但一篇文献综述发现，在关于何为善终的报告中，94%将“对死亡过程的偏好（94%的报告）、无痛状态（81%）和情绪健康（64%）”列在患者、家属和医疗提供者所列清单的首位。许多反对MAID的人将该做法定义为自杀，因此不是善终。然而，美国自杀学协会断言，“自杀与医生协助死亡在概念上、医学上和法律上是不同的现象。”布兰迪斯大学人类学副教授安妮塔·汉尼格也将MAID与自杀区分开来：寻求协助死亡的绝症患者并不是自杀……
+
+**Français**
+
+Pour 1 : L'AMM permet aux personnes en phase terminale de choisir une « bonne mort ».
+
+Le mot « euthanasie » vient du grec euthanatos, qui signifie « mort facile » ou « bonne mort ». En anglais, « euthanasie » signifie une bonne mort depuis que Francis Bacon l'a décrite comme « à la manière et à l'image d'un sommeil doux et agréable » au début du XVIIe siècle. L'expression « bonne mort » est associée à l'aide médicale à mourir depuis lors. Bien que les définitions individuelles d'une « bonne mort » puissent varier, une revue de la littérature a constaté que 94 % des rapports sur ce qui constitue une bonne mort plaçaient « les préférences concernant le processus de mourir (94 % des rapports), l'absence de douleur (81 %) et le bien-être émotionnel (64 %) » en tête des listes établies par les patients, les membres de la famille et les prestataires de soins. De nombreux opposants à l'AMM définissent cette pratique comme un suicide, et donc non comme une bonne mort. Cependant, l'Association américaine de suicidologie a affirmé que « le suicide et l'aide médicale à mourir sont des phénomènes conceptuellement, médicalement et juridiquement différents ». Anita Hannig, professeure associée d'anthropologie à l'université Brandeis, distingue également l'AMM du suicide : les patients en phase terminale qui cherchent une mort assistée ne sont pas des suicidaires…
 
 ### Pro 2: MAID is a matter of bodily autonomy, a right everyone should have.
 
+**English**
+
 Autonomy is “the state or condition of self-governance, or leading one’s life according to reasons, values, or desires that are authentically one’s own.” Bodily autonomy, in turn, is control over one’s physical being. MAID laws are written “to offer agency and autonomy at the end of life in lieu of suffering, indignity, and shame.” According to lawyer Lamar W. Hawkins, we should protect the personal autonomy people should have to decide that they don’t want to continue living to the end of a condition from which they will die after many months, weeks, or days of suffering, both physically and existentially—that is, when there is no longer purpose in their lives, Adds Hawkins, Our own [U.S.] Supreme Court, nearly 30 years ago, found that we all have the right to decide what medical care we are willing to accept. We should also have a right to decide what suffering we are willing to endure and receive medical assistance necessary to avoid the suffering we want to avoid. Our essential right to take our own lives when faced with unwanted suffering is undeniable—no state prohibits it. What we don’t yet have everywhere is the right to receive assistance in doing so, an omission that discriminates against the too feeble, the too ill, and the too disabled, who nevertheless know their own minds and deserve the assistance necessary to exercise that essential right. For many terminally ill patients who are interested in MAID and go through the process to qualify and obtain a prescription for death, just having the lethal medication on hand relieves anxieties and fears about not only their potentially excruciating deaths but the lives and good moments they have left. Many find support from family, friends, and medical professionals to continue their lives for a while longer. In fact, many do not take the prescription medication and instead die from the terminal illness itself, but they die more peacefully having had the option of ending their lives and suffering on their own terms.
+
+**中文**
+
+正方2：MAID关乎身体自主权，这是每个人都应拥有的权利。
+
+自主权是“自我治理的状态或条件，即按照真正属于自己的理由、价值观或愿望来生活”。而身体自主权则是对自己身体的控制。MAID法律的制定是为了“在生命终点提供能动性和自主权，以取代痛苦、尊严丧失和羞耻。”据律师拉马尔·W·霍金斯所说，我们应当保护人们应有的个人自主权，使他们能够决定，在一种将导致他们在数月、数周或数天的身心痛苦之后死亡的状况走向终点时——也就是当他们的生命不再有目标时——不再继续活下去。霍金斯补充说，我们自己的（美国）最高法院在近30年前就认定，我们都有权决定我们愿意接受什么样的医疗护理。我们也应当有权决定我们愿意忍受什么样的痛苦，并获得必要的医疗协助，以避免我们想要避免的痛苦。面对不想要的痛苦时，我们结束自己生命的基本权利是不可否认的——没有任何州禁止这样做。我们尚未拥有的……
+
+**Français**
+
+Pour 2 : L'AMM relève de l'autonomie corporelle, un droit que tout le monde devrait avoir.
+
+L'autonomie est « l'état ou la condition d'autogouvernance, ou le fait de mener sa vie selon des raisons, des valeurs ou des désirs qui sont authentiquement les siens ». L'autonomie corporelle, quant à elle, est le contrôle sur son être physique. Les lois sur l'AMM sont rédigées « pour offrir une capacité d'agir et une autonomie en fin de vie au lieu de la souffrance, de l'indignité et de la honte ». Selon l'avocat Lamar W. Hawkins, nous devrions protéger l'autonomie personnelle que les gens devraient avoir pour décider qu'ils ne veulent pas continuer à vivre jusqu'au terme d'une condition dont ils mourront après de nombreux mois, semaines ou jours de souffrance, tant physique qu'existentielle — c'est-à-dire lorsqu'il n'y a plus de sens à leur vie. Hawkins ajoute : notre propre Cour suprême [des États-Unis], il y a près de 30 ans, a jugé que nous avons tous le droit de décider quels soins médicaux nous sommes prêts à accepter. Nous devrions aussi avoir le droit de décider quelles souffrances nous sommes prêts à endurer et de recevoir l'assistance médicale nécessaire pour éviter les souffrances que nous voulons éviter. Notre droit essentiel de mettre fin à nos jours face à une souffrance non désirée est indéniable — aucun État ne l'interdit. Ce que nous n'avons pas encore…
 
 ### Pro 3: MAID ensures thoughtful regulation of the practice.
 
+**English**
+
 American “death with dignity” laws are based on Oregon’s 1994 law, which was the first such American legislation enacted. The laws all have “stringent eligibility requirements” and “safeguards that data and studies show … work as intended, protecting patients and preventing misuse.” The safeguards include but are not limited to: being an adult with a terminal illness and fewer than six months to live, mentally competent, and able to self-administer the drugs. Each state requires the patient to make several requests to several doctors in person with witnesses and waiting periods between requests. And the patient may stop the process at any time before taking the lethal medication. Healthcare providers are under no obligation to participate in MAID but, if they do, they have to stop the process for mental health evaluations if needed or if coercion is suspected. Each state also has strict reporting protocols. Even Catholic priests have recognized the need for regulated death without agreeing morally with MAID. “And of the two possibilities, assisted suicide is the one [versus euthanasia] that most restricts abuses…. [So] it is a question of seeing which law can limit evil,” argues Father Renzo Pegoraro, Chancellor of the Pontifical Academy for Life. Many consider medical aid in dying laws a slippery slope to the abuse of vulnerable groups. But as journalist George Will pointed out, Life is lived on a slippery slope: Taxation can become confiscation, police can become instruments of tyranny, laws can metastasize suffocatingly. However, taxation, police and laws are indispensable. The challenge is to minimize dangers that cannot be entirely eliminated from society…. MAID, enveloped in proper protocols, can and should be a dignity-enhancing response to especially harrowing rendezvous with the inevitable. Rather than denying terminally ill people the grace of a good death because the law might go awry, society should work to strengthen protections for vulnerable groups and enforce laws that already make actions such as elder abuse illegal.
+
+**中文**
+
+正方3：MAID确保对该做法进行审慎的监管。
+
+美国的“尊严死亡”法律以俄勒冈州1994年的法律为基础，那是美国第一部此类立法。这些法律都有“严格的资格要求”和“数据和研究表明……按预期发挥作用的保障措施，保护患者并防止滥用”。这些保障措施包括但不限于：年满18岁、身患绝症且寿命不足六个月、精神健全，并且能够自行服用药物。每个州都要求患者亲自向多位医生提出多次请求，并有证人在场，且各次请求之间有等待期。患者可以在服用致命药物之前的任何时候终止这一过程。医疗提供者没有义务参与MAID，但如果他们参与，则必须在需要时或因怀疑存在胁迫时，为进行心理健康评估而停止该过程。每个州也有严格的报告规程。就连天主教神父也认识到需要对死亡进行监管，尽管他们在道德上并不认同MAID。“而在两种可能性中，协助自杀是[相对于安乐死]最能限制滥用的那一种……[所以]它……”
+
+**Français**
+
+Pour 3 : L'AMM garantit une réglementation réfléchie de cette pratique.
+
+Les lois américaines sur la « mort dans la dignité » sont fondées sur la loi de l'Oregon de 1994, qui fut la première législation américaine de ce type adoptée. Ces lois comportent toutes des « critères d'admissibilité stricts » et des « garanties dont les données et les études montrent qu'elles fonctionnent comme prévu, protégeant les patients et prévenant les abus ». Ces garanties incluent, sans s'y limiter : être un adulte atteint d'une maladie en phase terminale avec moins de six mois à vivre, mentalement compétent et capable de s'administrer lui-même les médicaments. Chaque État exige que le patient fasse plusieurs demandes à plusieurs médecins en personne, avec des témoins et des périodes d'attente entre les demandes. Et le patient peut arrêter le processus à tout moment avant de prendre le médicament létal. Les prestataires de soins n'ont aucune obligation de participer à l'AMM, mais s'ils le font, ils doivent interrompre le processus pour des évaluations de santé mentale si nécessaire ou si une contrainte est suspectée. Chaque État dispose également de protocoles de signalement stricts. Même des prêtres catholiques ont reconnu la nécessité d'une mort réglementée sans pour autant approuver moralement l'AMM. « Et des deux possibilités, le suicide assisté est celle [par rapport à l'euthanasie] qui restreint le plus les abus… [Donc] il… »
 
 ## ❌ 反方论点 Cons
 
 ### Con 1: MAID dangerously normalizes suicide.
 
+**English**
+
 Suicide is “the act of intentionally taking one’s own life.” Medical aid in dying is the act of taking a fatal dose of medication to end one’s own life. f According to Wesley J. Smith, Chair and Senior Fellow at the Center on Human Exceptionalism, The more a society becomes pro some suicides, the more normalized suicide will become. Indeed, unless we recognize that the proper answer to suicide ideation is suicide prevention—for everyone, not just some—the ‘right’ to commit suicide could become as fundamental as the right to life. Legalizing some suicides via medical aid in dying sends the message to those who are not terminally ill but who may be struggling with mental or physical illness, drug addiction, or other hardships that suicide is an acceptable solution available for them. According to the World Health Organization (WHO), more than 720,000 people die annually from suicide. In 2023 (the most recent CDC data available), suicide was the eleventh leading cause of death in the United States, bumped down from the number 10 spot held in 2019 due to COVID-19 deaths and an increase in chronic liver disease and cirrhosis deaths. The overall rate of suicide increased from 10.4 suicide deaths per 100,000 people to 14.1 per 100,000 in 2023. In addition to the 49,300 Americans who died by suicide in 2023, some 12.3 million adults reported serious thoughts of suicide, 4.6 million adults made plans to die by suicide, and 2.2 million adults attempted suicide. Steven Wade, Executive Director of the Brain Injury Association of New Hampshire, highlights the many populations, including veterans, teens, people with disabilities, brain injury survivors and the elderly who are “pre-disposed” to suicide for reasons including depression, lack of autonomy and inability to engage in activities that make life enjoyable. Those populations, he argues, are especially endangered by the “dangerous precedent” of legalizing some suicides, as well as by others who could exploit MAID laws “to steer vulnerable members of our society — who are not necessarily dying — in the direction of death instead of care.” “A taboo (not stigma) against suicide is an instrumental piece of suicide prevention,” according to psychiatrist Mark Komrad. Thus, instead of promoting any kind of suicide, governments should focus on suicide prevention, effective healthcare, and compassionate palliative care.
+
+**中文**
+
+反对观点1：医疗辅助死亡危险地将自杀正常化。
+
+自杀是“故意结束自己生命的行为”。医疗辅助死亡是服用致命剂量的药物来结束自己生命的行为。据“人类例外主义中心”主席兼高级研究员韦斯利·J·史密斯所说，一个社会越是支持某些自杀行为，自杀就会变得越正常化。事实上，除非我们认识到对自杀意念的正确回应是自杀预防——针对所有人，而不仅仅是某些人——否则“自杀的权利”可能会变得像生命权一样基本。通过医疗辅助死亡将某些自杀行为合法化，向那些并非绝症患者但可能正在与精神或身体疾病、毒瘾或其他困境作斗争的人传递了一个信息：自杀对他们来说是一个可以接受的解决方案。据世界卫生组织（WHO）统计，每年有超过72万人死于自杀。2023年（可获得的最新CDC数据），自杀是美国第十一大死因，由于新冠死亡和慢性肝病及肝硬化死亡人数的增加，从2019年的第十位下降了一位。总体……
+
+**Français**
+
+Objection 1 : L'aide médicale à mourir normalise dangereusement le suicide.
+
+Le suicide est « l'acte de mettre intentionnellement fin à sa propre vie ». L'aide médicale à mourir est l'acte de prendre une dose mortelle de médicaments pour mettre fin à sa propre vie. Selon Wesley J. Smith, président et chercheur principal au Center on Human Exceptionalism, plus une société est favorable à certains suicides, plus le suicide deviendra normalisé. En effet, à moins que nous reconnaissions que la bonne réponse à l'idéation suicidaire est la prévention du suicide — pour tous, pas seulement pour certains — le « droit » de se suicider pourrait devenir aussi fondamental que le droit à la vie. Légaliser certains suicides par l'aide médicale à mourir envoie le message à ceux qui ne sont pas en phase terminale mais qui peuvent lutter contre une maladie mentale ou physique, une toxicomanie ou d'autres difficultés que le suicide est une solution acceptable disponible pour eux. Selon l'Organisation mondiale de la santé (OMS), plus de 720 000 personnes meurent chaque année par suicide. En 2023 (les données les plus récentes disponibles du CDC), le suicide était la onzième cause de décès aux États-Unis, rétrogradé de la dixième place occupée en 2019 en raison des décès liés à la COVID-19 et de l'augmentation des décès par maladie hépatique chronique et cirrhose. L'ensemble…
 
 ### Con 2: MAID endangers vulnerable groups, including seniors, people with disabilities, young people suffering from mental illness, and people of color.
 
+**English**
+
 Among the dangers of legalizing medical aid in dying is the potential to exploit the laws to kill vulnerable people. The Center for Disability Rights points to the troubling reality that many disabled people are at the mercy of unscrupulous caregivers, medical providers, and insurance companies. Legal MAID endangers a community “at grave risk of coercion and abuse while creating an opportunity for insurance companies to enhance their bottom line.” Legalizing MAID “invites coercion,” according to attorney Margaret Dore, because abusive or impatient heirs and caregivers can shepherd the elderly (even young people suffering from mental illness) toward suicide by helping them complete the necessary steps, picking up their medication, and potentially even administering the lethal drug because no witnesses are required at the time of death. Ayishetu Salifu Mamudu, Deaf Systems Advocate at the Regional Center for Independent Living, says BIPOC [Black Indigenous and People of Color] Disabled people are at greater risk from assisted suicide laws because of racial disparities in health care.… Although privileged white people present this as a rights issue, the reality is that BIPOC are in the cross hairs of this bad policy. I urge policy makers to recognize that and understand that in establishing this rights [sic] for some people, BIPOC individuals – and others – will die before their time. That is unacceptable. Instead of facilitating suicide, palliative care is an effective, compassionate solution that does not imperil vulnerable groups. Zach Garafalo, Manager of Government Affairs at the Center for Disability Rights, points out that anyone dying in discomfort that is not otherwise relievable, already may legally receive palliative sedation, wherein the patient is sedated to the point that the discomfort is relieved while the dying process takes place. We already have a legal solution to any uncomfortable deaths that does not endanger others the way an assisted suicide law does. Legal hospice organizations already provide this end-of-life care and comfort.
+
+**中文**
+
+反对观点2：医疗辅助死亡使弱势群体处于危险之中，包括老年人、残疾人、患有精神疾病的年轻人以及有色人种。
+
+将医疗辅助死亡合法化的危险之一，是可能有人利用法律来杀害弱势群体。残疾人权利中心指出了一个令人不安的现实：许多残疾人任由无良的照护者、医疗服务提供者和保险公司摆布。合法的医疗辅助死亡使一个群体处于危险之中，他们“面临被胁迫和虐待的严重风险，同时也为保险公司提供了提高利润的机会”。律师玛格丽特·多尔表示，将医疗辅助死亡合法化“会招致胁迫”，因为虐待他人或缺乏耐心的继承人和照护者可以引导老年人（甚至患有精神疾病的年轻人）走向自杀——帮助他们完成必要步骤、代取药物，甚至可能在最后时刻亲自施用致命药物，因为死亡时并不要求有证人在场。区域独立生活中心的聋人系统倡导者阿伊谢图·萨利富·马穆杜表示，黑人、原住民和有色人种（BIPOC）残疾人面临来自协助自杀的更大风险……
+
+**Français**
+
+Argument contre 2 : L'AMM met en danger les groupes vulnérables, notamment les personnes âgées, les personnes handicapées, les jeunes souffrant de maladie mentale et les personnes racisées.
+
+Parmi les dangers de la légalisation de l'aide médicale à mourir figure la possibilité d'exploiter les lois pour tuer des personnes vulnérables. Le Center for Disability Rights souligne une réalité troublante : de nombreuses personnes handicapées sont à la merci de soignants, de prestataires de soins et de compagnies d'assurance peu scrupuleux. L'AMM légale met en danger une communauté « gravement exposée au risque de coercition et de maltraitance, tout en créant pour les compagnies d'assurance une occasion d'améliorer leurs résultats financiers ». La légalisation de l'AMM « invite à la coercition », selon l'avocate Margaret Dore, car des héritiers ou des soignants abusifs ou impatients peuvent conduire les personnes âgées (même des jeunes souffrant de maladie mentale) vers le suicide en les aidant à accomplir les démarches nécessaires, en récupérant leurs médicaments, et potentiellement même en administrant eux-mêmes la substance létale, puisqu'aucun témoin n'est requis au moment du décès. Ayishetu Salifu Mamudu, défenseure des systèmes pour les personnes sourdes au Regional Center for Independent Living, affirme que les personnes handicapées racisées (noires, autochtones et personnes de couleur) sont davantage exposées au risque de suicide assisté…
 
 ### Con 3: MAID is a slippery slope to legal euthanasia, or worse.
 
+**English**
+
 Describing legal MAID as a “moral cliff” rather than a slippery slope, John Stonestreet and Shane Morris, both of the Colson Center for Christian Worldview, highlight the fact that the patient may request to die, but the doctor is still the one who determines whether the patient is competent and eligible. Small wonder that wherever medical aid in dying has been legalized, doctors and lawmakers have quickly begun asking why they need [a] patient’s permission before exercising “compassion” …. Once death is a treatment option, patients can no longer trust their doctors, their insurance companies, or even their families to have their best interests at heart. “Terminal illness” quickly broadens to include “intolerable suffering” which soon broadens to include “mental suffering.” While the laws may be written with good intent, time chips away at the restrictions that might protect people. For example, in 2022, Oregon eliminated the requirement that patients requesting MAID be state residents. In 2021, Canada, which legalized MAID and euthanasia simultaneously, removed the criterion that the patient be near death or have a terminal illness to qualify for assistance with dying; now any patient with a “grievous and irremediable medical condition” may request MAID or euthanasia. In 2002, Belgium extended euthanasia to children over 12, and recent health ministers have even tried to extend the law to all children. Journalist Christopher de Bellaigue, says, As the world’s pioneer, the Netherlands has also discovered that although legalising euthanasia might resolve one ethical conundrum, it opens a can of others – most importantly, where the limits of the practice should be drawn … [Specifically,] the idea that a measure introduced to provide relief to late-stage cancer patients has expanded to include people who might otherwise live for many years, from sufferers of diseases such as muscular dystrophy to sexagenarians with dementia and even mentally ill young people. As MAID becomes more common globally, the ethical and moral concern we should have over issues as serious as doctoring, death, and euthanasia is dangerously weakened.
+
+**中文**
+
+反对观点3：医疗辅助死亡是滑向合法安乐死甚至更糟情况的滑坡。
+
+约翰·斯通斯特里特和谢恩·莫里斯都来自科尔森中心基督教世界观研究所，他们将合法的医疗辅助死亡描述为“道德悬崖”而非滑坡，强调了一个事实：患者可以请求死亡，但医生仍然是决定患者是否具备行为能力和资格的人。难怪在医疗辅助死亡合法化的地方，医生和立法者很快就已开始质疑：为什么他们在行使“同情”之前需要患者的许可……一旦死亡成为一种治疗选项，患者就再也不能信任他们的医生、保险公司，甚至家人会把他们的最大利益放在心上。“绝症”很快扩大到包括“无法忍受的痛苦”，而这又很快扩大到包括“精神痛苦”。虽然法律的制定可能出于善意，但时间会逐渐侵蚀那些可能保护人们的限制。例如，2022年，俄勒冈州取消了请求医疗辅助死亡的患者必须是本州居民的要求。2021年，同时将医疗辅助死亡和安乐死合法化的加拿大，取消了患者必须濒临死亡或患有绝症的标准……
+
+**Français**
+
+Argument contre 1 : L'AMM normalise dangereusement le suicide.
+
+Le suicide est « l'acte de mettre intentionnellement fin à sa propre vie ». L'aide médicale à mourir est l'acte de prendre une dose mortelle de médicament pour mettre fin à sa propre vie. Selon Wesley J. Smith, président et chercheur principal au Center on Human Exceptionalism, plus une société est favorable à certains suicides, plus le suicide se normalise. En effet, à moins que nous reconnaissions que la bonne réponse à l'idéation suicidaire est la prévention du suicide — pour tous, pas seulement pour certains — le « droit » de se suicider pourrait devenir aussi fondamental que le droit à la vie. Légaliser certains suicides par l'aide médicale à mourir envoie le message à ceux qui ne sont pas en phase terminale mais qui luttent peut-être contre une maladie mentale ou physique, une toxicomanie ou d'autres difficultés, que le suicide est une solution acceptable pour eux. Selon l'Organisation mondiale de la santé (OMS), plus de 720 000 personnes meurent chaque année par suicide. En 2023 (les données les plus récentes disponibles du CDC), le suicide était la onzième cause de décès aux États-Unis, rétrogradant de la dixième place occupée en 2019 en raison des décès liés à la COVID-19 et de l'augmentation des décès par maladie hépatique chronique et cirrhose. Dans l'ensemble …

@@ -1,62 +1,184 @@
 # Electoral College
 
-> **元信息**：英语 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Electoral-College-debate) | 2026-09-14
+> **元信息**：英·中·法 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Electoral-College-debate) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-美国总统大选到底该不该继续用「选举人团」制度——它究竟是保护小州和少数声音的公平设计，还是早就该废除的历史遗留？
+
+- 中：美国总统选举到底该不该继续用「选举人团」制度，还是应该改成直接按全国普选票来决定胜负？
+- EN：Should the United States keep using the Electoral College to elect its president, or should the system be scrapped in favour of the national popular vote?
+- FR：Les États-Unis devraient-ils conserver le Collège électoral pour élire leur président, ou plutôt l'abolir au profit du vote populaire national ?
 
 ### 正方立场
-- 选举人团迫使候选人跑遍全国拉票，不能只盯着人口密集的大城市，当选后也要照顾全国各地区利益。
-- 制度初衷是保护少数派，防止「多数人的暴政」——让多数人的声音不至于完全淹没少数人的利益。
-- 它能避免出现「得票最多却没过半数」的尴尬局面，减少重新计票和二次选举的麻烦，让结果更确定。
-- 各州按选举人票计算，等于给小州和人口少的地区一个「加权」的话语权，平衡大小州之间的影响力。
+
+- 中：选举人团迫使候选人跑遍全国拉票，不能只盯着人口密集的大城市，当选后也要照顾全国各地的利益。
+- EN：The Electoral College forces candidates to campaign across the whole country instead of only in heavily populated areas, so the winner is expected to serve the interests of every region.
+- FR : Le Collège électoral oblige les candidats à faire campagne dans tout le pays plutôt que dans les seules grandes régions peuplées, de sorte que le vainqueur doit servir les intérêts de toutes les régions.
+
+- 中：建国者设计它是为了保护少数人的声音，防止「多数人的暴政」把少数群体的利益完全淹没。
+- EN：It was designed to protect minority voices from being drowned out by the majority, guarding against a "tyranny of the majority."
+- FR : Il a été conçu pour protéger la voix des minorités contre la « tyrannie de la majorité », qui risque d'étouffer leurs intérêts.
+
+- 中：它让选举结果更干脆，减少重新计票和第二轮投票的麻烦，避免出现「票最多但没过半」的混乱局面。
+- EN：It can prevent recounts and runoff elections, giving presidential races a clear and certain outcome.
+- FR : Il peut éviter les recomptages et les seconds tours, ce qui donne aux élections présidentielles un résultat clair et certain.
 
 ### 反方立场
-- 权力过度集中在少数「摇摆州」，候选人只需讨好这几个州，其他州（如铁定的加州、印第安纳州）基本被忽视。
-- 制度根源与奴隶制和种族主义有关——当年设计它是为了让蓄奴州在不放弃奴隶的前提下增加政治影响力。
-- 它违背「一人一票」的民主原则：全国 3 亿多人，最终却由 538 个选举人决定总统归属。
-- 可能出现赢了普选票却输掉大选的结果（如 2016 年希拉里），让选民觉得自己的票「不算数」，损害民主公信力。
+
+- 中：它把太多权力给了少数「摇摆州」，候选人只需讨好这几个州，其他州基本被忽视。
+- EN：It gives too much power to a handful of swing states, so candidates only need to court those few states while the rest are largely ignored.
+- FR : Il accorde trop de pouvoir à quelques États pivots, si bien que les candidats ne courtisent que ces quelques États et ignorent largement les autres.
+
+- 中：这套制度源于奴隶制与种族主义，当年要保护的「少数」其实是蓄奴州和奴隶主的利益。
+- EN：The system is rooted in slavery and racism; the "minority" it was meant to protect were actually slaveholders and slave states.
+- FR : Ce système est enraciné dans l'esclavage et le racisme ; la « minorité » qu'il devait protéger était en réalité celle des propriétaires d'esclaves et des États esclavagistes.
+
+- 中：它违背「一人一票」的民主原则，538 个选举人就能决定 3 亿多人的总统人选，普选票多的人反而可能落选。
+- EN：It undermines representative democracy and the idea of "one person, one vote," since just 538 electors can decide the president for over 300 million people, and the popular-vote winner can still lose.
+- FR : Il porte atteinte à la démocratie représentative et au principe « une personne, une voix », car 538 grands électeurs peuvent décider du président pour plus de 300 millions de personnes, et le gagnant du vote populaire peut quand même perdre.
 
 ### 写作借鉴
-- 引出论点：*The Electoral College ensures that all parts of the country are involved in selecting U.S. presidents.*（用于支持正方、强调制度代表性）
-- 让步转折：*While the Electoral College was created to protect minority voices, it is rooted in slavery and racism.*（先承认对方合理之处，再转折到反方批判）
-- 总结/收尾：*The Electoral College undermines representative democracy and the notion of one person, one vote.*（用于反方结论，点出核心价值冲突）
+
+- EN：If the election depended solely on the popular vote, then presidential candidates could limit campaigning to heavily populated areas or specific regions.
+- 中：用途是「假设论证」——用 if 引导一个假设，推出一个坏结果，从而支持自己的立场。
+- FR : Utilité : l'argument hypothétique — une phrase en « if » qui mène à une conséquence négative pour appuyer sa position.
+
+- EN：The Founding Fathers wanted to balance the will of the populace against the risk of "tyranny of the majority."
+- 中：用途是「引出历史依据」——用建国者的初衷来支撑论点，让论证显得有根基。
+- FR : Utilité : introduire un fondement historique — s'appuyer sur l'intention des Pères fondateurs pour donner du poids à l'argument.
+
+- EN：There are some 335 million people in the United States. But just 538 people decide who will be president.
+- 中：用途是「对比数据」——用两个悬殊的数字形成强烈反差，突出制度的不合理。
+- FR : Utilité : le contraste de chiffres — deux nombres très différents créent un effet de choc qui met en évidence l'injustice du système.
 
 ## 📖 背景 Background
 
+**English**
+
 The Electoral College has been a continuous source of controversy since its creation by the Founding Fathers . Is it a fair way of electing the president of the United States, or should it be scrapped? The debate over its continued use resurfaced during the 2016 presidential election , when Donald Trump lost the popular vote to Hillary Clinton by more than 2.8 million votes but won 30 states and the Electoral College and therefore the presidency. The official election results show that Trump received 304 Electoral College votes and 46.09 percent of the popular vote (62,984,825 votes), whereas Hillary Clinton received only 227 Electoral College votes but 48.18 percent of the popular vote (65,853,516 votes).
+
+**中文**
+
+选举人团自建国元勋创立以来一直是争议不断的源头。它是选举美国总统的公平方式，还是应该被废除？关于是否继续使用它的争论在2016年总统大选期间再次浮出水面，当时唐纳德·特朗普在普选票上以超过280万票之差输给希拉里·克林顿，但赢得了30个州和选举人团，因此赢得了总统职位。官方选举结果显示，特朗普获得304张选举人票和46.09%的普选票（62,984,825票），而希拉里·克林顿只获得227张选举人票，却获得48.18%的普选票（65,853,516票）。
+
+**Français**
+
+Le Collège électoral a été une source continue de controverse depuis sa création par les Pères fondateurs. Est-ce un mode équitable d'élection du président des États-Unis, ou devrait-il être supprimé ? Le débat sur son maintien a refait surface lors de l'élection présidentielle de 2016, lorsque Donald Trump a perdu le vote populaire face à Hillary Clinton par plus de 2,8 millions de voix, mais a remporté 30 États et le Collège électoral, et donc la présidence. Les résultats officiels montrent que Trump a obtenu 304 voix au Collège électoral et 46,09 % du vote populaire (62 984 825 voix), tandis qu'Hillary Clinton n'a obtenu que 227 voix au Collège électoral mais 48,18 % du vote populaire (65 853 516 voix).
 
 ## ✅ 正方论点 Pros
 
 ### Pro 1: The Electoral College ensures that all parts of the country are involved in selecting U.S. presidents.
 
+**English**
+
 If the election depended solely on the popular vote, then presidential candidates could limit campaigning to heavily populated areas or specific regions. Currently, to win the election, candidates need electoral votes from multiple regions and, therefore, they build campaign platforms with a national focus, meaning that the winner will actually be expected to serve the needs of the entire country. Without the Electoral College, groups such as Iowa farmers and Ohio factory workers would be ignored in favor of pandering to metropolitan areas with higher population densities, leaving rural areas and small towns marginalized. “The current Electoral College system creates a needed balance between rural and urban interests and ensures that the winning candidate has support from multiple regions of the country,” according to Tina Mulally, a South Dakota state representative. She argues that the Electoral College protects small state and minority interests and that a national popular vote would be “like two wolves and a sheep deciding what’s for dinner.”
+
+**中文**
+
+支持观点1：选举人团确保全国各地区都参与美国总统的选举。
+
+如果选举完全取决于普选票，那么总统候选人可能会把竞选活动限制在人口稠密地区或特定区域。目前，要赢得选举，候选人需要来自多个地区的选举人票，因此他们会建立具有全国性重点的竞选纲领，这意味着获胜者实际上将被期望服务于整个国家的需要。如果没有选举人团，像艾奥瓦州农民和俄亥俄州工厂工人这样的群体就会被忽视，转而迎合人口密度更高的大都市地区，使农村地区和小城镇被边缘化。南达科他州州众议员蒂娜·穆拉利表示：“当前的选举人团制度在乡村与城市利益之间创造了必要的平衡，并确保获胜候选人得到全国多个地区的支持。”她认为，选举人团保护小州和少数群体的利益，而全国普选将“就像两只狼和一只羊决定晚餐吃什么”。
+
+**Français**
+
+Pour 1 : Le Collège électoral garantit que toutes les régions du pays participent à l'élection du président des États-Unis.
+
+Si l'élection dépendait uniquement du vote populaire, les candidats à la présidence pourraient limiter leur campagne aux zones très peuplées ou à des régions spécifiques. Actuellement, pour gagner l'élection, les candidats ont besoin de voix électorales de plusieurs régions et, par conséquent, ils construisent des programmes de campagne à portée nationale, ce qui signifie que le vainqueur sera réellement censé répondre aux besoins de tout le pays. Sans le Collège électoral, des groupes comme les agriculteurs de l'Iowa et les ouvriers d'usine de l'Ohio seraient ignorés au profit de la flatterie envers les zones métropolitaines à forte densité de population, laissant les zones rurales et les petites villes marginalisées. « Le système actuel du Collège électoral crée un équilibre nécessaire entre les intérêts ruraux et urbains et garantit que le candidat vainqueur bénéficie du soutien de plusieurs régions du pays », selon Tina Mulally, représentante de l'État du Dakota du Sud. Elle soutient que le Collège électoral protège les intérêts des petits États et des minorités et qu'un vote populaire national serait « comme deux loups et un mouton décidant ce qu'ils vont manger pour le dîner ».
 
 ### Pro 2: The Electoral College was created to protect minority voices from being overwhelmed by the majority.
 
+**English**
+
 The Electoral College was created to protect the voices of the minority from being overwhelmed by the will of the majority. The Founding Fathers wanted to balance the will of the populace against the risk of “tyranny of the majority,” in which the voices of the masses can drown out minority interests. Using electors instead of the popular vote was intended to safeguard the presidential election against uninformed or uneducated voters by putting the final decision in the hands of electors who were most likely to possess the information necessary to make the best decision in a time when news was not widely disseminated. The Electoral College was also intended to prevent states with larger populations from having undue influence and to compromise between electing the president by popular vote and letting Congress choose the president. Alexander Hamilton said of the Electoral College that, if it is “not perfect, it is at least excellent,” because it ensured “that the office of President will never fall to the lot of any man who is not in an eminent degree endowed with the requisite qualifications.” Democratic Nevada Governor Steve Sisolak vetoed a measure in 2019 that would have added the state to the National Popular Vote Interstate Compact, which would have obligated the state’s electors to vote for the popular vote winner. Sisolak stated that the compact “could diminish the role of smaller states like Nevada in national electoral contests and force Nevada’s electors to side with whoever wins the nationwide popular vote, rather than the candidate Nevadans choose.” “The Framers’ fears of a ‘tyranny of the majority’ is still very relevant today. One can see its importance in the fact that despite Hillary Clinton’s national popular vote total, she won only about a sixth of the counties nationwide, with her support limited mostly to urban areas on both coasts,” explains Hans von Spakovsky, a senior legal fellow at the Heritage Foundation and a former commissioner for the Federal Election Commission (FEC).
+
+**中文**
+
+支持观点2：选举人团的创立是为了保护少数群体的声音不被多数群体淹没。
+
+选举人团的创立是为了保护少数群体的声音不被多数人的意志所淹没。建国元勋们希望在民众意志与“多数人暴政”的风险之间取得平衡，在“多数人暴政”中，大众的声音可能淹没少数群体的利益。使用选举人而非普选票，是为了保护总统选举不受不知情或未受教育选民的影响，把最终决定权交给最有可能掌握必要信息的选举人，以便在新闻尚未广泛传播的时代做出最佳决定。选举人团还旨在防止人口较多的州拥有不当影响力，并在由普选票选举总统和由国会选择总统之间作出妥协。亚历山大·汉密尔顿谈到选举人团时说，如果它“不完美，至少也是卓越的”，因为它确保“总统职位绝不会落到任何未在卓越程度上具备必要资格的人手中……
+
+**Français**
+
+Pour 2 : Le Collège électoral a été créé pour protéger les voix des minorités d'être écrasées par la majorité.
+
+Le Collège électoral a été créé pour protéger les voix de la minorité d'être submergées par la volonté de la majorité. Les Pères fondateurs voulaient équilibrer la volonté du peuple avec le risque de « tyrannie de la majorité », où les voix des masses peuvent étouffer les intérêts des minorités. L'utilisation de grands électeurs plutôt que du vote populaire visait à protéger l'élection présidentielle contre des électeurs mal informés ou peu instruits en plaçant la décision finale entre les mains de grands électeurs les plus susceptibles de posséder les informations nécessaires pour prendre la meilleure décision à une époque où les nouvelles n'étaient pas largement diffusées. Le Collège électoral visait aussi à empêcher les États plus peuplés d'avoir une influence indue et à trouver un compromis entre l'élection du président au vote populaire et le choix du président par le Congrès. Alexander Hamilton a dit du Collège électoral que, s'il n'est « pas parfait, il est au moins excellent », car il garantissait « que la fonction de président ne tombera jamais sur le lot d'un homme qui ne serait pas éminemment doté des qualités requises…
 
 ### Pro 3: The Electoral College can preclude calls for recounts or demands for runoff elections, giving certainty to presidential elections.
 
+**English**
+
 If the presidential election were based on the popular vote, it would be possible for a candidate to receive the highest number of popular votes without actually obtaining a majority. This happened with Richard Nixon in 1968 and Bill Clinton in 1992, when both men won the most electoral votes while receiving just 43 percent of the popular vote. The existence of the Electoral College precluded calls for recounts or demands for runoff elections. “There is pressure for runoff elections when no candidate wins a majority of the votes cast; that pressure, which would greatly complicate the presidential election process, is reduced by the Electoral College, which invariably produces a clear winner,” explains Richard A. Posner, a former judge on the U.S. Court of Appeals for the Seventh Circuit and a senior lecturer at the University of Chicago Law School. The electoral process can also create a larger mandate to increase the president’s credibility; for example, President. Barack Obama received 51.3 percent of the popular vote in 2012 but 61.7 percent of the electoral votes. In 227 years the winner of the popular vote has lost the electoral vote only five times. This proves the system is working.
+
+**中文**
+
+支持观点3：选举人团可以避免重新计票的呼声或决选的要求，使总统选举具有确定性。
+
+如果总统选举基于普选票，候选人有可能获得最多普选票却没有真正获得多数。这种情况发生在1968年的理查德·尼克松和1992年的比尔·克林顿身上，当时两人都赢得了最多选举人票，却只获得43%的普选票。选举人团的存在避免了重新计票的呼声或决选的要求。美国第七巡回上诉法院前法官、芝加哥大学法学院高级讲师理查德·A·波斯纳解释说：“当没有候选人赢得多数选票时，就会有要求决选的压力；这种压力会极大地复杂化总统选举过程，而选举人团减少了这种压力，因为它总能产生一个明确的获胜者。”选举过程还可以创造更大的授权，以提高总统的可信度；例如，巴拉克·奥巴马总统在2012年获得51.3%的普选票，但获得61.7%……
+
+**Français**
+
+Pour 3 : Le Collège électoral peut éviter les appels à un recomptage ou les demandes de second tour, donnant ainsi une certitude aux élections présidentielles.
+
+Si l'élection présidentielle était fondée sur le vote populaire, il serait possible qu'un candidat obtienne le plus grand nombre de voix populaires sans pour autant obtenir la majorité. Cela s'est produit avec Richard Nixon en 1968 et Bill Clinton en 1992, lorsque les deux hommes ont remporté le plus de voix électorales tout en ne recevant que 43 % du vote populaire. L'existence du Collège électoral a empêché les appels à un recomptage ou les demandes de second tour. « Il y a une pression pour des second tours lorsqu'aucun candidat n'obtient la majorité des suffrages exprimés ; cette pression, qui compliquerait grandement le processus électoral présidentiel, est réduite par le Collège électoral, qui produit invariablement un vainqueur clair », explique Richard A. Posner, ancien juge à la Cour d'appel des États-Unis pour le septième circuit et maître de conférences à la faculté de droit de l'Université de Chicago. Le processus électoral peut aussi créer un mandat plus large pour accroître la crédibilité du président ; par exemple, le président Barack Obama a obtenu 51,3 % du vote populaire en 2012 mais 61,7 %…
 
 ## ❌ 反方论点 Cons
 
 ### Con 1: The Electoral College gives too much power to swing states and allows presidential elections to be decided by a handful of states.
 
+**English**
+
 The two main political parties can count on winning the electoral votes in certain states, such as California for the Democratic Party and Indiana for the Republican Party, without worrying about the actual popular vote totals. Because of the Electoral College, presidential candidates need to pay attention only to a limited number of states that can swing one way or the other. A November 6, 2016, episode of PBS NewsHour revealed that “Donald Trump and Hillary Clinton have made more than 90 percent of their campaign stops in just 11 so-called battleground states. Of those visits, nearly two-thirds took place in the four battlegrounds with the most electoral votes—Florida, Pennsylvania, Ohio, and North Carolina.” Gautam Mukunda, a political scientist at Harvard University, explains that states are given electors on the basis of their representation in the U.S. House and Senate, so small states get extra votes. Mukunda states, “The fact that in presidential elections people in Wyoming have [nearly four] times the power of people in California is antithetical at the most basic level to what we say we stand for as a democracy.”
+
+**中文**
+
+反对意见1：选举人团给予摇摆州过多权力，使总统选举由少数几个州决定。
+
+两大主要政党可以指望在某些州赢得选举人票，例如民主党在加利福尼亚州、共和党在印第安纳州，而无需担心实际的普选票总数。由于选举人团制度，总统候选人只需关注有限几个可能倒向任何一方的州。2016年11月6日PBS《新闻一小时》节目披露：“唐纳德·特朗普和希拉里·克林顿超过90%的竞选停留都集中在仅仅11个所谓的战场州。在这些访问中，近三分之二发生在选举人票最多的四个战场州——佛罗里达、宾夕法尼亚、俄亥俄和北卡罗来纳。”哈佛大学政治学家高塔姆·穆昆达解释说，各州根据其在国会众议院和参议院的代表人数获得选举人，因此小州获得额外选票。穆昆达指出：“在总统选举中，怀俄明州人的权力几乎是加利福尼亚州人的四倍，这是一个……
+
+**Français**
+
+Objection 1 : Le Collège électoral donne trop de pouvoir aux États pivots et permet à une poignée d'États de décider de l'élection présidentielle.
+
+Les deux principaux partis politiques peuvent compter sur la victoire des voix électorales dans certains États, comme la Californie pour le Parti démocrate et l'Indiana pour le Parti républicain, sans se soucier du total réel des voix populaires. En raison du Collège électoral, les candidats à la présidentielle ne doivent prêter attention qu'à un nombre limité d'États susceptibles de basculer d'un côté ou de l'autre. Un épisode du 6 novembre 2016 de PBS NewsHour a révélé que « Donald Trump et Hillary Clinton ont effectué plus de 90 % de leurs déplacements de campagne dans seulement 11 États dits indécis. Parmi ces visites, près des deux tiers ont eu lieu dans les quatre États pivots disposant du plus grand nombre de voix électorales — la Floride, la Pennsylvanie, l'Ohio et la Caroline du Nord. » Gautam Mukunda, politologue à l'université Harvard, explique que les États reçoivent des grands électeurs en fonction de leur représentation à la Chambre des représentants et au Sénat des États-Unis, de sorte que les petits États obtiennent des voix supplémentaires. Mukunda affirme : « Le fait que, lors des élections présidentielles, les habitants du Wyoming aient presque quatre fois plus de pouvoir que ceux de Californie est un …
 
 ### Con 2: The Electoral College is rooted in slavery and racism.
 
+**English**
+
 The “minority” interests the Founding Fathers intended the Electoral College to protect were those of enslavers and states with legal slavery. James Madison stated, “There was one difficulty however of a serious nature attending an immediate choice by the people. The right of suffrage was much more diffusive in the Northern than the Southern States; and the latter could have no influence in the election on the score of the Negroes. The substitution of electors obviated this difficulty and seemed on the whole to be liable to fewest objections.” “Behind Madison’s statement were the stark facts,” explains Wilfred Codrington III, assistant professor at Brooklyn Law School and a fellow at the Brennan Center for Justice: The populations in the North and South were approximately equal, but roughly one-third of those living in the South were held in bondage. Because of its considerable, nonvoting slave population, that region would have less clout under a popular-vote system. The ultimate solution was an indirect method of choosing the president.…With about 93 percent of the country’s slaves toiling in just five southern states, that region was the undoubted beneficiary of the compromise, increasing the size of the South’s congressional delegation by 42 percent. When the time came to agree on a system for choosing the president, it was all too easy for the delegates to resort to the three-fifths compromise [counting only three-fifths of the enslaved population instead of the population as a whole] as the foundation. The peculiar system that emerged was the Electoral College.” The racism at the root of the Electoral College persists, suppressing the votes of people of color in favor of voters from largely homogeneously white states.
+
+**中文**
+
+反对意见2：选举人团根植于奴隶制和种族主义。
+
+开国元勋们意图让选举人团保护的“少数派”利益，是奴隶主和实行合法奴隶制的州的利益。詹姆斯·麦迪逊说：“然而有一个性质严重的困难伴随着由人民直接选择。选举权在北方各州比南方各州广泛得多；后者在选举中无法因黑人而施加影响。选举人的替代消除了这一困难，并且总体上似乎最不容易遭到反对。”布鲁克林法学院助理教授、布伦南司法中心研究员威尔弗雷德·科德林顿三世解释说：“麦迪逊言论背后是严酷的事实”：北方和南方的人口大致相等，但南方约三分之一的人口被奴役。由于其数量可观的、没有投票权的奴隶人口，该地区在普选制下影响力会更小。最终的解决方案是一种间接选择总统的方法。……全国约93%的奴隶在仅仅五个南方州劳作……
+
+**Français**
+
+Objection 2 : Le Collège électoral est enraciné dans l'esclavage et le racisme.
+
+Les intérêts « minoritaires » que les Pères fondateurs voulaient protéger par le Collège électoral étaient ceux des propriétaires d'esclaves et des États où l'esclavage était légal. James Madison a déclaré : « Il y avait cependant une difficulté de nature sérieuse liée à un choix immédiat par le peuple. Le droit de suffrage était beaucoup plus répandu dans les États du Nord que dans ceux du Sud ; et ces derniers ne pouvaient avoir aucune influence dans l'élection en raison des Nègres. La substitution des grands électeurs a écarté cette difficulté et semblait, dans l'ensemble, susceptible de soulever le moins d'objections. » « Derrière la déclaration de Madison se trouvaient des faits brutaux », explique Wilfred Codrington III, professeur adjoint à la Brooklyn Law School et chercheur au Brennan Center for Justice : les populations du Nord et du Sud étaient à peu près égales, mais environ un tiers de ceux qui vivaient dans le Sud étaient réduits en esclavage. En raison de sa population esclave considérable et non votante, cette région aurait eu moins d'influence dans un système de vote populaire. La solution ultime fut une méthode indirecte de choix du président.… Avec environ 93 % des esclaves du pays travaillant dans seulement cinq États du Sud …
 
 ### Con 3: The Electoral College undermines representative democracy and the notion of one person, one vote.
 
+**English**
+
 There are some 335 million people in the United States. But just 538 people decide who will be president. In 2016 Hillary Clinton won the popular vote by more than one million votes, and yet she still lost the election on the basis of electoral votes. “Do we really want 538 Bob Nemanichs electing our president?…You can’t let 538 people decide the fate of a country of 300 million people,” says Robert Nemanich, a math teacher and former elector from Colorado Springs, Colorado. Even Donald Trump, who benefited from the Electoral College system, stated after the 2016 presidential election that he believed presidents should be chosen by popular vote: “I would rather see it where you went with simple votes. You know, you get 100 million votes and somebody else gets 90 million votes and you win.” Just as in 2000, when George W. Bush received fewer nationwide popular votes than Al Gore, Trump served as the president of the United States despite being supported by fewer Americans than his election opponent. “If anything, representative democracy in the 21st century is about political equality. It’s about one person, one vote—everybody’s vote counting equally. You’re not going to convince a majority of Americans that that’s not how you should do it,” says Jesse Wegman, author of Let the People Pick the President (2020). John Koza, the chairman of National Popular Vote, warns, “At this point I think changing the system to something better is going to determine whether there’s a dictator in this country.”
+
+**中文**
+
+反对意见3：选举人团破坏了代议制民主和一人一票的理念。
+
+美国大约有3.35亿人。但只有538人决定谁将成为总统。2016年，希拉里·克林顿以超过一百万票的优势赢得普选，但她仍然因选举人票而输掉了选举。“我们真的想让538个鲍勃·内马尼奇来选举我们的总统吗？……你不能让538个人决定一个3亿人口国家的命运，”科罗拉多州科罗拉多斯普林斯的数学教师、前选举人罗伯特·内马尼奇说。即使是受益于选举人团制度的唐纳德·特朗普，也在2016年总统选举后表示，他认为总统应该由普选产生：“我更愿意看到采用简单多数票的方式。你知道，你获得1亿票，别人获得9000万票，你就赢了。”正如2000年乔治·W·布什在全国普选票少于阿尔·戈尔时一样，特朗普尽管得到的美国选民支持少于其竞选对手，却担任了美国总统。“如果说有什么不同的话，21世纪的代议制民主关乎政治平等……
+
+**Français**
+
+Objection 3 : Le Collège électoral sape la démocratie représentative et la notion d'« une personne, une voix ».
+
+Il y a environ 335 millions de personnes aux États-Unis. Mais seulement 538 personnes décident qui sera président. En 2016, Hillary Clinton a remporté le vote populaire par plus d'un million de voix, et pourtant elle a perdu l'élection sur la base des voix électorales. « Voulons-nous vraiment que 538 Bob Nemanich élisent notre président ?… Vous ne pouvez pas laisser 538 personnes décider du sort d'un pays de 300 millions d'habitants », déclare Robert Nemanich, professeur de mathématiques et ancien grand électeur de Colorado Springs, dans le Colorado. Même Donald Trump, qui a bénéficié du système du Collège électoral, a déclaré après l'élection présidentielle de 2016 qu'il croyait que les présidents devraient être choisis par le vote populaire : « Je préférerais voir un système où l'on s'en tient au simple vote. Vous savez, vous obtenez 100 millions de voix, quelqu'un d'autre en obtient 90 millions et vous gagnez. » Tout comme en 2000, lorsque George W. Bush a reçu moins de voix populaires au niveau national qu'Al Gore, Trump a exercé la fonction de président des États-Unis bien qu'il ait été soutenu par moins d'Américains que son adversaire électoral. « Si tant est que quelque chose compte, la démocratie représentative au XXIe siècle concerne l'égalité politique …
 
 ## 📚 引用来源 Sources
 

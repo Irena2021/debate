@@ -63,6 +63,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 DELAY_BETWEEN_ITEMS = (1, 3)   # 详情页之间的随机静默（秒）
 DELAY_ON_BLOCK = (30, 60)      # 403/429 后的冷却（秒）
+MAX_INTRO_CHARS = 1500         # 导语/背景最大长度（防个别主题背景过长）
 
 
 def load_sources():
@@ -166,6 +167,33 @@ def procon_topics(session):
     return sorted(links)
 
 
+def _procon_intro(main_text):
+    """抓取导语：h1 之后、第一个论点 section 之前的所有 topic-paragraph + blockquote。
+
+    ProCon 有些主题（如 Abortion）导语是「引导句 + 引用块 + 后续段落」三段式，
+    只用第一个 <p class="topic-paragraph"> 会截断。
+    """
+    m = re.search(r"<h1[^>]*>.*?</h1>", main_text, re.S)
+    start = m.end() if m else 0
+    end = main_text.find('<section class="pro"')
+    if end == -1:
+        end = main_text.find('<section class="con"')
+    seg = main_text[start:end] if end != -1 else main_text[start:]
+    parts = []
+    for mm in re.finditer(
+        r'<p class="topic-paragraph"[^>]*>(.*?)</p>|<blockquote[^>]*>(.*?)</blockquote>',
+        seg, re.S,
+    ):
+        txt = clean(mm.group(1) or mm.group(2))
+        if txt:
+            parts.append(txt)
+    intro = re.sub(r"\[\d+\]", "", " ".join(parts))
+    intro = re.sub(r"\s+", " ", intro).strip()
+    if len(intro) > MAX_INTRO_CHARS:
+        intro = intro[:MAX_INTRO_CHARS].rstrip() + " …"
+    return intro
+
+
 def _procon_argument(block_html):
     """解析一个 <section class='pro'|'con'> 论点块。"""
     m = re.search(r"<h2[^>]*>(.*?)</h2>", block_html, re.S)
@@ -188,10 +216,7 @@ def fetch_procon_item(session, url, seen):
     m = re.search(r"<h1[^>]*>(.*?)</h1>", main.text, re.S)
     title = clean(m.group(1)) if m else slug
 
-    intro = ""
-    m = re.search(r'<p class="topic-paragraph">(.*?)</p>', main.text, re.S)
-    if m:
-        intro = re.sub(r"\[\d+\]", "", clean(m.group(1)))
+    intro = _procon_intro(main.text)
 
     pro = [_procon_argument(b) for b in re.findall(r'<section class="pro"[^>]*>(.*?)</section>', main.text, re.S)]
     con = []

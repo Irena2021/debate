@@ -1,85 +1,261 @@
 # This House would return cultural property residing in museums to its place of origin
 
-> **元信息**：英语 | 来源：iDebate Debatabase | 分类：Culture | [原文](https://idebate.net/this-house-would-return-cultural-property-residing-in-museums-to-its-place-of-origin~b693/) | 2026-09-14
+> **元信息**：英·中·法 | 来源：iDebate Debatabase | 分类：Culture | [原文](https://idebate.net/this-house-would-return-cultural-property-residing-in-museums-to-its-place-of-origin~b693/) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题讨论的是：那些现在存放在西方国家博物馆里的文物，是否应该归还给它们原本所属的国家或地区。
+
+- 中：博物馆里的文物该不该归还给它们的原产地——这是关于文化归属、历史正义与现实可行性的争论。
+- EN：Should cultural objects held in museums be sent back to where they came from—this debate is about cultural belonging, historical justice, and practical feasibility.
+- FR：Les objets culturels conservés dans les musées doivent-ils être renvoyés là d'où ils viennent ? Ce débat porte sur l'appartenance culturelle, la justice historique et la faisabilité pratique.
 
 ### 正方立场
-- 文物只有放回它原本的文化和建筑环境里，才能真正被理解和欣赏；脱离原境的碎片就只是碎片。
-- 西方博物馆长期占有这些文物，本质上是帝国主义心态的残留，暗示非西方国家无力照看自己的遗产。
-- 很多文物当年是通过非法手段获取的，比如额尔金借政治混乱从奥斯曼当局手中拿走帕特农神庙大理石，连授权文件的合法性都存疑。
-- 发展中国家如今已有能力保护自己的文物，例如希腊自1975年起修复卫城，并建成了耗资两亿美元的新卫城博物馆。
-- 西方国家的道义责任是归还，而不是继续以“保护者”自居。
+
+- 中：文物只有放回它原本的环境里，才能真正被理解和欣赏；脱离原境的碎片只是失去意义的残片。
+- EN：Cultural artefacts can only be truly understood and valued in their original context; removed from it, they become meaningless fragments.
+- FR：Les artefacts culturels ne peuvent être vraiment compris et appréciés que dans leur contexte d'origine ; une fois retirés de ce contexte, ils ne sont plus que des fragments sans signification.
+
+- 中：西方博物馆长期占有他国文物，是帝国主义心态的遗留，暗含「西方才是文明继承者」的傲慢。
+- EN：Western museums keeping foreign artefacts is a leftover of imperialist attitudes—the arrogant belief that the West is the true heir to civilisation.
+- FR：Le fait que les musées occidentaux conservent des artefacts étrangers est un vestige des mentalités impérialistes — la croyance arrogante que l'Occident est le véritable héritier de la civilisation.
+
+- 中：很多文物当年是被非法掠夺或骗取的，来源本身就不正当，西方没有理由继续留着。
+- EN：Many artefacts were illegally looted or taken under dubious deals, so Western states have no right to keep them.
+- FR：De nombreux artefacts ont été pillés illégalement ou obtenus par des accords douteux ; les États occidentaux n'ont donc aucun droit de les garder.
+
+- 中：发展中国家现在完全有能力保护和保存自己的文化遗产，过去「他们照顾不好」的说法已经过时。
+- EN：Developing countries are now fully capable of protecting and preserving their own cultural heritage—the old excuse that they cannot take care of it no longer holds.
+- FR：Les pays en développement sont désormais tout à fait capables de protéger et de préserver leur propre patrimoine culturel — l'ancien argument selon lequel ils ne sauraient pas en prendre soin n'est plus valable.
 
 ### 反方立场
-- 文物留在西方，学者更容易接触和研究，也更有机会开展国际合作；罗塞塔石碑就是靠英国才被破译的。
-- 文物的历史意义早已超越其起源地，比如罗马圣彼得广场的埃及方尖碑，如今已是罗马古代霸权的象征。
-- 文物应该让尽可能多的人看到，放在西方大博物馆里才能实现最大的教育价值。
-- 归还文物在操作上极其昂贵和危险，运输途中可能损坏、被盗甚至成为恐怖袭击目标。
-- 很多西方博物馆的基础设施和安保条件更稳定，更能长期保存文物。
+
+- 中：文物留在西方，学者更容易接触和研究，也更有机会开展国际合作。
+- EN：Keeping artefacts in the West gives scholars easier access for study and more opportunities for international collaboration.
+- FR：Conserver les artefacts en Occident facilite l'accès des chercheurs pour l'étude et multiplie les occasions de collaboration internationale.
+
+- 中：文物的历史意义早已超越原产地，它们和所在城市也形成了新的联系，成为当地历史的一部分。
+- EN：The historical significance of artefacts goes beyond their place of origin; over time they form new ties with the city that houses them and become part of its history.
+- FR：La signification historique des artefacts dépasse leur lieu d'origine ; avec le temps, ils tissent de nouveaux liens avec la ville qui les abrite et font partie de son histoire.
+
+- 中：文物应该让尽可能多的人看到，放在大博物馆里才能发挥最大的教育价值。
+- EN：Artefacts should be seen by as many people as possible; placing them in major museums maximises their educational value.
+- FR：Les artefacts doivent être vus par le plus grand nombre possible de personnes ; les placer dans de grands musées maximise leur valeur éducative.
+
+- 中：归还文物在现实中代价极高，运输风险大，还可能遭遇损坏、盗窃甚至恐怖袭击。
+- EN：Returning artefacts is extremely costly in practice, with high transport risks including damage, theft, and even terrorism.
+- FR：Le retour des artefacts est extrêmement coûteux en pratique, avec des risques élevés de dommages, de vol, voire d'attaques terroristes pendant le transport.
 
 ### 写作借鉴
-- 引出论点：Cultural treasures should be displayed in the context in which they originated; only then can they be truly valued and understood.（用于支持归还，强调“原境”的重要性）
-- 让步转折：It may have been true that countries such as Greece were not capable of looking after their heritage in the past, but that has now changed.（用于承认对方部分合理性后，再反驳其现实依据）
-- 总结/升华：Artefacts have a historical and symbolic meaning that transcends their origins.（用于反方总结，强调文物意义已超越单一来源国）
+
+- EN：Cultural treasures should be displayed in the context in which they originated; only then can they be truly valued and understood.
+- 中：用于「引出论点」——先给出主张，再用 only then 强调条件，语气有力。
+- FR：Utilisé pour « introduire un argument » — on pose d'abord la thèse, puis on insiste sur la condition avec only then, ce qui donne un ton ferme.
+
+- EN：It may have been true that... in the past, but that has now changed.
+- 中：用于「让步转折」——先承认对方过去有道理，再指出情况已经不同，显得客观有说服力。
+- FR：Utilisé pour « concéder puis retourner l'argument » — on reconnaît d'abord que l'adversaire avait raison autrefois, puis on montre que la situation a changé, ce qui paraît objectif et convaincant.
+
+- EN：Artefacts have a historical and symbolic meaning that transcends their origins.
+- 中：用于「总结」——用 transcends 一词升华论点，说明意义超越某一层面，适合收尾。
+- FR：Utilisé pour « conclure » — le verbe transcends élève l'argument en montrant que le sens dépasse un certain niveau, ce qui convient bien à la conclusion.
 
 ## 📖 背景 Background
 
+**English**
+
 The United Nations Educational, Scientific, and Cultural Organization (UNESCO) defines cultural property as “property which, on religious or secular grounds, is specifically designated by each State as being of importance for archaeology, prehistory, history, literature, art or science”, but a broader definition would not require the state to be proactive in ‘designating’ such cultural property, something which may lead to a bias against minority cultures. So debaters may wish to work with a broader definition simply based upon the significance of an object to a particular area or people. [1] In 1970, UNESCO drafted the Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property . [2] The convention requires states to create national bodies to oversee the protection of cultural heritage and to establish guidelines for transferring cultural property across borders. To date, 88 countries have ratified the treaty. But of the major art market nations – those that have prominent museums or large private collections – only France and the United States have joined. The member states of UNESCO also decided to create an independent body that could oversee the return of cultural artefacts and uphold the provisions of the 1970 convention. In 1980, the Intergovernmental Committee for Promoting the Return of Cultural Property to its Countries of Origin or its Restitution in Case of Illicit Appropriation [3] met for the first time. The committee is charged with:
+
+**中文**
+
+联合国教育、科学及文化组织（UNESCO）将文化财产定义为“各国基于宗教或世俗理由明确指定为对考古学、史前史、历史、文学、艺术或科学具有重要意义的财产”，但更宽泛的定义不会要求国家主动“指定”此类文化财产，这可能导致对少数群体文化的偏见。因此，辩手们可能希望采用一个更宽泛的定义，仅基于物品对某一特定地区或人民的意义。[1] 1970年，UNESCO起草了《关于禁止和防止非法进出口文化财产和非法转让其所有权的方法的公约》。[2] 该公约要求各国建立国家机构来监督文化遗产的保护，并制定文化财产跨境转移的准则。迄今为止，已有88个国家批准了该条约。但在主要艺术市场国家——那些拥有著名博物馆或大量私人收藏的国家——中，只有法国和美国加入了。UNESCO的成员国还决定创建一个独立机构，可以监督文化文物的归还并维护1970年公约的条款。1980年，促进文化财产归还原属国或返还非法占有文化财产政府间委员会[3]召开了第一次会议。
+
+**Français**
+
+L'Organisation des Nations Unies pour l'éducation, la science et la culture (UNESCO) définit les biens culturels comme « les biens qui, à titre religieux ou profane, sont désignés par chaque État comme étant d'une importance particulière pour l'archéologie, la préhistoire, l'histoire, la littérature, l'art ou la science », mais une définition plus large n'exigerait pas que l'État soit proactif dans la « désignation » de ces biens culturels, ce qui pourrait conduire à un préjugé contre les cultures minoritaires. Les débatteurs peuvent donc souhaiter travailler avec une définition plus large, simplement fondée sur l'importance d'un objet pour une région ou un peuple particulier. [1] En 1970, l'UNESCO a rédigé la Convention concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites des biens culturels. [2] La convention exige que les États créent des organismes nationaux chargés de surveiller la protection du patrimoine culturel et d'établir des lignes directrices pour le transfert de biens culturels à travers les frontières. À ce jour, 88 pays ont ratifié le traité. Mais parmi les grands pays du marché de l'art – ceux qui possèdent des musées de premier plan ou de grandes collections privées –, seuls la France et les États-Unis ont adhéré. Les États membres de l'UNESCO ont également décidé de créer un organisme indépendant qui pourrait superviser le retour des artefacts culturels et faire respecter les dispositions de la convention de 1970. En 1980, le Comité intergouvernemental pour la promotion du retour des biens culturels à leur pays d'origine ou leur restitution en cas d'appropriation illégale [3] s'est réuni pour la première fois.
 
 ## ✅ 正方论点 Pros
 
 ### Cultural artefacts are enriched when displayed in the context from which they originated
 
+**English**
+
 Cultural treasures should be displayed in the context in which they originated; only then can they be truly valued and understood. In the case of the Parthenon marbles this is an architectural context which only proximity to the Parthenon itself can provide. In the British Museum they appear as mere disconnected fragments, stripped of any emotional meaning. It may also be useful for academics to have a cultural property in its original context in order to be able to understand it, for example a carved door may be a beautiful artefact but it cannot be truly understood unless we know what the door was used for, where it leads too something for which it is necessary to see the context. Cultural and historical tourism is an important source of income for many countries, and is especially important for developing countries. If their artefacts have been appropriated by foreign museums in wealthy nations then they are being deprived of the economic opportunity to build a successful tourist trade. Both the treasures themselves are being devalued as is the experience of seeing the treasures.
 
 **反驳 Counterpoint**：The artefacts' place of origin has more often than not changed dramatically since they were in situ there. It is therefore unconvincing to argue that the context of modern Orthodox Greece aids visitors’ appreciation of an ancient pagan relic. Too much has changed physically and culturally over the centuries for artefacts to speak more clearly in their country of origin than they do in museums, where they can be compared to large assemblies of objects from a wide variety of cultures. Similarly, a great many cultural treasures relate to religions and cultures which no longer survive and there can be no such claim for their return. Technology has also evolved to the point that Ancient Greece can be just as accurately evoked virtually as it could be in modern Greece . Countries with cultural heritage retain the attraction of being the original locations of historical events or places of interest even without all the artefacts in place. The sanctuaries of Olympia and Delphi in Greece are a good example of this; they are not filled with artefacts, but continue to attract visitors because the sites are interesting in themselves. In 2009 2,813,548 people visited Athens, with 5,970,483 visiting archaeological sites across Greece , even without the Parthenon marbles. Also, people who have seen an artefact in a foreign museum may then be drawn to visit the area it originated from. It is the tourist trade of the nations where these artefacts are held (mostly northern European nations, like Britain and France) which would suffer if they were repatriated. Lacking the climate and natural amenities of other tourist destinations they rely on their cultural offerings in order to attract visitors
 
+**中文**
+
+文化文物在其起源背景中展示时会更加丰富
+
+文化瑰宝应当在其起源的背景中展示；只有这样，它们才能真正被珍视和理解。就帕特农神庙大理石雕塑而言，这是一种建筑背景，只有靠近帕特农神庙本身才能提供。在大英博物馆里，它们只是毫无关联的碎片，被剥夺了任何情感意义。对于学者来说，将文化财产置于其原始背景中也可能有助于理解它，例如一扇雕刻的门可能是一件美丽的文物，但除非我们知道这扇门是做什么用的、通向哪里，否则就无法真正理解它——为此必须看到背景。文化和历史旅游是许多国家的重要收入来源，对发展中国家尤其重要。如果它们的文物被富裕国家的外国博物馆占有，那么它们就被剥夺了建立成功旅游经济的机会。这些珍宝本身以及观赏这些珍宝的体验都在贬值。
+
+反方……
+
+**Français**
+
+Les artefacts culturels sont enrichis lorsqu'ils sont exposés dans le contexte dont ils sont originaires
+
+Les trésors culturels devraient être exposés dans le contexte dont ils sont originaires ; c'est seulement alors qu'ils peuvent être véritablement appréciés et compris. Dans le cas des marbres du Parthénon, il s'agit d'un contexte architectural que seule la proximité du Parthénon lui-même peut fournir. Au British Museum, ils apparaissent comme de simples fragments déconnectés, dépouillés de toute signification émotionnelle. Il peut également être utile pour les universitaires de disposer d'un bien culturel dans son contexte d'origine afin de pouvoir le comprendre ; par exemple, une porte sculptée peut être un bel artefact, mais elle ne peut être véritablement comprise que si nous savons à quoi servait cette porte, où elle mène – quelque chose pour lequel il est nécessaire de voir le contexte. Le tourisme culturel et historique est une source importante de revenus pour de nombreux pays, et il est particulièrement important pour les pays en développement. Si leurs artefacts ont été appropriés par des musées étrangers dans des nations riches, alors ils sont privés de l'opportunité économique de bâtir un commerce touristique prospère. Les trésors eux-mêmes sont dévalorisés, tout comme l'expérience de les voir.
+
+Contre-argument…
+
 ### Retaining artefacts is a relic of imperialist attitudes to non-occidental cultures
+
+**English**
 
 Display of cultural treasures in Western museums may be seen as a last hangover from the imperial belief that “civilised” states such as Britain were the true cultural successors to Ancient Greece and Rome, and that the ‘barbarian’ inhabitants of those ancient regions were unable to appreciate or look after their great artistic heritage. Whether that was true in the 19th century is open to doubt; it certainly is not valid today and the display of imperial trophies in institutions such as the British Museum or the Louvre is a reminder to many developing nations of their past oppression. For instance, the British Museum is refusing to return 700 of the Benin Bronzes to Nigeria despite repeated requests by the Nigerian government . The Rosetta stone has been the subject of demands by the Egyptian government but remains in London. These artefacts become almost souvenirs of Imperialism, a way of retaining cultural ownership long after the political power of Britain has faded. Returning them would be a gesture of goodwill and cooperation.
 
 **反驳 Counterpoint**：For whatever reason the treasures were first collected, we should not rewrite history. There is no reason to politicise this argument; museums have no 'political' agenda but merely wish to preserve historical objects for their intrinsic value. Their reasons for keeping these items may be financial, or in the interests of keeping the artefacts safe and accessible to the public; whatever they may be, they are not political. Don’t the nations who have expended resources protecting and preserving these artefacts deserve in return the right to display them? Additionally, not all artefacts held outside their country of origin are the result of imperial or exploitative relationships. The original Medieval Crown of England is held in Munich . Artistic exchange has nothing to do with politics anymore.
 
+**中文**
+
+保留文物是帝国主义对非西方文化态度的遗毒
+
+在西方博物馆展示文化瑰宝可能被视为帝国主义信念的最后余毒，即认为像英国这样的“文明”国家是古希腊和古罗马的真正文化继承者，而那些古代地区的“野蛮”居民无法欣赏或照管他们伟大的艺术遗产。这在19世纪是否属实尚存疑问；今天肯定不再成立，而在大英博物馆或卢浮宫等机构展示帝国战利品，对许多发展中国家来说是对其过去受压迫的提醒。例如，尽管尼日利亚政府一再要求，大英博物馆仍拒绝将700件贝宁青铜器归还尼日利亚。罗塞塔石碑一直是埃及政府要求的对象，但仍留在伦敦。这些文物几乎成了帝国主义的纪念品，是在英国政治权力早已消退之后仍保留文化所有权的一种方式。归还它们将是一种善意与合作的姿态。
+
+反方观点：无论这些珍宝最初被收集的原因是什么……
+
+**Français**
+
+Conserver les artefacts est un vestige des attitudes impérialistes envers les cultures non occidentales
+
+L'exposition de trésors culturels dans les musées occidentaux peut être considérée comme la dernière séquelle de la croyance impériale selon laquelle des États « civilisés » comme la Grande-Bretagne étaient les véritables successeurs culturels de la Grèce et de Rome antiques, et que les habitants « barbares » de ces régions anciennes étaient incapables d'apprécier ou de prendre soin de leur grand héritage artistique. Que cela ait été vrai au XIXe siècle est sujet à caution ; cela ne l'est certainement plus aujourd'hui, et l'exposition de trophées impériaux dans des institutions telles que le British Museum ou le Louvre rappelle à de nombreuses nations en développement leur oppression passée. Par exemple, le British Museum refuse de restituer 700 bronzes du Bénin au Nigeria malgré les demandes répétées du gouvernement nigérian. La pierre de Rosette a fait l'objet de demandes du gouvernement égyptien mais reste à Londres. Ces artefacts deviennent presque des souvenirs de l'impérialisme, une façon de conserver la propriété culturelle longtemps après que la puissance politique de la Grande-Bretagne s'est estompée. Les restituer serait un geste de bonne volonté et de coopération.
+
+Contre-argument : Quelle que soit la raison pour laquelle les trésors ont d'abord été collectionnés…
+
 ### Many artefacts resting in western museums were acquired illegally. Western states have a duty to retain them.
+
+**English**
 
 Artefacts were often acquired illegally. Elgin, for instance, appropriated the Parthenon Marbles from the Ottoman authorities who had invaded Greece and were arguably not the rightful owners of the site; he took advantage of political turmoil to pillage these ancient statues. Doubt has even been cast on the legality of the 1801 document which purportedly gave Elgin permission to remove the marbles . The Axum obelisk was seized from Ethiopia by Mussolini as a trophy of war; fortunately the injustice of this action has since been recognised and the obelisk was restored to its rightful place in 2005 . UNESCO regulations initially required the return of artefacts removed from their country of origin after 1970,when the treaty came into force, but did not deal with any appropriations before this date due to deadlock in the negotiations for the framing of the convention that prevented inclusion of earlier removals. . However, the 1995 UNIDROIT Convention on Stolen or Illegally Exported Cultural Objects essentially removes the ambiguity about time limitations of UNESCO’s 1970 convention. Here, nations are required, in all cases, to return cultural artefacts to their countries of origin if those items were once stolen or removed illegally . International law is thus on the side of returning artefacts.
 
 **反驳 Counterpoint**：Although some treasures may have been acquired illegally, the evidence for this is often ambiguous. Experts agree that Greece could mount no court case because Elgin was granted permission by what was then Greece's ruling government. Lord Elgin’s bribes were the common way of facilitating any business in the Ottoman Empire, and do not undermine Britain’s solid legal claim to the Parthenon marbles, based upon a written contract made by the internationally-recognised authorities in Athens at the time. The veracity of the document can never be fully dismissed as it is a translation. And while some Benin bronzes were undoubtedly looted, other “colonial trophies” were freely sold to the imperial powers, indeed some were made specifically for the European market.
 
+**中文**
+
+许多存放在西方博物馆的文物是非法获得的。西方国家有义务保留它们。
+
+文物往往是通过非法手段获得的。例如，埃尔金从入侵希腊的奥斯曼当局那里占有了帕特农神庙大理石雕塑，而奥斯曼当局可以说并不是该遗址的合法所有者；他利用政治动荡掠夺了这些古代雕像。甚至那份据称授予埃尔金移走大理石许可的1801年文件的合法性也受到质疑。阿克苏姆方尖碑被墨索里尼作为战利品从埃塞俄比亚夺走；幸运的是，这一行为的不公正后来得到承认，方尖碑于2005年被归还到其 rightful 位置。UNESCO的规定最初要求归还1970年公约生效后从原属国移走的文物，但由于公约制定谈判陷入僵局，未能处理此日期之前的任何占有行为，这阻碍了将更早的移走行为纳入其中。然而，1995年《国际统一私法协会关于被盗或者非法出口文物的公约》基本上消除了UNESCO 1970年公约在时间限制方面的模糊性……
+
+**Français**
+
+De nombreux artefacts conservés dans les musées occidentaux ont été acquis illégalement. Les États occidentaux ont le devoir de les conserver.
+
+Les artefacts étaient souvent acquis illégalement. Elgin, par exemple, s'est approprié les marbres du Parthénon auprès des autorités ottomanes qui avaient envahi la Grèce et n'étaient sans doute pas les propriétaires légitimes du site ; il a profité du tumulte politique pour piller ces statues antiques. La légalité même du document de 1801 qui aurait donné à Elgin la permission d'enlever les marbres a été mise en doute. L'obélisque d'Axoum a été saisi en Éthiopie par Mussolini comme trophée de guerre ; heureusement, l'injustice de cette action a depuis été reconnue et l'obélisque a été restauré à sa juste place en 2005. Les règlements de l'UNESCO exigeaient initialement le retour des artefacts retirés de leur pays d'origine après 1970, date d'entrée en vigueur du traité, mais ne traitaient pas des appropriations antérieures à cette date en raison de l'impasse dans les négociations pour la rédaction de la convention, qui empêchait d'inclure les retraits plus anciens. Cependant, la Convention d'UNIDROIT de 1995 sur les biens culturels volés ou illicitement exportés supprime essentiellement l'ambiguïté concernant les limites temporelles de la convention de 1970 de l'UNESCO…
+
 ### Developing countries are able to guard and preserve their own cultural treasures
+
+**English**
 
 It may have been true that countries such as Greece were not capable of looking after their heritage in the past, but that has now changed. Since 197 5 Greece has been carefully restoring the Acropolis and Athens now has a secure environment to maintain the marbles. The state-of-the-art New Acropolis Museum, which cost $200m, has now been completed to house the surviving marbles , and even contains a replica of the temple, thus the marbles would appear as being exactly the same as on the real temple. Pollution control measures (such as installing pollution monitoring stations throughout metropolitan Athens and ensuring that motor vehicles must comply with emission standards ) have reduced sulphur-dioxide levels in the city to a fifth of their previous levels. At the same time the curatorship of institutions such as the British Museum is being called into question, as it becomes apparent that controversial cleaning and restoration practices may have harmed the sculptures they claim to protect. In the 1930s the British museum’s attempt to clean them using chisels caused irreparable damage. They have also been irresponsible when it comes to protecting the fate of many of its artefacts: “The British Museum has sold off more than 30 controversial Benin bronzes for as little as £75 each since 1950, it has emerged”; “The museum now regrets the sales” .
 
 **反驳 Counterpoint**：In the case of the Parthenon marbles, Lord Elgin’s action in removing them was an act of rescue as the Parthenon was being used as a quarry by the local population. The Parthenon had already been destroyed by an explosion in 1687. Having been removed the result was that the British protected them between 1821 and 1833 during the Greek War of Independence was occurring and the Acropolis was besieged twice. Furthermore, if they had been returned upon Greek independence in 1830, the heavily polluted air of Athens would have caused extensive damage to such artefacts that would be open to the elements and Greek attempts at restoration in 1898 were as damaging as the British. Today economic austerity lends new uncertainty to Greece’s commitment to financing culture. Similar problems face the return of artefacts to African museums; wooden figures would decay in the humid atmosphere. Artefacts in Northern Africa are at risk because of the recent revolts and civil wars . Wealthier countries sometimes simply have better resources to protect, preserve and restore historical artefacts than their country of origin. Our moral obligation is to preserve the artefact for future generations, and if this is best achieved by remaining in a foreign country then that must be the course of action.
 
+**中文**
+
+发展中国家有能力守护和保存自己的文化瑰宝
+
+过去像希腊这样的国家可能确实无力照管自己的遗产，但如今情况已经改变。自1975年以来，希腊一直在精心修复卫城，雅典现在拥有安全的环境来保存这些大理石雕塑。耗资2亿美元的最先进的新卫城博物馆现已建成，用于存放现存的大理石雕塑，甚至包含神庙的复制品，因此这些大理石雕塑的呈现将与真实神庙上完全相同。污染控制措施（如在雅典大都会区安装污染监测站，并确保机动车辆符合排放标准）已将城市中的二氧化硫水平降至以前的五分之一。与此同时，像大英博物馆这样的机构的策展能力正受到质疑，因为明显有争议的清洁和修复做法可能损害了它们声称要保护的雕塑。20世纪30年代，大英博物馆试图用凿子清洁它们，造成了不可修复的损坏。它们还……
+
+**Français**
+
+Les pays en développement sont capables de garder et de préserver leurs propres trésors culturels
+
+Il était peut-être vrai que des pays comme la Grèce n'étaient pas capables de prendre soin de leur patrimoine dans le passé, mais cela a maintenant changé. Depuis 1975, la Grèce restaure soigneusement l'Acropole et Athènes dispose désormais d'un environnement sûr pour conserver les marbres. Le nouveau musée de l'Acropole, à la pointe de la technologie, qui a coûté 200 millions de dollars, est maintenant achevé pour abriter les marbres survivants, et contient même une réplique du temple, de sorte que les marbres apparaîtraient exactement comme sur le vrai temple. Les mesures de contrôle de la pollution (comme l'installation de stations de surveillance de la pollution dans toute la région métropolitaine d'Athènes et l'obligation pour les véhicules à moteur de respecter les normes d'émission) ont réduit les niveaux de dioxyde de soufre dans la ville à un cinquième de leurs niveaux précédents. Dans le même temps, la conservation dans des institutions telles que le British Museum est remise en question, car il devient évident que des pratiques de nettoyage et de restauration controversées ont pu endommager les sculptures qu'elles prétendent protéger. Dans les années 1930, la tentative du British Museum de les nettoyer à l'aide de ciseaux a causé des dommages irréparables. Ils ont aussi…
+
 ## ❌ 反方论点 Cons
 
 ### Scholars will have better access to artefacts, and more opportunities for study and collaboration, if they are stored in the west
+
+**English**
 
 If the Rosetta Stone had not been taken by the British in 1801, the deciphering of the ancient hieroglyphic language of the ancient Egyptian civilizations would have been near impossible. The British Museum is within just hours, and in some cases minutes, of such world-renowned institutions as Cambridge, Oxford, UCL, and Edinburgh. The scientific research that occurs in stable developed countries and scientifically excelling countries is of the highest degree, and parallels to this high level of study are simply non-existent in many underdeveloped countries.
 
 **反驳 Counterpoint**：If the artefacts are of sufficient historical and cultural interest, scholars will travel to any location in order to study them. Indeed, the proximity of artefacts in developing countries may even stimulate intellectual curiosity and increase the quality of universities in there, which would be beneficial for world culture.
 
+**中文**
+
+如果文物被存放在西方，学者们将能更好地接触这些文物，也会有更多研究和合作的机会。
+
+如果罗塞塔石碑没有在1801年被英国人拿走，破译古埃及文明的古代象形文字几乎是不可能的。大英博物馆距离剑桥、牛津、伦敦大学学院和爱丁堡等世界知名学府只有几个小时，有时甚至只有几分钟的路程。在稳定的发达国家和科学卓越的国家进行的科学研究水平是最高的，而在许多欠发达国家，这种高水平的研究根本无法与之相比。
+
+反方观点：如果文物具有足够的历史和文化价值，学者们会前往任何地方进行研究。事实上，文物在发展中国家附近甚至可能激发求知欲，提高那里大学的质量，这对世界文化是有益的。
+
+**Français**
+
+Si les artefacts sont conservés en Occident, les chercheurs y auront un meilleur accès et davantage d'occasions d'étudier et de collaborer.
+
+Si la pierre de Rosette n'avait pas été prise par les Britanniques en 1801, le déchiffrement de l'ancienne écriture hiéroglyphique des civilisations de l'Égypte antique aurait été presque impossible. Le British Museum se trouve à quelques heures, et parfois à quelques minutes, d'institutions de renommée mondiale comme Cambridge, Oxford, UCL et Édimbourg. La recherche scientifique menée dans des pays développés stables et excellant sur le plan scientifique est du plus haut niveau, et il n'existe tout simplement pas d'équivalent à ce haut niveau d'étude dans de nombreux pays sous-développés.
+
+Thèse adverse : si les artefacts présentent un intérêt historique et culturel suffisant, les chercheurs se rendront n'importe où pour les étudier. En fait, la proximité des artefacts dans les pays en développement peut même stimuler la curiosité intellectuelle et améliorer la qualité des universités locales, ce qui serait bénéfique pour la culture mondiale.
+
 ### The historical significance of artefacts extends beyond their culture of origin
+
+**English**
 
 Artefacts have a historical and symbolic meaning that transcends their origins; over the years they acquire a connection with the place that they are housed. For example, the Egyptian obelisk that stands in the Piazza di San Pietro in Rome was brought to Italy in the reign of Caligula. It is no longer merely an ‘Egyptian’ artefact - it has become a symbol of Roman dominance in the ancient world and the European Christian culture that succeeded it. During the Middle Ages it was believed that the ashes of Julius Caesar were contained in the gilt ball at the top . Further, all artefacts are part of a world-wide collective history. Olduvai handaxes (from countries in Eastern Africa such as Tanzania) are held in the British Museum - but the people who made them are our ancestors just as much as they are the ancestors of local people. Holding these in London encourages us to see the common ground we hold with people everywhere in the world, whereas keeping them only in their local country only highlights our differences and tribal identities. “Culture knows no political borders. It never has. It’s always been mongrel; it’s always been hybrid; and it’s always moved across borders or bears the imprint of earlier contact” .
 
 **反驳 Counterpoint**：Artefacts often have unique religious and cultural connections with the place from where they were taken, but none for those who view them in museum cases. To the descendants of their creators it is offensive to see aspects of their spirituality displayed for the entertainment of foreigners. Meanings may have accumulated around artefacts, but their true significance is rooted in its origins.
 
+**中文**
+
+文物的历史意义超越了其起源文化
+
+文物具有超越其起源的历史和象征意义；多年来，它们与所存放的地方建立了联系。例如，矗立在罗马圣彼得广场的埃及方尖碑是在卡利古拉统治时期被带到意大利的。它不再仅仅是一件“埃及”文物——它已成为古罗马世界统治地位以及继之而来的欧洲基督教文化的象征。在中世纪，人们相信方尖碑顶部的镀金球中装有尤利乌斯·凯撒的骨灰。此外，所有文物都是世界集体历史的一部分。奥杜威手斧（来自坦桑尼亚等东非国家）被收藏在大英博物馆——但制造它们的人既是当地人的祖先，也是我们的祖先。将它们保存在伦敦，鼓励我们看到我们与世界各地人民的共同点，而将它们只保存在当地国家，只会凸显我们的差异和部落身份。“文化不分政治边界。从来如此。它一直是……
+
+**Français**
+
+La signification historique des artefacts dépasse leur culture d'origine
+
+Les artefacts ont une signification historique et symbolique qui transcende leurs origines ; au fil des années, ils acquièrent un lien avec le lieu où ils sont conservés. Par exemple, l'obélisque égyptien qui se dresse sur la place Saint-Pierre à Rome a été apporté en Italie sous le règne de Caligula. Il n'est plus simplement un artefact « égyptien » : il est devenu un symbole de la domination romaine dans le monde antique et de la culture chrétienne européenne qui lui a succédé. Au Moyen Âge, on croyait que les cendres de Jules César étaient contenues dans la boule dorée au sommet. En outre, tous les artefacts font partie d'une histoire collective mondiale. Les bifaces d'Olduvai (provenant de pays d'Afrique de l'Est comme la Tanzanie) sont conservés au British Museum, mais ceux qui les ont fabriqués sont autant nos ancêtres que ceux des populations locales. Les conserver à Londres nous encourage à voir ce que nous avons en commun avec les peuples du monde entier, tandis que les garder uniquement dans leur pays local ne met en évidence que nos différences et nos identités tribales. « La culture ne connaît pas de frontières politiques. Cela n'a jamais été le cas. Elle a toujours été… »
+
 ### Artefacts should be made accessible to the largest possible number of visitors
+
+**English**
 
 Art treasures should be accessible to the greatest number of people and to scholars, because only then can the educational potential of these artefacts be realised. In response to a question about whether museums have any social responsibility, Richard Armstrong, director at the Guggenheim, said “Absolutely, it began with the French Revolution. It is the more than a 200-year-old quest to have the most powerful cultural artefacts available to the greatest number of people. One could say it is the project of democratizing beauty ” . In practice this means retaining them in the great museums of the world. Further some of the world great museums, such as those in Britain and the Smithsonian in Washington D.C. are free of charge.
 
 **反驳 Counterpoint**：Many people from an artefact's country of origin never get to see them because they cannot afford to travel to a foreign museum; as such the cost of access to that museum is a very small part of the total cost. These artefacts are part of their cultural history and national identity, and it is important that local people are given the opportunity to see them. It is not all about quantity of visitors; those closest to the artefacts have the greatest right to see them. For others, it should be a privilege not a right.
 
+**中文**
+
+文物应让尽可能多的参观者能够接触到
+
+艺术珍品应让尽可能多的人和学者能够接触到，因为只有这样，这些文物的教育潜力才能得以实现。在回答关于博物馆是否有任何社会责任的问题时，古根海姆博物馆馆长理查德·阿姆斯特朗说：“当然有，这始于法国大革命。这是一项长达200多年的追求，即让最强大的文化文物为尽可能多的人所接触。可以说，这是一个使美民主化的项目。”在实践中，这意味着将它们保存在世界各大博物馆中。此外，世界上一些伟大的博物馆，如英国的博物馆和华盛顿特区的史密森尼博物馆，都是免费开放的。
+
+反方观点：许多来自文物原产国的人从未有机会看到它们，因为他们负担不起前往外国博物馆的旅费；因此，进入该博物馆的费用只是总费用中很小的一部分。这些文物是他们文化历史和民族认同的一部分，让当地人有机会看到它们非常重要。这并非……
+
+**Français**
+
+Les artefacts devraient être accessibles au plus grand nombre de visiteurs possible
+
+Les trésors artistiques devraient être accessibles au plus grand nombre de personnes et aux chercheurs, car c'est seulement ainsi que le potentiel éducatif de ces artefacts peut être réalisé. En réponse à une question sur la responsabilité sociale des musées, Richard Armstrong, directeur du Guggenheim, a déclaré : « Absolument, cela a commencé avec la Révolution française. C'est une quête de plus de 200 ans visant à mettre les artefacts culturels les plus puissants à la disposition du plus grand nombre. On pourrait dire qu'il s'agit du projet de démocratiser la beauté. » En pratique, cela signifie les conserver dans les grands musées du monde. De plus, certains des plus grands musées du monde, comme ceux de Grande-Bretagne et le Smithsonian à Washington D.C., sont gratuits.
+
+Thèse adverse : de nombreuses personnes originaires du pays d'origine d'un artefact ne les voient jamais parce qu'elles n'ont pas les moyens de se rendre dans un musée étranger ; le coût d'accès à ce musée ne représente donc qu'une très petite partie du coût total. Ces artefacts font partie de leur histoire culturelle et de leur identité nationale, et il est important que les populations locales aient la possibilité de les voir. Ce n'est pas…
+
 ### In many cases, returning an artefact may prove to be unreasonably expensive
+
+**English**
 
 Even with modern transport links and technology, transporting every artefact in a foreign museum back to its original location would be an impractically mammoth task. The risk of damage to artefacts would be unavoidable, not to mention the possibility of theft or sabotage en route. Important artefacts in transit would be an ideal public target for acts of terrorism. Moreover, the infrastructure of developing countries is probably not sufficient to cope with that volume. Greece may have spent $200m developing a new museum but relatively it is one of the more wealthy countries of origin for artefacts in the British Museum; places such as Nigeria are unlikely to put such emphasis on cultural investment. Museums all over the world do loan out their collections . Just because they are held in another country’s museum does not mean that the place of origin would not be able to access artefacts. Creating a generous and dynamic network of sharing relics between museums would be a much more realistic way of sharing and ensuring that all could benefit from seeing them.
 
 **反驳 Counterpoint**：Returning artefacts to their original locations would in the past have been an unfeasible project simply because of the risk of transporting everything. Now, however, transport is much quicker and easier and we have improved technology to make the transit less damaging to the artefact; for instance, temperature-controlled containers. Add to favourites Add to Favourites Please Log In to add this debate to Favourites Log In Bibliography Acropolis museum, Home page, http://www.theacropolismuseum.gr/?la=2 AFP, - ‘New Acropolis Museum leads rise in Greek Museum visitor numbers for 2009’, Elginism , June 8 th 2010. http://www.elginism.com/20100608/2891/ Alexandros.com, ‘Greece’, http://alexandros.com/Greece/info.html Bayerische Verwaltung der staatlichen Schlösser, Gärten und Seen, ‘Treasury (Schatzkammer)’, http://www.residenz-muenchen.de/englisch/treasury/pic11.htm BBC News, ‘Who should own historic artefacts?’, 26 th April 2005, http://news.bbc.co.uk/1/hi/talking_point/4460037.stm BBC News, ‘Benin bronzes sold to Nigeria’, 27 th March 2002. http://news.bbc.co.uk/1/hi/entertainment/1896535.stm Beard, Mary, ‘Lord Elgin - Saviour or Vandal?’, BBC History , 17 February 2011, http://www.bbc.co.uk/history/ancient/greeks/parthenon_debate_01.shtml Bodin, Claudia, ‘Richard Armstrong on the Future of the Solomon R Guggenheim Foundation’, 4 th November 2008. http://www.guggenheim.org/guggenheim-foundation/news/2655 Hadingham, Evan, ‘Unlocking Mysteries of the Parthenon’ Smithsonian Magazine , February 2008, http://www.smithsonianmag.com/history-archaeology/Unlocking-Mysteries-of-the-Parthenon.html Hitchens, Christopher, The Elgin Marbles: Should They Be Returned to Greece?, 1998,p.viii, ISBN 1-85984-220-8 Mommsen, Theodor E., ‘The Venetian in Athens and the Destruction of the Parthenon in 1687’, American Journal of Archaeology , Vol 45, No. 4, Oct-Dec 1941, pp. 544-556. http://www.jstor.org/pss/499533 Jenkins, Tiffany, ‘Culture knows no political borders’, The Spectator July 2008. http://www.spectator.co.uk/arts-and-culture/featured/839486/culture-knows-no-political-borders.thtml Odor, Jessica, ‘The Return of Cultural Artefacts to Countries of Origin’, http://www.uni.edu/ihsmun/archive/sc2005/Artifacts.htm . Opoku, Kwame, ‘France returns looted artefacts to Nigeria: Beginning of a long process or an isolated act?’ 29 th January 2010, http://www.museum-security.org/opoku_france_nigeria.htm Parker, Nick ‘Raiders of the Lost Mubarak’, , The Sun , 1 st Feburary 2011. http://www.thesun.co.uk/sol/homepage/news/3383389/SCHOLARS-fear-losing-Egypts-antiquities-as-museums-are-looted-in-revolt-against-tyrant.html Rudenstine, David, 'Did Elgin cheat at marbles?' Nation, Vol. 270, Issue 21, 25 May 2000. htto://proteus.brown.edu/worldofmuseums09/admin/download.html?attachid=9703421 Saintpetersbasilica.org, ‘The Obelisk’, http://saintpetersbasilica.org/Exterior/Obelisk/Obelisk.htm Smith, Helena, ‘British damage to Elgin marbles ‘irreparable’’, The Guardian , 12 November 1999, http://www.guardian.co.uk/uk/1999/nov/12/helenasmith The British Museum, ‘The Parthenon sculpture: stewardship’, http://www.britishmuseum.org/explore/highlights/article_index/e/the_elgin_marbles_ownership.aspx The British Museum, ‘Tours and loans’, http://www.britishmuseum.org/about_us/tours_and_loans.aspx The British Museum, ‘Highlights Olduvai Handaxe’, http://www.britishmuseum.org/explore/highlights/highlight_objects/pe/s/olduvai_handaxe.aspx UNESCO, Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property’, 1970, http://portal.unesco.org/en/ev.php-URL_ID=13039&URL_DO=DO_TOPIC&URL_SECTION=201.html UNESCO Movable Heritage and Museums, Intergovernmental Committee for Promoting the Return of Cultural Property to its Countries of Origin or its Restitution in Case of Illicit Appropriation , http://portal.unesco.org/culture/en/ev.php-URL_ID=35283&URL_DO=DO_TOPIC&URL_SECTION=201.html 20 th session of the General Conference of UNESCO, Statutes of the Intergovernmental Committee for Promoting the Return of Cultural Property to its Countries of Origin or its Restitution in case of Illicit Appropriation, 24 October – 28 November 1978, http://unesdoc.unesco.org/images/0014/001459/145960e.pdf Wikipedia, ‘List of obelisks in Rome’, http://en.wikipedia.org/wiki/List_of_obelisks_in_Rome Wikipedia, ‘Saint Peter’s Sqaure’, http://en.wikipedia.org/wiki/Saint_Peter%27s_Square Young Explorers, ‘A brief history of…’ The British Museum , http://www.britishmuseum.org/explore/young_explorers/discover/videos.aspx Have a good for or against point on this topic? Share it with us!
+
+**中文**
+
+在许多情况下，归还文物可能会被证明是极其昂贵的
+
+即使有现代交通联系和技术，将外国博物馆中的每一件文物运回其原址也将是一项不切实际的巨大任务。文物受损的风险将不可避免，更不用说途中可能发生盗窃或破坏。运输中的重要文物将成为恐怖主义行为的理想公共目标。此外，发展中国家的基础设施可能不足以应对如此大的数量。希腊可能花费了2亿美元开发一座新博物馆，但相对而言，它是大英博物馆中文物原产国中较为富裕的国家之一；像尼日利亚这样的地方不太可能对文化投资给予如此重视。世界各地的博物馆确实会出借其藏品。仅仅因为它们被保存在另一个国家的博物馆中，并不意味着原产地就无法接触到这些文物。在博物馆之间建立一个慷慨而充满活力的文物共享网络，将是一种更现实的共享方式，并确保所有人都能从观赏中受益。
+
+反方观点：将文物归还其原……
+
+**Français**
+
+Dans de nombreux cas, le retour d'un artefact peut s'avérer extrêmement coûteux
+
+Même avec les liaisons de transport et la technologie modernes, transporter chaque artefact d'un musée étranger vers son lieu d'origine serait une tâche titanesque et irréaliste. Le risque d'endommagement des artefacts serait inévitable, sans parler de la possibilité de vol ou de sabotage en cours de route. Des artefacts importants en transit constitueraient une cible publique idéale pour des actes de terrorisme. De plus, les infrastructures des pays en développement ne sont probablement pas suffisantes pour faire face à un tel volume. La Grèce a peut-être dépensé 200 millions de dollars pour développer un nouveau musée, mais relativement, elle est l'un des pays d'origine les plus riches des artefacts du British Museum ; des endroits comme le Nigeria sont peu susceptibles d'accorder une telle importance à l'investissement culturel. Les musées du monde entier prêtent effectivement leurs collections. Le simple fait qu'ils soient conservés dans le musée d'un autre pays ne signifie pas que le lieu d'origine ne pourrait pas avoir accès aux artefacts. Créer un réseau généreux et dynamique de partage de reliques entre les musées serait une manière beaucoup plus réaliste de partager et de garantir que tous puissent bénéficier de leur contemplation.
+
+Thèse adverse : rendre les artefacts à leur ori…

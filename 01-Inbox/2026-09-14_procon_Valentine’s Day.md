@@ -1,61 +1,192 @@
 # Valentine’s Day
 
-> **元信息**：英语 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Valentines-Day-debate) | 2026-09-14
+> **元信息**：英·中·法 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Valentines-Day-debate) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题在争的是：情人节到底该不该继续过——它是一个值得保留的、表达爱意和善意的节日，还是一个被商家绑架、早就变味的多余消费日。
+
+- 中：情人节到底该不该继续庆祝——它是表达爱意、拉动经济的好节日，还是被商业化掏空、多此一举的负担？
+- EN：Should we keep celebrating Valentine's Day — is it a meaningful chance to show love and boost the economy, or an overpriced, commercialized burden?
+- FR : Faut-il continuer à célébrer la Saint-Valentin — est-ce une belle occasion de montrer son amour et de stimuler l'économie, ou une fête commerciale devenue trop chère et vide de sens ?
 
 ### 正方立场
-- 情人节给伴侣一个「特意多走一步」的机会，就像生日和纪念日一样，仪式感能加深感情纽带。
-- 一月的消费低谷之后，情人节带动鲜花、餐厅、小商家生意，对经济是实打实的利好。
-- 节日会随文化演变，如今情人节已经扩展成对家人、朋友、邻居、宠物甚至自己的关爱日。
-- 它还催生了自我关怀和随机善举，比如买健身卡、报自我提升课程，这是好事。
+
+- 中：情人节给了我们一个专门向伴侣表达爱意的机会，就像生日或纪念日一样，值得多花点心思。
+- EN：Valentine's Day gives us a special occasion to celebrate our partners, just like a birthday or anniversary — a day worth going the extra mile.
+- FR : La Saint-Valentin offre une occasion spéciale de célébrer son partenaire, comme un anniversaire — une journée où il vaut la peine d'en faire un peu plus.
+
+- 中：情人节是商家的重要收入来源，尤其能帮小本生意（花店、餐厅）在冬季消费低迷后回血。
+- EN：Valentine's Day is a vital economic boost, especially for small businesses like flower shops and restaurants, helping them recover after the post-holiday slump.
+- FR : La Saint-Valentin est une bouffée d'air économique, surtout pour les petits commerces comme les fleuristes et les restaurants, qui en profitent après le creux de janvier.
+
+- 中：节日会随文化演变，如今情人节已经变成向所有爱的人（家人、朋友、邻居甚至宠物）表达心意的日子，也包括善待自己。
+- EN：Holidays evolve with culture, and Valentine's Day now celebrates all loved ones — family, friends, neighbors, even pets — as well as self-care.
+- FR : Les fêtes évoluent avec la culture, et la Saint-Valentin célèbre aujourd'hui tous ceux qu'on aime — famille, amis, voisins, même les animaux — ainsi que le bien-être personnel.
+
+- 中：情人节还鼓励人们做善事、自我提升（比如健身、上课），这本身是件好事。
+- EN：The holiday even encourages random acts of kindness and self-improvement, like joining a gym or taking a class — and that's a good thing.
+- FR : Cette fête encourage même les gestes de bonté et le développement personnel, comme s'inscrire à un gym ou suivre un cours — et c'est une bonne chose.
 
 ### 反方立场
-- 爱伴侣应该是每天的事，不该靠商店货架和日历上的一个日期来提醒。
-- 情人节过度商业化、花费惊人，人均两百美元，在个人负债高企的背景下不值得鼓励。
-- 什么都庆祝等于什么都不庆祝，把浪漫爱情这个核心稀释掉，节日就失去了原本的意义。
+
+- 中：爱伴侣应该是每天的事，不需要靠商店的糖果花束或日历上的某一天来提醒。
+- EN：Loving your partner should be an everyday practice — we shouldn't need store displays or a date on the calendar to remind us.
+- FR : Aimer son partenaire devrait être une pratique quotidienne — on ne devrait pas avoir besoin des vitrines de magasins ou d'une date au calendrier pour s'en souvenir.
+
+- 中：情人节过度商业化、花费惊人，美国消费者一年花掉约291亿美元，人均200美元，不值得鼓励。
+- EN：Valentine's Day is overly commercialized and expensive — Americans were expected to spend a record $29.1 billion, about $200 per person, which is far too much.
+- FR : La Saint-Valentin est trop commercialisée et trop chère — les Américains devaient dépenser un record de 29,1 milliards de dollars, environ 200 $ par personne, ce qui est beaucoup trop.
+
+- 中：当情人节变成庆祝所有人、所有事（包括自己和宠物），它反而失去了原本的意义——什么都庆祝，就等于什么都没庆祝。
+- EN：When Valentine's Day celebrates everyone and everything — including ourselves and our pets — it loses its meaning: if everything is celebrated, nothing truly is.
+- FR : Quand la Saint-Valentin célèbre tout le monde et n'importe quoi — y compris soi-même et son animal — elle perd son sens : si tout est célébré, rien ne l'est vraiment.
+
+- 中：把节日重心从浪漫爱情稀释成泛泛的「关爱」，反而偷走了这个节日最初特别的地方。
+- EN：Diluting the day's focus from romantic love to a vague "caring for all" steals what made the holiday special in the first place.
+- FR : Diluer l'essence romantique de cette journée en un vague « prendre soin de tous » lui enlève justement ce qui la rendait spéciale.
 
 ### 写作借鉴
-- 引出论点：Valentine’s Day is a wonderful opportunity for celebrating our romantic partners in a special way.（可直接当主题句，后接理由）
-- 让步转折：While it’s tempting to subscribe to the notion that “every day is Valentine’s Day,” …（先承认对方说法，再用 the reality is / the truth is 转回自己立场）
-- 总结/反驳：when everything is celebrated, nothing is truly celebrated.（短句有力，适合放在结尾段收束反方逻辑）
+
+- EN：While it's tempting to subscribe to the notion that "every day is Valentine's Day," the reality is that...
+- 中：用途：先让步承认对方观点有一定道理，再用 "the reality is that..." 转折引出自己的立场，适合用在正文第一段或反驳段。
+- FR : Utilité : concéder un point à l'adversaire (« il est tentant de croire que... ») avant de le retourner avec « en réalité... » — parfait pour un paragraphe de réfutation.
+
+- EN：That the holiday has become a spur for self-improvement... is a good thing.
+- 中：用途：用 "That + 从句 + is..." 的结构把一件事实当作主语来评价，语气客观又有力，适合用来支持某个论点。
+- FR : Utilité : la structure « Que + subjonctif... est une bonne chose » permet de présenter un fait comme sujet et de le juger objectivement — idéal pour appuyer un argument.
+
+- EN：And when everything is celebrated, nothing is truly celebrated.
+- 中：用途：用对比和重复制造冲击力的总结句，适合放在结论段，一句话点明核心反驳。
+- FR : Utilité : une phrase de conclusion frappante basée sur le contraste et la répétition — parfaite pour résumer un contre-argument en une seule phrase.
 
 ## 📖 背景 Background
 
+**English**
+
 Valentine’s Day is celebrated on February 14 each year with chocolates , flowers , and brightly colored cards featuring hearts, Cupids , and expressions of love. Although traditionally celebrated as a reflection of romantic love, the holiday has evolved into a more general celebration of friendship and appreciation, one shared with family, friends, neighbors, and coworkers. The holiday is even now celebrated by buying gifts for our pets and for ourselves, indulging in self-gifting as a way to prioritize personal well-being.
+
+**中文**
+
+每年2月14日是情人节，人们用巧克力、鲜花和色彩鲜艳的卡片来庆祝，卡片上印有爱心、丘比特和表达爱意的文字。虽然传统上情人节是作为浪漫爱情的体现来庆祝的，但这个节日已经演变成更广泛的庆祝友谊和感恩的日子，与家人、朋友、邻居和同事一起分享。如今，人们甚至通过给宠物和自己买礼物来庆祝这个节日，以自我赠礼的方式来优先关注个人幸福。
+
+**Français**
+
+La Saint-Valentin est célébrée chaque année le 14 février avec des chocolats, des fleurs et des cartes aux couleurs vives ornées de cœurs, de Cupidon et de déclarations d'amour. Bien que traditionnellement célébrée comme un reflet de l'amour romantique, cette fête est devenue une célébration plus générale de l'amitié et de la reconnaissance, partagée avec la famille, les amis, les voisins et les collègues. Aujourd'hui, on célèbre même cette fête en achetant des cadeaux pour ses animaux de compagnie et pour soi-même, en s'adonnant à l'auto-cadeau comme un moyen de donner la priorité à son bien-être personnel.
 
 ## ✅ 正方论点 Pros
 
 ### Pro 1: Valentine’s Day is a wonderful opportunity for celebrating our romantic partners in a special way.
 
+**English**
+
 Like a birthday or anniversary, Valentine’s Day is a special day for going the extra mile to celebrate our significant others. As Chelsea Reeves of South Tampa Therapy & Mediation explains, Moments of intimacy, affection, and shared joy serve as vital threads that weave the fabric of our bond [with partners]. While it’s tempting to subscribe to the notion that “every day is Valentine’s Day,” the reality is that life’s complexities can sometimes overshadow these moments of tenderness….[The day] can serve as an [sic] poignant reminder to prioritize our connection with our partner. It prompts us to pause amidst life’s hustle and bustle, to reflect on the state of our relationship and to celebrate the love and affection we share. Whether it evokes feelings of warmth and closeness or highlights areas for growth, Valentine’s Day offers a valuable opportunity for introspection and renewal. A single prominent day on the calendar devoted to love and appreciation is never a bad thing. It’s a wonderful reminder to pause and count our blessings and to show gratitude. It can even inspire us to live better, to improve our ways, and to show appreciation for those who enrich our lives throughout the year.
+
+**中文**
+
+正方观点1：情人节是一个以特别方式庆祝我们浪漫伴侣的绝佳机会。
+
+就像生日或周年纪念日一样，情人节是一个为我们的另一半付出额外努力来庆祝的特殊日子。正如南坦帕治疗与调解中心的切尔西·里夫斯所解释的，亲密、关爱和共同欢乐的时刻是编织我们（与伴侣）之间纽带的重要丝线。虽然人们很容易认同“每天都是情人节”这种说法，但现实是，生活的复杂性有时会掩盖这些温柔的时刻……（这一天）可以作为一个深刻的提醒，让我们优先关注与伴侣之间的联系。它促使我们在生活的忙碌喧嚣中停下来，反思我们关系的状态，并庆祝我们共同拥有的爱与关怀。无论它唤起的是温暖和亲密的感觉，还是凸显了需要成长的方面，情人节都提供了一个宝贵的自我反思和重新出发的机会。日历上有一个专门用来表达爱和感激的醒目日子绝不是坏事。它是一个美妙的提醒，让我们停下来数算自己的幸福并表达感恩。它甚至能激励我们……
+
+**Français**
+
+Argument pour 1 : La Saint-Valentin est une merveilleuse occasion de célébrer notre partenaire amoureux de manière spéciale.
+
+Comme un anniversaire ou une date anniversaire, la Saint-Valentin est un jour spécial pour faire un effort supplémentaire afin de célébrer notre moitié. Comme l'explique Chelsea Reeves du South Tampa Therapy & Mediation, les moments d'intimité, d'affection et de joie partagée sont des fils essentiels qui tissent le lien [avec notre partenaire]. Bien qu'il soit tentant d'adhérer à l'idée que « chaque jour est la Saint-Valentin », la réalité est que les complexités de la vie peuvent parfois éclipser ces moments de tendresse… [Ce jour] peut servir de rappel poignant pour donner la priorité à notre connexion avec notre partenaire. Il nous pousse à faire une pause au milieu de l'agitation de la vie, à réfléchir à l'état de notre relation et à célébrer l'amour et l'affection que nous partageons. Qu'il évoque des sentiments de chaleur et de proximité ou qu'il mette en lumière des aspects à améliorer, la Saint-Valentin offre une occasion précieuse d'introspection et de renouveau. Un seul jour bien visible dans le calendrier, consacré à l'amour et à la reconnaissance, n'est jamais une mauvaise chose. C'est un merveilleux rappel de faire une pause, de compter nos bénédictions et d'exprimer notre gratitude. Cela peut même nous inspirer…
 
 ### Pro 2: Valentine’s Day is a vital economic boom for businesses large and small.
 
+**English**
+
 Consumers saving money after an expensive winter holiday season and their returns of less-than-perfect gifts fuel the “January slump,” during which retail sales drop, sometimes dramatically. Mid-February, however, brings Valentine’s Day, which most often features gifts of flowers and dinners at nice restaurants, both of which boost the sales of local and small businesses. Similarly, purchases at candy and jewelry stores and last-minute gift purchases, including trips and self-improvement opportunities, benefit both the local and national economy. As Rachel Ledbetter of the U.S. Chamber of Commerce explains, No matter how Americans celebrate Valentine’s Day 2025, American businesses are at the heart of creating memorable experiences with loved ones, friends and family, and patronage for Cupid’s season is a vital economic boost for workers and businesses across the country.
+
+**中文**
+
+正方观点2：情人节对大大小小的企业来说都是一个重要的经济繁荣期。
+
+消费者在昂贵的冬季假期过后节省开支，加上退回不太满意的礼物，助长了“一月低迷期”，在此期间零售额下降，有时甚至急剧下降。然而，二月中旬带来了情人节，最常见的礼物是鲜花和在高级餐厅用餐，这两者都促进了本地和小型企业的销售。同样，在糖果店和珠宝店的消费以及最后一刻的礼物购买（包括旅行和自我提升机会）都有利于地方和国家经济。正如美国商会的雷切尔·莱德贝特所解释的，无论美国人如何庆祝2025年情人节，美国企业都是与亲人、朋友和家人创造难忘体验的核心，为丘比特季节的消费是对全国工人和企业的重要经济推动。
+
+**Français**
+
+Argument pour 2 : La Saint-Valentin est une bouffée économique vitale pour les entreprises, grandes et petites.
+
+Les consommateurs qui économisent après une saison des fêtes d'hiver coûteuse et les retours de cadeaux imparfaits alimentent le « coup de mou de janvier », pendant lequel les ventes au détail chutent, parfois de façon spectaculaire. La mi-février, cependant, apporte la Saint-Valentin, qui se caractérise le plus souvent par des cadeaux de fleurs et des dîners dans de bons restaurants, ce qui stimule les ventes des commerces locaux et des petites entreprises. De même, les achats dans les confiseries et les bijouteries, ainsi que les achats de dernière minute, y compris les voyages et les occasions de développement personnel, profitent à l'économie locale et nationale. Comme l'explique Rachel Ledbetter de la Chambre de commerce des États-Unis, quelle que soit la façon dont les Américains célèbrent la Saint-Valentin 2025, les entreprises américaines sont au cœur de la création de souvenirs inoubliables avec leurs proches, amis et famille, et consommer pendant la saison de Cupidon est un coup de pouce économique vital pour les travailleurs et les entreprises à travers le pays.
 
 ### Pro 3: Valentine’s Day offers a fun day to celebrate all loved ones, including yourself, pets, kids, and neighbors.
 
+**English**
+
 Holidays evolve as culture evolves, and Valentine’s Day is today an occasion for celebrating everyone and everything that’s special in our lives. The holiday is even a time for random acts of kindness and self-care. That the holiday has become a spur for self-improvement, including buying gym memberships to get into shape and enrolling in special classes for self-improvement, is a good thing. Author Deanna Washington has argued that the “romantic partners-only” perception of the holiday has actually been destructive for many people, for it is just one more day when single people could feel isolated and lonely, just two months after Christmas, a period that was already a tough time for many. I think it is high time for us all to become like children on this special day, so everyone gets to feel the high vibe.…It gives us all a way to acknowledge one another, saying “Hey, I’m glad you are part of my life. I appreciate you.” The best part of the holiday is that you can now choose, freely and proudly, who to celebrate in your life on this special day.
+
+**中文**
+
+正方观点3：情人节提供了一个有趣的日子来庆祝所有所爱之人，包括你自己、宠物、孩子和邻居。
+
+节日随着文化的发展而演变，如今情人节已成为庆祝我们生活中所有特别之人和事物的场合。这个节日甚至是随机行善和自我关爱的时刻。这个节日已成为自我提升的推动力，包括购买健身房会员卡来塑形和报名参加自我提升的特殊课程，这是一件好事。作家迪安娜·华盛顿认为，这个节日“仅限浪漫伴侣”的观念实际上对许多人是有害的，因为它只是又一个让单身人士感到孤立和孤独的日子，而这距离圣诞节仅两个月，那段时间对许多人来说本就已经很难熬。我认为现在是我们所有人在这特殊的日子里变得像孩子一样的时候了，这样每个人都能感受到那种高涨的情绪……它给了我们所有人一个互相认可的方式，说“嘿，我很高兴你是我生活的一部分。我很感激你。”这个节日最棒的部分是，你现在可以自由而自豪地选择在这个特殊的日子里庆祝你生活中的谁。
+
+**Français**
+
+Argument pour 3 : La Saint-Valentin offre une journée amusante pour célébrer tous ceux qu'on aime, y compris soi-même, ses animaux, ses enfants et ses voisins.
+
+Les fêtes évoluent au rythme de la culture, et la Saint-Valentin est aujourd'hui l'occasion de célébrer toutes les personnes et toutes les choses qui sont spéciales dans notre vie. Cette fête est même un moment pour des actes de gentillesse aléatoires et pour prendre soin de soi. Que cette fête soit devenue un moteur d'amélioration personnelle, notamment en achetant des abonnements à la salle de sport pour se remettre en forme et en s'inscrivant à des cours spéciaux de développement personnel, est une bonne chose. L'auteure Deanna Washington a soutenu que la perception de cette fête comme réservée « aux partenaires amoureux » a en réalité été destructrice pour beaucoup de gens, car ce n'est qu'un jour de plus où les célibataires peuvent se sentir isolés et seuls, à peine deux mois après Noël, une période déjà difficile pour beaucoup. Je pense qu'il est grand temps que nous devenions tous comme des enfants en ce jour spécial, afin que chacun puisse ressentir cette énergie positive… Cela nous donne à tous un moyen de nous reconnaître les uns les autres, en disant « Hé, je suis content que tu fasses partie de ma vie. Je t'apprécie. » Le meilleur de cette fête, c'est que tu peux maintenant choisir, librement et fièrement, qui célébrer dans ta vie en ce jour spécial.
 
 ## ❌ 反方论点 Cons
 
 ### Con 1: Celebrating romantic partners should be an everyday practice.
 
+**English**
+
 We shouldn’t have to be reminded by store displays of candy and flowers or a date on the calendar to celebrate our significant others. Life coach Anne McKeown has argued that “the practice of loving others should extend far beyond a single day,” explaining that, while Valentine’s Day serves as a beautiful reminder to celebrate love, its true essence lies in our daily actions and interactions with others. I would like to encourage you to embrace the practice of loving others every day, not just on Valentine’s Day. Whether it’s through small gestures of kindness, heartfelt words of affirmation, or acts of service, let love be the guiding force in your relationships and interactions. By doing so, you’ll not only enrich the lives of those around you but also experience profound personal growth and fulfillment. Remember, love is not limited to a single day—it’s a gift meant to be shared and celebrated every day of our lives. A high-pressure day of grand gestures and expensive gifts and meals, spurring a “check-the-box” mentality in relationships, can overshadow and even discourage the small and consistent acts of kindness and appreciation that truly nurture bonds and undergird lasting love.
+
+**中文**
+
+反对观点1：庆祝伴侣应成为日常习惯。
+
+我们不应该靠商店里糖果和鲜花的陈列，或者日历上的某个日期，才想起去庆祝我们重要的另一半。生活教练安妮·麦基翁认为，“爱他人的实践应该远远超出一日之功”，她解释说，虽然情人节是提醒我们庆祝爱情的美好时刻，但其真正精髓在于我们日常的行动和与他人的互动。我想鼓励你们把爱他人融入每一天，而不仅仅是在情人节。无论是通过小小的善意举动、发自内心的肯定话语，还是服务他人的行为，让爱成为你们人际关系和互动的指引力量。这样做，你不仅会丰富身边人的生活，也会体验到深刻的个人成长和满足感。记住，爱不限于某一天——它是一份应当在我们生命中的每一天都去分享和庆祝的礼物。一个充满压力、要求大张旗鼓送昂贵礼物和吃大餐的日子，会催生感情中“打勾完成任务”的心态，可能掩盖甚至抑制那些细小而持续不断的善意行为……
+
+**Français**
+
+Argument contre 1 : Célébrer son partenaire amoureux devrait être une pratique quotidienne.
+
+Nous ne devrions pas avoir besoin que les présentoirs de bonbons et de fleurs dans les magasins, ou une date sur le calendrier, nous rappellent de célébrer notre moitié. La coach de vie Anne McKeown a affirmé que « la pratique d'aimer les autres devrait s'étendre bien au-delà d'un seul jour », expliquant que, si la Saint-Valentin est un beau rappel de célébrer l'amour, sa véritable essence réside dans nos actions et interactions quotidiennes avec les autres. Je voudrais vous encourager à adopter la pratique d'aimer les autres chaque jour, pas seulement à la Saint-Valentin. Que ce soit par de petits gestes de gentillesse, des paroles d'affirmation sincères ou des actes de service, laissez l'amour être la force qui guide vos relations et vos interactions. Ce faisant, non seulement vous enrichirez la vie de ceux qui vous entourent, mais vous vivrez aussi une profonde croissance personnelle et un grand épanouissement. Rappelez-vous, l'amour ne se limite pas à un seul jour — c'est un cadeau destiné à être partagé et célébré chaque jour de notre vie. Une journée sous pression, faite de grands gestes, de cadeaux coûteux et de repas dispendieux, qui pousse à une mentalité de « cocher la case » dans les relations, peut éclipser et même décourager les petits gestes de gentillesse constants…
 
 ### Con 2: Valentine’s Day is overly commercialized and expensive.
 
+**English**
+
 According to the National Retail Federation, Americans were expected to spend a record-breaking $29.1 billion on Valentine’s Day gifts and events in 2026, with each consumer spending an average of $200. Considering the amount of personal debt in the United States, this is a ridiculous amount of money and spending in which the country should not be encouraging its citizens to indulge. As student journalist Gayda Makki has argued, From chocolates to flowers and pricey jewelry, the holiday has become a corporate feeding frenzy. Retailers flood stores with themed merchandise months in advance, exploiting societal pressures and convincing people that love is best expressed through expensive and tangible tokens. This narrative isn’t just manipulative—it’s dehumanizing. Valentine’s Day has become a reflection of consumerism at the expense of individualized acts of love. We should instead follow Geoffrey Chaucer , Charles, duc d’Orléans , and the Pastons and write our own poems and indulge in the those little, unexpected gestures of love that mean so much more than stale verses on cheap cardstock, expensive meals and chocolates that no one needs, and last-minute flowers bought at the grocery store.
+
+**中文**
+
+反对观点2：情人节过度商业化且花费高昂。
+
+据美国零售联合会称，2026年美国人预计将在情人节礼物和活动上花费创纪录的291亿美元，每位消费者平均花费200美元。考虑到美国的个人债务规模，这是一笔荒谬的金钱和消费，国家不应该鼓励公民沉溺其中。正如学生记者盖达·马基所说，从巧克力到鲜花再到昂贵的珠宝，这个节日已经变成了一场企业的饕餮盛宴。零售商提前几个月就在店里摆满主题商品，利用社会压力，让人们相信爱情最好通过昂贵而有形的物品来表达。这种叙事不仅具有操纵性——它还使人失去人性。情人节已经成为消费主义的写照，牺牲了个人化的爱的表达。我们应该效仿杰弗里·乔叟、奥尔良公爵夏尔和帕斯顿家族，自己写诗，沉浸在那些小小的、意想不到的爱的举动中，它们远比廉价卡纸上的陈词滥调、昂贵的晚餐和巧克力更有意义……
+
+**Français**
+
+Argument contre 2 : La Saint-Valentin est trop commercialisée et coûteuse.
+
+Selon la National Retail Federation, les Américains devaient dépenser un montant record de 29,1 milliards de dollars en cadeaux et événements pour la Saint-Valentin en 2026, chaque consommateur dépensant en moyenne 200 dollars. Compte tenu du niveau d'endettement personnel aux États-Unis, il s'agit d'une somme et de dépenses ridicules que le pays ne devrait pas encourager ses citoyens à s'offrir. Comme l'a fait valoir l'étudiante journaliste Gayda Makki, des chocolats aux fleurs en passant par les bijoux coûteux, cette fête est devenue une frénésie alimentaire pour les entreprises. Les détaillants inondent les magasins de produits à thème des mois à l'avance, exploitant les pressions sociales et convainquant les gens que l'amour s'exprime mieux par des objets coûteux et matériels. Ce discours n'est pas seulement manipulateur — il est déshumanisant. La Saint-Valentin est devenue le reflet du consumérisme au détriment des actes d'amour personnalisés. Nous devrions plutôt suivre Geoffrey Chaucer, Charles, duc d'Orléans, et les Paston, et écrire nos propres poèmes et nous abandonner à ces petits gestes d'amour inattendus qui signifient bien plus que des vers éculés sur du carton bon marché, des repas coûteux et du chocolat…
 
 ### Con 3: Valentine’s Day has lost all meaning.
 
+**English**
+
 The contemporary version of Valentine’s Day has us celebrating everyone and everything, from newborns through adults (regardless of relationship), including ourselves and even our pets. And when everything is celebrated, nothing is truly celebrated. Diluting the day’s legendary focus on romantic love steals the essence of what made the holiday special in the first place. As philosophy professor Mark D. White explains, Call me a curmudgeon , but I feel that it waters down the romantic focus of the holiday to use it to celebrate all types of relationships and love, not just romantic ones. We have other holidays to recognize many of the other people in our lives and how we relate to them; let’s save February 14 for romantic love. The holiday has even become an indulgent celebration of self-love, which is the very opposite of the day’s intent of specifically looking beyond ourselves in a celebration of “the other,” of those whom we love and who enrich our lives.
+
+**中文**
+
+反对观点3：情人节已经失去了全部意义。
+
+当代的情人节让我们庆祝每一个人和每一件事，从新生儿到成年人（无论什么关系），包括我们自己，甚至我们的宠物。而当一切都值得庆祝时，就没有什么是真正被庆祝的了。稀释这个节日原本对浪漫爱情的传奇式关注，偷走了最初让这个节日特别的本质。正如哲学教授马克·D·怀特所解释的，叫我老古板吧，但我觉得，用这个节日来庆祝所有类型的关系和爱，而不仅仅是浪漫的爱情，会削弱这个节日的浪漫焦点。我们还有其他节日来认可生活中的许多其他人以及我们与他们的关系；让我们把2月14日留给浪漫的爱情吧。这个节日甚至变成了一种放纵的自我之爱的庆祝，而这恰恰与这个节日原本的意图相反——它本是要我们超越自我，去庆祝“他者”，庆祝我们所爱、丰富了我们生命的人。
+
+**Français**
+
+Argument contre 3 : La Saint-Valentin a perdu tout son sens.
+
+La version contemporaine de la Saint-Valentin nous fait célébrer tout le monde et tout, des nouveau-nés aux adultes (quel que soit le type de relation), y compris nous-mêmes et même nos animaux de compagnie. Et quand tout est célébré, rien n'est vraiment célébré. Diluer l'attention légendaire de cette journée sur l'amour romantique vole l'essence même de ce qui rendait cette fête spéciale au départ. Comme l'explique le professeur de philosophie Mark D. White, traitez-moi de grincheux, mais j'estime que cela dilue l'orientation romantique de la fête que de l'utiliser pour célébrer tous les types de relations et d'amour, pas seulement les relations amoureuses. Nous avons d'autres fêtes pour reconnaître la plupart des autres personnes dans notre vie et la façon dont nous sommes liés à elles ; réservons le 14 février à l'amour romantique. Cette fête est même devenue une célébration complaisante de l'amour de soi, ce qui est l'exact opposé de l'intention de cette journée : regarder spécifiquement au-delà de soi-même pour célébrer « l'autre », ceux que nous aimons et qui enrichissent notre vie.
 
 ## 📚 引用来源 Sources
 

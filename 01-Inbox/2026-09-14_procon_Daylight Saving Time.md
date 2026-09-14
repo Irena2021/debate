@@ -1,62 +1,184 @@
 # Daylight Saving Time
 
-> **元信息**：英语 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Daylight-Saving-Time-debate) | 2026-09-14
+> **元信息**：英·中·法 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Daylight-Saving-Time-debate) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题在争：一年两次调整时钟的夏令时制度，到底是利大于弊，还是弊大于利。
+
+- 中：夏令时到底值不值得保留——它带来更多傍晚日照和经济好处，还是打乱作息、损害健康、代价太高？
+- EN：Is Daylight Saving Time worth keeping—does it bring more evening light and economic benefits, or does it disrupt our sleep, harm our health, and cost too much?
+- FR : Le changement d'heure vaut-il vraiment la peine d'être gardé — apporte-t-il plus de lumière en soirée et des avantages économiques, ou perturbe-t-il notre sommeil, nuit-il à notre santé et coûte-t-il trop cher ?
 
 ### 正方立场
-- 多一小时傍晚日照，开车更安全，抢劫等街头犯罪明显减少。
-- 下班后天亮着，人们更愿意逛街消费，零售、餐饮、高尔夫等行业都赚钱。
-- 傍晚光线充足，人们更愿意出门运动，少看电视，身体更健康。
-- 总体逻辑：夏令时让「清醒时间」和「日照时间」重合，安全、经济、健康三赢。
+
+- 中：夏令时更安全——傍晚天更亮，开车更安全，抢劫等街头犯罪也明显减少。
+- EN：DST makes us safer—more evening light means safer driving and a clear drop in street crime like robberies.
+- FR : L'heure d'été nous rend plus en sécurité — plus de lumière le soir signifie une conduite plus sûre et une nette baisse de la criminalité de rue comme les vols.
+
+- 中：夏令时对生意和经济有利——下班后人们更愿意购物、开车出门，零售和消费都增加。
+- EN：DST is good for business and the economy—people shop and drive more after work, which boosts retail sales and spending.
+- FR : L'heure d'été est bonne pour les affaires et l'économie — les gens magasinent et conduisent davantage après le travail, ce qui augmente les ventes et les dépenses.
+
+- 中：夏令时让人更爱运动、更健康——傍晚天亮时，人们更多去户外活动，少窝在室内看电视。
+- EN：DST encourages active lifestyles and better health—with later daylight, people spend more time outdoors and less time sitting inside watching TV.
+- FR : L'heure d'été favorise un mode de vie actif et une meilleure santé — avec plus de lumière tard le soir, les gens passent plus de temps dehors et moins de temps assis devant la télé.
 
 ### 反方立场
-- 打乱人体生物钟，春季调时后心脏病发作风险上升，睡眠也受影响。
-- 调时后第一个周一是一年中最缺觉的日子，员工走神、上网摸鱼，效率下降。
-- 改钟本身很烧钱：美国损失约 17 亿美元的时间和生产力，航空业也因时刻表混乱损失上亿。
-- 总体逻辑：人为拨钟违背自然节律，健康、效率、金钱都要付出代价。
+
+- 中：夏令时对健康有害——哪怕只调一小时，也会打乱人体生物钟，春季调整后心脏病发作风险上升。
+- EN：DST is bad for your health—even a one-hour change disrupts your body clock, and the risk of heart attacks rises after the spring shift.
+- FR : L'heure d'été nuit à la santé — même un changement d'une heure perturbe notre horloge biologique, et le risque de crise cardiaque augmente après le passage au printemps.
+
+- 中：夏令时降低工作效率——春季调整后的周一是一年中最缺觉的日子，员工走神、上网摸鱼变多。
+- EN：DST lowers productivity—the Monday after the spring change is one of the most sleep-deprived days of the year, and tired workers waste more time online.
+- FR : L'heure d'été réduit la productivité — le lundi qui suit le changement du printemps est l'un des jours où l'on manque le plus de sommeil, et les employés fatigués perdent plus de temps en ligne.
+
+- 中：夏令时很花钱——调表本身造成时间和生产力的损失，航空等行业还要为混乱的时刻表付出高昂代价。
+- EN：DST is expensive—just changing the clocks costs time and productivity, and industries like airlines pay a high price for confused schedules.
+- FR : L'heure d'été coûte cher — le simple fait de changer les horloges entraîne une perte de temps et de productivité, et des secteurs comme l'aviation paient le prix fort pour des horaires chamboulés.
 
 ### 写作借鉴
-- 引出论点：Economists Jennifer Doleac and Nicholas Sanders found that robberies drop about 7 percent overall and 27 percent in the evening hours after the spring time change.（用具体数据开头，比空泛说「更安全」有力）
-- 让步转折：While supporters claim DST boosts the economy, the simple act of changing clocks costs Americans $1.7 billion in lost time and productivity.（先承认对方有道理，再用反方数据反驳）
-- 总结：DST goes against a person's natural circadian rhythm and has negative consequences for health.（把反方核心逻辑浓缩成一句，适合放在结论段）
+
+- EN：Longer daylight hours make driving safer, lowers car insurance rates, and decreases the risk of pedestrian accidents.
+- 中：用来「列举好处」——用并列动词一口气列出某个政策带来的多个正面效果。
+- FR : à utiliser pour « énumérer les avantages » — on aligne plusieurs verbes pour lister d'un coup les effets positifs d'une mesure.
+
+- EN：The Monday after the spring time change is called "sleepy Monday" because it is one of the most sleep-deprived days of the year.
+- 中：用来「举例说明」——先给一个生动的名称或现象，再用 because 解释原因，让论证更有画面感。
+- FR : à utiliser pour « illustrer par un exemple » — on donne d'abord un nom ou un phénomène frappant, puis on explique la cause avec because, ce qui rend l'argument plus vivant.
+
+- EN：The purpose, according to supporters, is to align waking hours with daylight hours.
+- 中：用来「引出对方立场」——用 according to supporters 先客观陈述支持者的理由，方便接下来反驳或对比。
+- FR : à utiliser pour « présenter la position adverse » — avec according to supporters, on expose d'abord objectivement l'argument des partisans avant de le réfuter ou de le comparer.
 
 ## 📖 背景 Background
 
+**English**
+
 In 2026, in the United States, Daylight Saving Time (DST) began on Sunday, March 8, when clocks were advanced one hour at 2 am (moving to 3 am ) to “spring forward”and ends on Sunday, November 1, when clocks will “fall back” to Standard Time at 2 am (falling back to 1 am ). The purpose, according to supporters, is to align waking hours with daylight hours, so there’s more evening light during spring, summer, and early autumn.
+
+**中文**
+
+2026年，美国的夏令时（DST）于3月8日星期日开始，凌晨2点将时钟拨快一小时（变为3点），即“春季前拨”；并于11月1日星期日结束，凌晨2点时钟“回拨”至标准时间（回拨至1点）。据支持者称，其目的是让清醒时间与日照时间一致，从而在春季、夏季和初秋有更多傍晚的光照。
+
+**Français**
+
+En 2026, aux États-Unis, l'heure d'été (DST) a commencé le dimanche 8 mars, lorsque les horloges ont été avancées d'une heure à 2 h du matin (passant à 3 h) pour « avancer au printemps », et se termine le dimanche 1er novembre, lorsque les horloges « reculeront » à l'heure standard à 2 h du matin (revenant à 1 h). Selon ses partisans, le but est d'aligner les heures d'éveil sur les heures d'ensoleillement, afin qu'il y ait plus de lumière en soirée au printemps, en été et au début de l'automne.
 
 ## ✅ 正方论点 Pros
 
 ### Pro 1: DST promotes safety.
 
+**English**
+
 Longer daylight hours make driving safer, lowers car insurance rates, and decreases the risk of pedestrian accidents. Economists Jennifer Doleac and Nicholas Sanders found that robberies drop about 7 percent overall and 27 percent in the evening hours after the spring time change. They state, Most street crime occurs in the evening around common commuting hours of 5 to 8 pm , and more ambient light during typical high-crime hours makes it easier for victims and passers-by to see potential threats and later identify wrongdoers. Also, daylight in the evening makes it safer for joggers, people walking dogs after work, and children playing outside, among others, because drivers are able to see people more easily and criminal activity is lowered. As Doleac and Sanders conclude, DST not only makes us safer but society would be safest if it moved to year-round DST, “permanently shifting that hour of daylight to the evening, and then leaving our clocks alone. Our research suggests that we’d be safer for it.”
+
+**中文**
+
+支持观点1：夏令时促进安全。
+
+更长的日照时间使驾驶更安全，降低汽车保险费率，并减少行人事故的风险。经济学家詹妮弗·多莱克和尼古拉斯·桑德斯发现，春季时间调整后，抢劫案总体下降约7%，傍晚时段下降27%。他们指出，大多数街头犯罪发生在傍晚，即通常的通勤时间下午5点至8点，而在典型的高犯罪时段，更多的环境光使受害者和路人更容易看到潜在威胁，并在事后辨认出违法者。此外，傍晚的日光使慢跑者、下班后遛狗的人以及在户外玩耍的儿童等更加安全，因为司机更容易看到人，犯罪活动也减少了。正如多莱克和桑德斯所总结的，夏令时不仅让我们更安全，而且如果实行全年夏令时，社会将最安全，“将那一个小时的日光永久转移到傍晚，然后不再调整时钟。我们的研究表明，我们会因此更安全。”
+
+**Français**
+
+Argument pour 1 : l'heure d'été favorise la sécurité.
+
+Des heures de clarté plus longues rendent la conduite plus sûre, réduisent les tarifs d'assurance automobile et diminuent le risque d'accidents de piétons. Les économistes Jennifer Doleac et Nicholas Sanders ont constaté que les vols diminuaient d'environ 7 % au total et de 27 % en soirée après le changement d'heure du printemps. Ils déclarent : « La plupart des crimes de rue se produisent le soir, aux heures de trajet habituelles de 17 h à 20 h, et une lumière ambiante plus importante pendant les heures de forte criminalité permet aux victimes et aux passants de mieux voir les menaces potentielles et d'identifier ensuite les malfaiteurs. » De plus, la lumière du soir rend plus sûres la course à pied, la promenade du chien après le travail et les jeux des enfants dehors, entre autres, car les conducteurs voient plus facilement les personnes et l'activité criminelle diminue. Comme le concluent Doleac et Sanders, l'heure d'été ne nous rend pas seulement plus sûrs, mais la société serait plus sûre encore si elle passait à l'heure d'été toute l'année : « déplacer définitivement cette heure de clarté vers le soir, puis ne plus toucher à nos horloges. Nos recherches suggèrent que nous serions plus en sécurité ainsi. »
 
 ### Pro 2: DST is good for business and the economy.
 
+**English**
+
 Later daylight means more people shopping after work, increasing retail sales, and more people driving, increasing gas and snacks sales for eight months of the year (the time spent in DST). The golf industry has claimed that one month of DST was worth some $400 million because of the extended evening hours that golfers can play. “We would lose 100 tee times a day if daylight saving time goes away,” reported a golf course in Omaha, Nebraska, in 2025. “Switching to permanent standard time would cost us $500,000 a year.” Similarly, the barbecue industry estimated their profits increased $150 million due to one month of DST. Extra daylight even boosts savings by decreasing robberies. In 2007 an estimated $59 million was saved because fewer robberies were committed due to the extra daylight. Chambers of Commerce tend to support DST because of the positive effect on the economy. As CNBC reported in 2017, in the 30 days following the end of DST, shoppers in Los Angeles “spent about 4.6 percent less on fuel, 4.8 percent less at retail stores and 5.9 percent less at grocery stores.”
+
+**中文**
+
+支持观点2：夏令时有利于商业和经济。
+
+更晚的日光意味着更多人在下班后购物，增加零售额；更多人在一年中的八个月（即夏令时期间）开车，增加汽油和零食的销量。高尔夫行业声称，一个月的夏令时价值约4亿美元，因为高尔夫球手可以在延长的傍晚时段打球。2025年，内布拉斯加州奥马哈的一家高尔夫球场报告说：“如果取消夏令时，我们每天将损失100个开球时间。”“改为永久标准时间每年将使我们损失50万美元。”同样，烧烤行业估计，由于一个月的夏令时，其利润增加了1.5亿美元。额外的日光甚至通过减少抢劫来增加储蓄。2007年，由于额外的日光减少了抢劫案，估计节省了5900万美元。商会往往支持夏令时，因为它对经济有积极影响。正如CNBC在2017年报道的那样，在夏令时结束后的30天里，洛杉矶的购物者“在燃料上少花了约4.6%，在零售店少花了4.8%，在杂货店少花了5.9%”。
+
+**Français**
+
+Argument pour 2 : l'heure d'été est bonne pour les affaires et l'économie.
+
+Une lumière du jour plus tardive signifie plus de personnes qui font leurs courses après le travail, ce qui augmente les ventes au détail, et plus de personnes qui conduisent, ce qui augmente les ventes d'essence et de snacks pendant huit mois de l'année (la période passée à l'heure d'été). L'industrie du golf a affirmé qu'un mois d'heure d'été valait environ 400 millions de dollars en raison des heures de soirée prolongées pendant lesquelles les golfeurs peuvent jouer. « Nous perdrions 100 départs par jour si l'heure d'été disparaissait », a rapporté en 2025 un parcours de golf d'Omaha, dans le Nebraska. « Passer à l'heure standard permanente nous coûterait 500 000 dollars par an. » De même, l'industrie du barbecue a estimé que ses bénéfices avaient augmenté de 150 millions de dollars grâce à un mois d'heure d'été. La lumière supplémentaire augmente même les économies en réduisant les vols. En 2007, on a estimé à 59 millions de dollars les économies réalisées grâce à la diminution des vols due à la lumière supplémentaire. Les chambres de commerce ont tendance à soutenir l'heure d'été en raison de son effet positif sur l'économie. Comme l'a rapporté CNBC en 2017, dans les 30 jours suivant la fin de l'heure d'été, les acheteurs de Los Angeles « ont dépensé environ 4,6 % de moins en carburant, 4,8 % de moins dans les magasins de détail et 5,9 % de moins dans les épiceries ».
 
 ### Pro 3: DST promotes active lifestyles and better health.
 
+**English**
+
 When the day is lighter later, people tend to participate in more outdoor activities after work. As noted by Hendrik Wolff, associate professor of economics at Simon Fraser University, because of DST, “People engaged in more outdoor recreation and less indoor-TV watching … An additional 3 percent of people engaged in outdoor behaviors who otherwise would have stayed indoors.” A study of 23,000 children from 9 countries came to a similar conclusion. As reported in the International Journal of Behavioral Nutrition and Physical Activity , In Europe and Australia, evening daylight seems to play a causal role in increasing children’s activity in a relatively equitable manner. Although the average increase in activity is small in absolute terms, these increases apply across all children in a population. . . . We therefore conclude that, by shifting the physical activity mean of the entire population, the introduction of additional daylight saving measures could yield worthwhile public health benefits.
+
+**中文**
+
+支持观点3：夏令时促进积极的生活方式和更好的健康。
+
+当白天更晚变亮时，人们往往在下班后参加更多的户外活动。正如西蒙弗雷泽大学经济学副教授亨德里克·沃尔夫所指出的，由于夏令时，“人们参与了更多的户外娱乐活动，减少了在室内看电视……额外有3%的人参与了户外活动，否则他们会待在室内。”一项来自9个国家、涉及23000名儿童的研究得出了类似的结论。正如《国际行为营养与体育活动杂志》所报道的，在欧洲和澳大利亚，傍晚的日光似乎在以相对公平的方式增加儿童活动方面发挥了因果作用。尽管活动量的平均增加绝对值很小，但这些增加适用于人群中的所有儿童……因此我们得出结论，通过改变整个人群的身体活动平均值，引入额外的夏令时措施可以产生值得的公共健康益处。
+
+**Français**
+
+Argument pour 3 : l'heure d'été favorise un mode de vie actif et une meilleure santé.
+
+Quand la journée est plus claire plus tard, les gens ont tendance à participer à davantage d'activités en plein air après le travail. Comme l'a noté Hendrik Wolff, professeur agrégé d'économie à l'Université Simon Fraser, en raison de l'heure d'été, « les gens pratiquaient plus de loisirs en plein air et regardaient moins la télévision à l'intérieur… 3 % de personnes supplémentaires pratiquaient des activités en plein air alors qu'elles seraient autrement restées à l'intérieur. » Une étude portant sur 23 000 enfants de 9 pays est arrivée à une conclusion similaire. Comme l'a rapporté l'International Journal of Behavioral Nutrition and Physical Activity, en Europe et en Australie, la lumière du soir semble jouer un rôle causal dans l'augmentation de l'activité des enfants de manière relativement équitable. Bien que l'augmentation moyenne de l'activité soit faible en termes absolus, ces augmentations s'appliquent à tous les enfants d'une population… Nous concluons donc que, en déplaçant la moyenne d'activité physique de toute la population, l'introduction de mesures supplémentaires d'heure d'été pourrait produire des bénéfices utiles pour la santé publique.
 
 ## ❌ 反方论点 Cons
 
 ### Con 1: DST is bad for your health.
 
+**English**
+
 Later sunrises and sunsets and changing sleep patterns, even by one hour, go against a person’s natural circadian rhythm (our internal body clock governing sleep, hormone release, digestion, and body temperature) and has negative consequences for health. As UNC Health reports, the risk of a heart attack increases by about 24 percent on the Monday following the spring time change. Individuals most at medical risk during time changes include older adults, individuals with pre-existing health conditions, shift workers, and people already suffering from sleep disorders. Researchers have also found an increase in cluster headaches (sudden and debilitating headaches) after the fall time change. James Wyatt at Rush University Medical Center reports, “We’re encountering an increase in extra auto and workplace accidents on Monday or perhaps even carrying through the first week of the Spring time shift.” In the weeks following the spring time change, male suicide rates rose in Australia compared to the weeks following the return to Standard Time in the fall. DST also increases the risk that a car accident will be fatal by 5-6.5 percent, causing 30 more deaths from car accidents annually.
+
+**中文**
+
+反对观点1：夏令时有害健康。
+
+日出和日落时间推迟，以及睡眠模式改变——哪怕只改变一小时——都会打乱人体自然的昼夜节律（即我们体内的生物钟，掌管睡眠、激素分泌、消化和体温），并对健康产生负面影响。据UNC Health报道，在春季时间调整后的那个星期一，心脏病发作的风险增加约24%。在时间调整期间，医疗风险最高的人群包括老年人、已有健康问题的人、轮班工作者以及已经患有睡眠障碍的人。研究人员还发现，秋季时间调整后，丛集性头痛（突发且令人衰弱的头痛）有所增加。拉什大学医学中心的James Wyatt报告说：“我们发现，在星期一，甚至可能在整个春季时间调整后的第一周，额外的汽车事故和工作场所事故都有所增加。”在春季时间调整后的几周里，澳大利亚的男性自杀率比秋季恢复标准时间后的几周有所上升。夏令时还使车祸致命的风险增加5%至6.5%，导致多出30人死亡……
+
+**Français**
+
+Argument contre 1 : l'heure d'été est mauvaise pour la santé.
+
+Des levers et couchers de soleil plus tardifs et des rythmes de sommeil modifiés, ne serait-ce que d'une heure, vont à l'encontre du rythme circadien naturel d'une personne (notre horloge biologique interne qui régit le sommeil, la libération d'hormones, la digestion et la température corporelle) et ont des conséquences négatives sur la santé. Comme le rapporte UNC Health, le risque de crise cardiaque augmente d'environ 24 % le lundi qui suit le changement d'heure du printemps. Les personnes les plus à risque médical lors des changements d'heure sont les personnes âgées, celles ayant des problèmes de santé préexistants, les travailleurs postés et les personnes souffrant déjà de troubles du sommeil. Les chercheurs ont également constaté une augmentation des céphalées en grappe (maux de tête soudains et invalidants) après le changement d'heure d'automne. James Wyatt, du Rush University Medical Center, rapporte : « Nous constatons une augmentation des accidents de la route et des accidents du travail supplémentaires le lundi, ou peut-être même tout au long de la première semaine suivant le passage à l'heure d'été. » Dans les semaines qui suivent le changement d'heure du printemps, le taux de suicide masculin a augmenté en Australie par rapport aux semaines qui suivent le retour à l'heure standard en automne. L'heure d'été augmente aussi le risque qu'un accident de voiture soit mortel de 5 à 6,5 %, causant 30 morts de plus…
 
 ### Con 2: DST drops productivity.
 
+**English**
+
 The Monday after the spring time change is called “sleepy Monday” because it is one of the most sleep-deprived days of the year. The week after the spring time change sees an increase in “cyberloafing” (employees wasting time on the Internet) because they’re tired and lack focus. Till Roenneberg, a German chronobiologist who studies the body’s relationship with light and dark, notes that the human circadian clock doesn’t adjust to DST and the “consequence of that is that the majority of the population has drastically decreased productivity, decreased quality of life, increasing susceptibility to illness, and is just plain tired.” A 2024 study of web developers around the world found that the DST clock change caused two days of declines before activity returns to baseline levels. However, hourly analysis reveals a transition to Daylight Saving Time that is much longer—losses appear in the early working hours of work days into a second week following the initiation of Daylight Saving Time.
+
+**中文**
+
+反对观点2：夏令时降低生产力。
+
+春季时间调整后的星期一是“困倦星期一”，因为这是一年中最缺觉的日子之一。春季时间调整后的一周里，“上班摸鱼”（员工在网上浪费时间）现象增加，因为他们疲惫且注意力不集中。研究人体与光明和黑暗关系的德国时间生物学家Till Roenneberg指出，人体生物钟并不会适应夏令时，“其后果是，大多数人的生产力大幅下降，生活质量下降，更容易生病，而且就是单纯地感到疲惫。”2024年一项针对全球网络开发者的研究发现，夏令时的时间调整导致了两天的活动量下降，之后才恢复到基线水平。然而，按小时分析显示，向夏令时的过渡要长得多——损失会出现在工作日的早间工作时段，并持续到夏令时开始后的第二周。
+
+**Français**
+
+Argument contre 2 : l'heure d'été fait baisser la productivité.
+
+Le lundi qui suit le changement d'heure du printemps est appelé « lundi de somnolence », car c'est l'un des jours de l'année où l'on manque le plus de sommeil. La semaine qui suit le changement d'heure du printemps voit une augmentation du « cyberflânage » (employés qui perdent du temps sur Internet) parce qu'ils sont fatigués et manquent de concentration. Till Roenneberg, un chronobiologiste allemand qui étudie la relation du corps avec la lumière et l'obscurité, note que l'horloge circadienne humaine ne s'adapte pas à l'heure d'été et que « la conséquence de cela est que la majorité de la population voit sa productivité chuter drastiquement, sa qualité de vie diminuer, sa vulnérabilité aux maladies augmenter, et est tout simplement fatiguée ». Une étude de 2024 menée auprès de développeurs web du monde entier a constaté que le changement d'heure lié à l'heure d'été provoquait deux jours de baisse avant que l'activité ne revienne aux niveaux de base. Cependant, une analyse heure par heure révèle que la transition vers l'heure d'été est bien plus longue : les pertes apparaissent pendant les premières heures de travail des jours ouvrés et se poursuivent jusqu'à la deuxième semaine suivant le début de l'heure d'été.
 
 ### Con 3: DST is expensive.
 
+**English**
+
 William F. Shughart II, economist at Utah State University, argues that the simple act of changing clocks costs Americans $1.7 billion in lost time and productivity while shifting, updating, and adjusting to the time changes. The Air Transport Association estimated that DST cost the airline industry $147 million dollars in 2007 thanks to confused time schedules with countries that do not participate in the time change. A review of metropolitan areas in the U.S. found an economic cost of over $670 million due to workplace injuries, traffic accidents, heart attacks and strokes, and lost productivity, all contributed to by DST. Moreover, though DST has been championed as an energy-saving move, the New York Post reported that the time change actually came at an environmental cost. The increased activity associated with the extra hour “led to a 1 percent increase in residential energy consumption by consumers in Indiana—costing households in the state an extra $9 million on their electric bills and resulting in another estimated $1.7 to $5.5 million in social costs of increased pollution emissions.”
+
+**中文**
+
+反对观点3：夏令时代价高昂。
+
+犹他州立大学经济学家William F. Shughart II认为，仅仅调整时钟这一简单行为，就因时间损失和生产力下降以及切换、更新和适应时间变化，使美国人损失17亿美元。美国航空运输协会估计，由于与不实行时间调整的国家之间时刻表混乱，夏令时在2007年给航空业造成了1.47亿美元的损失。一项对美国大都市地区的审查发现，由于工作场所受伤、交通事故、心脏病发作和中风以及生产力损失，经济损失超过6.7亿美元，而夏令时对所有这些都有推波助澜的作用。此外，尽管夏令时一直被标榜为节能举措，但《纽约邮报》报道称，时间调整实际上付出了环境代价。与多出的那一小时相关的活动增加“导致印第安纳州消费者的住宅能源消耗增加了1%——使该州家庭多支付了900万美元电费，并因污染排放增加而带来另外约170万至550万美元的社会成本”。
+
+**Français**
+
+Argument contre 3 : l'heure d'été coûte cher.
+
+William F. Shughart II, économiste à l'Utah State University, soutient que le simple fait de changer les horloges coûte aux Américains 1,7 milliard de dollars en temps perdu et en productivité, sans compter les efforts pour décaler, mettre à jour et s'adapter aux changements d'heure. L'Air Transport Association a estimé que l'heure d'été a coûté 147 millions de dollars à l'industrie aérienne en 2007, en raison de la confusion des horaires avec les pays qui ne participent pas au changement d'heure. Une étude des zones métropolitaines des États-Unis a révélé un coût économique de plus de 670 millions de dollars dû aux accidents du travail, aux accidents de la route, aux crises cardiaques et aux AVC, ainsi qu'à la perte de productivité, tous favorisés par l'heure d'été. De plus, bien que l'heure d'été ait été présentée comme une mesure d'économie d'énergie, le New York Post a rapporté que le changement d'heure avait en réalité un coût environnemental. L'activité accrue associée à l'heure supplémentaire « a entraîné une augmentation de 1 % de la consommation d'énergie résidentielle des consommateurs de l'Indiana — coûtant aux ménages de cet État 9 millions de dollars de plus sur leurs factures d'électricité et entraînant environ 1,7 à 5,5 millions de dollars supplémentaires de coûts sociaux liés à l'augmentation des émissions polluantes ».
 
 ## 📚 引用来源 Sources
 

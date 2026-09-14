@@ -1,76 +1,241 @@
 # This house would allow retailers to import for resale "grey" goods from abroad.
 
-> **元信息**：英语 | 来源：iDebate Debatabase | 分类：Economy | [原文](https://idebate.net/this-house-would-allow-retailers-to-import-for-resale-grey-goods-from-abroad~b710/) | 2026-09-14
+> **元信息**：英·中·法 | 来源：iDebate Debatabase | 分类：Economy | [原文](https://idebate.net/this-house-would-allow-retailers-to-import-for-resale-grey-goods-from-abroad~b710/) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题在争论：政府是否应该允许零售商从国外进口“灰色商品”（即厂家本不打算在某地销售、却通过非官方渠道流入该市场的正品）再转卖。
+
+- 中：本辩题讨论的是：政府是否应该允许零售商从国外进口「灰色商品」（即制造商本打算在甲国卖、却被转卖到乙国的正品）再转售。
+- EN: This debate asks whether the government should let retailers import and resell "grey" goods — genuine branded products that the manufacturer intended to sell in one country but that end up being sold in another.
+- FR: Ce débat demande si le gouvernement devrait permettre aux détaillants d'importer et de revendre des produits « gris » — des produits de marque authentiques que le fabricant destinait à un pays, mais qui finissent par être vendus dans un autre.
 
 ### 正方立场
-- 消费者是最大赢家：灰色进口带来更多选择和更低价格，零售商即使赚取部分差价，通常也会把一部分好处让给消费者。
-- 打破垄断、促进竞争：禁止灰色进口等于按国家给厂家发放垄断或卡特尔许可，必然推高价格；允许灰色进口能分散经济权力，符合自由贸易精神。
-- 根本禁不掉：政府再管制也无法完全阻止灰色进口，与其徒劳封堵，不如承认其合理性并加以规范。
-- 符合自由贸易基本原则：同一商品在两国卖不同价格时，理性买家自然会去便宜的地方买，这正是自由市场经济的逻辑。
+
+- 中：消费者是最大赢家——灰色进口把货源引向低成本国家，价格更低，还能买到本地市场还没上市的产品，选择更多。
+- EN: Consumers win the most — grey imports push sourcing toward low-cost countries, lowering prices and letting people buy products not yet available in their own market, so choice increases.
+- FR: Les consommateurs sont les grands gagnants : les importations grises orientent l'approvisionnement vers des pays à bas coûts, ce qui fait baisser les prix et permet d'acheter des produits pas encore offerts sur leur marché, donc plus de choix.
+
+- 中：允许灰色进口能打破制造商按国家划分的垄断和卡特尔，让价格降下来；禁止它等于给厂商发一张按国别划分的垄断许可证。
+- EN: Allowing grey imports breaks up the manufacturer's country-by-country monopolies and cartels and brings prices down; banning them is basically handing firms a licensed monopoly in each country.
+- FR: Autoriser les importations grises brise les monopoles et les cartels que les fabricants organisent pays par pays et fait baisser les prix ; les interdire revient à leur accorder un monopole officiel dans chaque pays.
+
+- 中：根本禁不掉——政府再怎么管也拦不住所有灰色渠道，与其白费力气，不如承认它有好处并加以规范。
+- EN: It is impossible to stop — no matter how hard governments try, they can never block every grey channel, so instead of wasting effort they should accept the benefits and regulate it.
+- FR: C'est impossible à arrêter : peu importe les efforts des gouvernements, ils ne pourront jamais bloquer tous les circuits gris ; plutôt que de gaspiller leurs efforts, ils devraient en accepter les avantages et l'encadrer.
+
+- 中：灰色进口符合自由贸易的基本原则——同一商品在两国卖不同价，理性的买家自然会去便宜的地方买，这正是自由市场该有的样子。
+- EN: Grey imports fit the basic principles of free trade — if the same item is priced differently in two countries, a rational buyer will buy where it is cheaper, and that is exactly how a free market should work.
+- FR: Les importations grises respectent les principes de base du libre-échange : si le même article a un prix différent dans deux pays, un acheteur rationnel l'achètera là où c'est moins cher, et c'est exactement le fonctionnement d'un marché libre.
 
 ### 反方立场
-- 损害进口国经济：灰色进口降低官方厂商/经销商的利润，导致其减少在该国的投资，形成需求下降、效率更低的恶性循环，钱流出去了。
-- 厂家无权管售后：商品一旦售出，厂家就不该规定买家怎么用、转卖给谁；汽车和服装厂商都不会这样限制消费者，灰色进口同理。
-- 灰色进口削弱厂家对产品的控制：自由流通未必总是好事，额外运输和污染是现实代价；而且灰色进口商往往不说明同一品牌在不同市场其实有本地化差异，消费者可能买到不适合本地环境的产品。
+
+- 中：灰色商品进来了，钱却流出去了——它压低本国制造商和经销商的利润，减少他们在本国的投资，形成恶性循环，反而拖累经济。
+- EN: Grey goods come in, but the money goes out — they cut the profits of domestic manufacturers and distributors, reduce their investment in the country, and create a vicious circle that hurts the economy.
+- FR: Les produits gris entrent, mais l'argent sort : ils réduisent les profits des fabricants et distributeurs locaux, diminuent leurs investissements dans le pays et créent un cercle vicieux qui nuit à l'économie.
+
+- 中：商品一旦卖出，制造商就无权再管买家怎么用、转卖给谁——就像车厂不能规定你只开车去超市，服装厂不能规定你只在星期天穿。
+- EN: Once a good is sold, the manufacturer has no business telling buyers how to use it or whom to resell it to — just as car makers cannot say you may only drive to the shops, or clothes makers that you may only wear their clothes on Sundays.
+- FR: Une fois un bien vendu, le fabricant n'a pas à dire aux acheteurs comment l'utiliser ni à qui le revendre — pas plus qu'un constructeur automobile ne peut exiger que vous ne conduisiez que pour aller à l'épicerie, ou un fabricant de vêtements que vous ne les portiez que le dimanche.
+
+- 中：灰色进口让企业失去对自己产品的控制，还带来额外运输和污染等真实成本，这些代价不能忽视。
+- EN: Grey imports strip companies of control over their own products and bring real costs such as extra transport and pollution, which cannot be ignored.
+- FR: Les importations grises font perdre aux entreprises le contrôle de leurs propres produits et entraînent des coûts bien réels, comme le transport supplémentaire et la pollution, qu'on ne peut pas ignorer.
+
+- 中：同一品牌在不同市场的产品其实常常按当地环境做了调整，灰色进口商往往不说明这一点，消费者可能买到不适合本地条件或没有本地保修的版本。
+- EN: Products sold under the same brand are often tailored to suit each local market, and grey importers usually fail to make this clear, so buyers may end up with a version unsuited to local conditions or without a local warranty.
+- FR: Les produits vendus sous une même marque sont souvent adaptés à chaque marché local, et les importateurs gris ne le précisent généralement pas : l'acheteur peut donc se retrouver avec une version inadaptée aux conditions locales ou sans garantie locale.
 
 ### 写作借鉴
-- 引出论点：Consumers benefit from grey imports. The economics of grey importation drives sourcing to low-cost economies.（用经济逻辑直接引出“消费者受益”这一核心论点）
-- 让步转折：A free flow of goods is not always an automatic good.（先承认自由贸易通常被视为好事，再转折指出灰色进口的弊端）
-- 总结/升华：Allowing grey imports is consistent with the basic principles of free trade.（把具体议题提升到自由贸易原则的高度，适合结尾总结）
+
+- EN: Even if retailers take some of this benefit as improved profit margins, typically at least some of it will be passed on to consumers in the form of reduced prices.
+- 中：用途是「让步转折」——先承认对方可能占便宜，再指出消费者仍然受益，让论证显得更客观有力。
+- FR: Utilité : la concession suivie d'un retournement — on admet d'abord que l'autre partie peut en profiter, puis on montre que le consommateur y gagne quand même, ce qui rend l'argument plus objectif et plus fort.
+
+- EN: Banning them is tantamount to granting a licensed monopoly or cartel on a country-by-country basis, which inevitably means higher prices for consumers.
+- 中：用途是「给对手的立场重新定性」——把「禁止」说成「发垄断牌照」，一句话扭转对方形象，适合用来加强己方论点。
+- FR: Utilité : redéfinir la position adverse — présenter l'interdiction comme l'octroi d'un monopole renverse l'image de l'adversaire en une seule phrase, ce qui renforce votre argument.
+
+- EN: This is a vicious circle which may reduce demand and so lead to greater inefficiencies in official importation.
+- 中：用途是「因果链总结」——用「恶性循环」把一连串后果串起来，适合在段落结尾收束反方论证。
+- FR: Utilité : résumer une chaîne de causes — l'expression « cercle vicieux » relie une série de conséquences et convient bien pour conclure un paragraphe d'argumentation.
 
 ## 📖 背景 Background
 
+**English**
+
 "Grey" imports are goods which are intended for sale in one country or region by design of the manufacturer but which are available in an unintended country or region. While legal, they are considered on the fringes of ethical or socially acceptable custom because their sale is against the wishes of the manufacturer and/or official distributor. This debate focuses on the issue of whether retailers who do source product via the grey market are right to do so, whether the practice is beneficial, who it might be beneficial for and the moral, economic and social arguments for and against the practice. Generally market participants will buy from the grey market due to arbitrage (arbitrage is when someone buys low to sell high without adding anything extra to the product themselves.) In a grey market arbitrage someone buys low and sells high simply by moving the stock from region to region when that good is already officially available in the importing region. It is to be noted that grey imports are not counterfeits, copies or fakes. Another way of referring to a grey import is the terminology "parallel import." True figures for this area of enterprise are obviously hard to source, but one example from a study by KPMG in India shows grey market figures of "over 20% of the total colour televisions, 30% of GSM mobile devices, 90% of VCD and DVD players and 70% of car stereos." 1
+
+**中文**
+
+“灰色”进口是指制造商设计用于在一个国家或地区销售，但在非预期的国家或地区可以买到的商品。虽然合法，但它们被认为处于道德或社会可接受习俗的边缘，因为其销售违背了制造商和/或官方经销商的意愿。这场辩论的焦点是：通过灰色市场采购产品的零售商是否有权这样做，这种做法是否有利，可能对谁有利，以及支持和反对这种做法的道德、经济和社会论据。一般来说，市场参与者会因套利而从灰色市场购买（套利是指有人低价买入、高价卖出，而自己并未对产品增加任何额外价值）。在灰色市场套利中，某人低价买入、高价卖出，仅仅是通过将商品从一个地区转移到另一个地区，而该商品在进口地区已经正式上市。需要注意的是，灰色进口不是假冒品、复制品或赝品。灰色进口的另一种说法是“平行进口”。这一商业领域的真实数据显然很难获取，但毕马威在印度的一项研究中的一个例子显示，灰色市场的数字为“彩色电视机总量的20%以上，GSM移动设备的30%，VCD和DVD播放机的90%，以及汽车音响的70%”。
+
+**Français**
+
+Les importations « grises » sont des marchandises destinées à la vente dans un pays ou une région selon la conception du fabricant, mais qui sont disponibles dans un pays ou une région non prévus. Bien que légales, elles sont considérées comme étant à la limite des usages éthiques ou socialement acceptables, car leur vente va à l’encontre des souhaits du fabricant et/ou du distributeur officiel. Ce débat porte sur la question de savoir si les détaillants qui se procurent des produits via le marché gris ont raison de le faire, si cette pratique est bénéfique, à qui elle peut profiter, et sur les arguments moraux, économiques et sociaux pour et contre cette pratique. En général, les acteurs du marché achètent sur le marché gris en raison de l’arbitrage (l’arbitrage consiste à acheter bas pour revendre haut sans rien ajouter de plus au produit lui-même). Dans un arbitrage de marché gris, quelqu’un achète bas et revend haut simplement en déplaçant le stock d’une région à une autre, alors que ce bien est déjà officiellement disponible dans la région d’importation. Il convient de noter que les importations grises ne sont pas des contrefaçons, des copies ou des faux. Une autre façon de désigner une importation grise est le terme « importation parallèle ». Les chiffres réels de ce secteur d’activité sont évidemment difficiles à obtenir, mais un exemple tiré d’une étude de KPMG en Inde montre des chiffres du marché gris de « plus de 20 % du total des téléviseurs couleur, 30 % des appareils mobiles GSM, 90 % des lecteurs VCD et DVD et 70 % des autoradios ».
 
 ## ✅ 正方论点 Pros
 
 ### Buyers benefit from grey imports, in the form of greater consumer choice.
 
+**English**
+
 Consumers benefit from grey imports. The economics of grey importation drives sourcing to low-cost economies. Even if retailers take some of this benefit as improved profit margins, typically at least some of it will be passed on to consumers in the form of reduced prices. Grey imports also allow consumers to buy products that may not yet be available in their own market, because they have not yet been released, or because in their market the manufacturer feels there is insufficient demand. Thus, grey imports expand consumer choice. Many films, DVD's and video games are released in one region months before others, and grey imports allow enthusiasts to access their favoured products earlier than they otherwise would 1 . 1 Bun, Mara and Horrocks, Steve, 'In Support of Parallel Imports of CDs', Australian Consumers' Association, February 1998 improve this
 
 **反驳 Counterpoint**：Consumers do not really benefit overall from grey imports. Although manufacturers may reduce prices in some (typically, richer) countries, they are at least as likely to raise prices in less developed economies, depriving consumers there of access to international brands and luxury goods, and so depriving them of a real choice and in some cases the full product. 1 In addition, they will still have to pay all the taxes and the losses from lack of regulation which have been avoided in some way or lose the services those taxes provide. The loss of revenue from grey imports can mean that production is limited or even halted going forward, even though there is market demand for more products from the manufacturer. The film industry shows this clearly. Manufacturer protections of their products (for example region specific DVD's and PCs) actually increase costs for all consumers. 1 Etherington-Smith, James, '"Grey" imports: The black and white of it', mybroadband.co.za, 14 December 2010 improve this
 
+**中文**
+
+买家从灰色进口中受益，表现为更多的消费者选择。
+
+消费者从灰色进口中受益。灰色进口的经济学促使采购转向低成本经济体。即使零售商将其中一部分好处作为提高的利润率留下，通常至少也会有一部分以降价的形式传递给消费者。灰色进口还使消费者能够购买可能尚未在他们自己的市场上可用的产品，因为这些产品尚未发布，或者因为在他们的市场上制造商认为需求不足。因此，灰色进口扩大了消费者的选择。许多电影、DVD和视频游戏在一个地区比其他地区提前数月发布，灰色进口使爱好者能够比原本更早地获得他们喜欢的产品。1 1 Bun, Mara and Horrocks, Steve, 'In Support of Parallel Imports of CDs', Australian Consumers' Association, February 1998 improve this
+
+反方观点：消费者总体上并没有真正从灰色进口中受益。尽管制造商可能会在一些（通常是较富裕的）国家降低价格，但他们在较不发达经济体中至少同样可能提高价格，从而剥夺那里消费者获得……的机会。
+
+**Français**
+
+Les acheteurs bénéficient des importations grises, sous la forme d’un plus grand choix pour les consommateurs.
+
+Les consommateurs bénéficient des importations grises. L’économie de l’importation grise pousse l’approvisionnement vers les économies à bas coûts. Même si les détaillants en conservent une partie sous forme de marges bénéficiaires améliorées, une partie au moins sera généralement répercutée sur les consommateurs sous forme de prix réduits. Les importations grises permettent aussi aux consommateurs d’acheter des produits qui ne sont pas encore disponibles sur leur propre marché, parce qu’ils n’ont pas encore été commercialisés, ou parce que, sur leur marché, le fabricant estime que la demande est insuffisante. Ainsi, les importations grises élargissent le choix des consommateurs. De nombreux films, DVD et jeux vidéo sortent dans une région des mois avant les autres, et les importations grises permettent aux passionnés d’accéder à leurs produits préférés plus tôt qu’ils ne le pourraient autrement. 1 1 Bun, Mara and Horrocks, Steve, 'In Support of Parallel Imports of CDs', Australian Consumers' Association, February 1998 improve this
+
+Contre-argument : les consommateurs ne bénéficient pas vraiment globalement des importations grises. Bien que les fabricants puissent réduire les prix dans certains pays (généralement plus riches), ils sont au moins aussi susceptibles d’augmenter les prix dans les économies moins développées, privant ainsi les consommateurs de ces pays de l’accès…
+
 ### Allowing grey goods breaks down monopolies and passes on lower prices to consumers.
+
+**English**
 
 Allowing grey imports means that manufacturers do not concentrate economic power in a monopolistic way which can be damaging to free trade (even Adam Smith 1 believed certain monopolies were antithetical to free trade). Banning them is tantamount to granting a licensed monopoly or cartel on a country-by-country basis, which inevitably means higher prices for consumers. As manufacturing has increasingly been relocated into a smaller number of offshore countries, rather than in the country of purchase, it makes sense that other parts of the supply chain should make a similar move so that they too can realise the efficiency benefits of a globalised economy. 1 Smith, Adam, "An Inquiry into the Nature and Causes of the Wealth of Nations" 1776 improve this
 
 **反驳 Counterpoint**：Grey imports limit a company's control over its own products. Many manufacturers/distributors wish to control their distribution outlets for sound commercial reasons, for example, to protect the image of their brand. This becomes very difficult, possibly impossible, to do if grey imports are allowed, as this circumvents their planned distribution network. It becomes much harder for a manufacturer/ distributor to track their products where they have been used in a grey importation. This can lessen their effectiveness when they need this information, such as for a safety recall. "It is unclear whether adequate mechanisms are in place to adequately recall parallel trade medicines. Batch number recording is not consistently applied throughout the supply chain and in practice may make comprehensive product recall difficult, creating a risk to patient safety". 1 1 Trade and Industry Committee, Eighth Report, 29 June 1999 improve this
 
+**中文**
+
+允许灰色商品打破垄断，并将更低的价格传递给消费者。
+
+允许灰色进口意味着制造商不会以垄断方式集中经济权力，这种方式可能损害自由贸易（甚至亚当·斯密1也认为某些垄断与自由贸易相悖）。禁止它们无异于按国家授予特许垄断或卡特尔，这不可避免地意味着消费者要支付更高的价格。随着制造业越来越多地转移到少数离岸国家，而不是购买国，供应链的其他部分也应该采取类似举措，以便它们也能实现全球化经济的效率收益，这是合理的。1 Smith, Adam, "An Inquiry into the Nature and Causes of the Wealth of Nations" 1776 improve this
+
+反方观点：灰色进口限制了公司对自己产品的控制。许多制造商/分销商出于合理的商业原因希望控制其分销渠道，例如保护其品牌形象。如果允许灰色进口，这会变得非常困难，甚至可能不可能，因为这绕过了他们计划的分销……
+
+**Français**
+
+Autoriser les produits gris brise les monopoles et répercute des prix plus bas sur les consommateurs.
+
+Autoriser les importations grises signifie que les fabricants ne concentrent pas le pouvoir économique de manière monopolistique, ce qui peut nuire au libre-échange (même Adam Smith 1 estimait que certains monopoles étaient contraires au libre-échange). Les interdire équivaut à accorder un monopole ou un cartel sous licence pays par pays, ce qui entraîne inévitablement des prix plus élevés pour les consommateurs. Comme la fabrication a de plus en plus été délocalisée vers un petit nombre de pays offshore, plutôt que dans le pays d’achat, il est logique que d’autres parties de la chaîne d’approvisionnement fassent de même afin de pouvoir elles aussi réaliser les gains d’efficacité d’une économie mondialisée. 1 Smith, Adam, "An Inquiry into the Nature and Causes of the Wealth of Nations" 1776 improve this
+
+Contre-argument : les importations grises limitent le contrôle d’une entreprise sur ses propres produits. De nombreux fabricants/distributeurs souhaitent contrôler leurs points de distribution pour de bonnes raisons commerciales, par exemple pour protéger l’image de leur marque. Cela devient très difficile, voire impossible, si les importations grises sont autorisées, car elles contournent leur distribution prévue…
+
 ### Impossible to Stop.
+
+**English**
 
 Governments might as well accept that allowing retailers to sell grey goods has benefits because government will never be able to completely prevent such imports. Government regulation may prevent most retailers from selling grey goods but it won't stop all. For example Tesco in the UK sold cut price Levi jeans for years, and fought Levi Strauss in the courts for four years to try and keep selling them. 1 If even the biggest retailers are willing to sell grey goods unless stopped by the courts many smaller ones will be getting through the net. Moreover consumers will simply buy the goods elsewhere, particularly online. The government should instead legalise the import of grey goods so that it can make sure that these imports are of a high standard and do not break any other standards 1 BBC News, 'Tesco defeated in cheap jeans battle', 31 July 2002,
 
 **反驳 Counterpoint**：It may be impossible to completely stop such imports however the vast majority of shops will not import these items while they are not allowed to. Opening the market up will simply lead to a flood of imports with a resulting effect on native manufacturing. improve this
 
+**中文**
+
+无法阻止。
+
+政府不妨承认，允许零售商销售灰色商品是有好处的，因为政府永远无法完全阻止这类进口。政府监管可能会阻止大多数零售商销售灰色商品，但不会阻止所有零售商。例如，英国的乐购多年来销售打折的李维斯牛仔裤，并在法庭上与李维斯公司抗争了四年，试图继续销售它们。1 如果连最大的零售商在被法院阻止之前都愿意销售灰色商品，那么许多较小的零售商将会漏网。此外，消费者只会去别处购买这些商品，尤其是在网上。政府应该改为将灰色商品的进口合法化，这样它就能确保这些进口商品达到高标准，并且不违反任何其他标准。1 BBC News, 'Tesco defeated in cheap jeans battle', 31 July 2002,
+
+反方观点：完全阻止这类进口可能是不可能的，然而绝大多数商店在不被允许时不会进口这些商品。开放市场只会导致进口潮，并对本国制造业产生影响。improve this
+
+**Français**
+
+Impossible à arrêter.
+
+Les gouvernements feraient aussi bien d’accepter que permettre aux détaillants de vendre des produits gris présente des avantages, car un gouvernement ne pourra jamais complètement empêcher ces importations. La réglementation gouvernementale peut empêcher la plupart des détaillants de vendre des produits gris, mais elle n’arrêtera pas tout le monde. Par exemple, Tesco au Royaume-Uni a vendu des jeans Levi à prix réduit pendant des années, et a lutté contre Levi Strauss devant les tribunaux pendant quatre ans pour essayer de continuer à les vendre. 1 Si même les plus grands détaillants sont prêts à vendre des produits gris tant qu’ils ne sont pas arrêtés par les tribunaux, beaucoup de plus petits passeront à travers les mailles du filet. De plus, les consommateurs achèteront simplement les produits ailleurs, en particulier en ligne. Le gouvernement devrait plutôt légaliser l’importation de produits gris afin de pouvoir s’assurer que ces importations sont de haute qualité et ne violent aucune autre norme. 1 BBC News, 'Tesco defeated in cheap jeans battle', 31 July 2002,
+
+Contre-argument : il peut être impossible d’arrêter complètement ces importations, mais la grande majorité des magasins n’importeront pas ces articles tant qu’ils ne sont pas autorisés à le faire. Ouvrir le marché ne fera que conduire à un afflux d’importations, avec un effet résultant sur la fabrication nationale. improve this
+
 ### The free movement of goods is consistent with the basic principles of free trade
+
+**English**
 
 Allowing grey imports is consistent with the basic principles of free trade. (Free trade principles – WTO 1 ) If a manufacturer/distributor is selling the same item at different prices in two countries, free market economics suggests that the rational purchaser will purchase in the cheaper of the two, presuming, for example, that the difference will not be wholly swallowed up by transaction and transportation costs or taxes. If this logic holds for a consumer choosing between two jeans shops in his town, it must also hold for a retailer choosing between a jeans manufacturer’s price lists in two countries. Until recently, there was an information asymmetry (rational markets requiring information symmetry), as the manufacturer knew about their differential pricing, but the purchaser did not; information technology has now changed the equation and allowed the market to operate more efficiently. Not only this, but consumers can already buy products from pretty much anywhere in the world, as long as they can pay the postage. 1 World Trade Organisation "UNDERSTANDING THE WTO: BASICS", WTO 2011 improve this
 
 **反驳 Counterpoint**：Free trade involves a principle of free will. The buyer should be able to decide to whom he wishes to sell and on what terms, and if the seller does not accept those terms then the buyer should be able to refuse to deal with him. Manufacturers can have many good reasons for choosing to price goods at different levels in different countries, such as their wish to build a long-term brand preference by cheaper initial marketing in a developing economy, or their desire to maintain an aura of exclusivity in mature markets through high pricing and confining sales to specialist retailers. Grey imports result in the manufacturer/ distributor effectively losing some, and often most, control of their pricing and retailing strategy in the importing country. This reduces their capacity to position the brand as they see appropriate. In extremis, a company can be put out of business in one nation by its own operations overseas! improve this
 
+**中文**
+
+商品的自由流动符合自由贸易的基本原则。
+
+允许灰色进口符合自由贸易的基本原则。（自由贸易原则——WTO 1）如果制造商/分销商在两个国家以不同价格销售同一商品，自由市场经济学表明，理性的购买者会在两者中较便宜的地方购买，前提是例如差价不会被交易和运输成本或税收完全吞掉。如果这个逻辑适用于一个消费者在他所在城镇的两家牛仔裤店之间做选择，那么它也必然适用于一个零售商在牛仔裤制造商在两个国家的价目表之间做选择。直到最近，还存在信息不对称（理性市场需要信息对称），因为制造商知道他们的差别定价，但购买者不知道；信息技术现在已经改变了这种局面，使市场能够更有效地运作。不仅如此，消费者已经可以从世界上几乎任何地方购买产品，只要他们能支付邮费。1 World Trade Organisation "UNDERSTANDING THE WTO: BASICS", WTO 2011 improve this …
+
+**Français**
+
+La libre circulation des marchandises est conforme aux principes de base du libre-échange.
+
+Autoriser les importations grises est conforme aux principes de base du libre-échange. (Principes du libre-échange – OMC 1) Si un fabricant/distributeur vend le même article à des prix différents dans deux pays, l’économie de marché libre suggère que l’acheteur rationnel achètera dans le moins cher des deux, en supposant, par exemple, que la différence ne sera pas entièrement absorbée par les coûts de transaction et de transport ou les taxes. Si cette logique vaut pour un consommateur qui choisit entre deux magasins de jeans dans sa ville, elle doit aussi valoir pour un détaillant qui choisit entre les listes de prix d’un fabricant de jeans dans deux pays. Jusqu’à récemment, il existait une asymétrie d’information (les marchés rationnels exigeant une symétrie de l’information), car le fabricant connaissait sa tarification différenciée, mais pas l’acheteur ; les technologies de l’information ont maintenant changé la donne et permis au marché de fonctionner plus efficacement. Non seulement cela, mais les consommateurs peuvent déjà acheter des produits depuis à peu près n’importe où dans le monde, tant qu’ils peuvent payer les frais de port. 1 World Trade Organisation "UNDERSTANDING THE WTO: BASICS", WTO 2011 improve this …
+
 ## ❌ 反方论点 Cons
 
 ### Grey goods come into the country, but money goes out, weakening the economy.
+
+**English**
 
 Grey imports damage the importing economy. By reducing the profitability of the manufacturer/distributor in the importing country, grey imports accordingly often lessen the amount of money that the company can invest in its operations in that country. This is a vicious circle which may reduce demand and so lead to greater inefficiencies in official importation. An acceptance of imports – especially of unclear provenance – hastens the demise of the manufacturing base of the importing country. 1 The manufacturer will have less reason to support the brand locally through, for example, advertising, as the benefit does not show up in their local results and, in any case, grey imports tends to start focusing consumers’ minds on price rather than the brand identity. This can be detrimental to the advertising and media spend in the importing country, which for a premium consumer goods brand (e.g. perfume, clothing) could represent quite a significant economic benefit. What is a loss for the economy is also of course a loss for the government. The United States Internal Revenue Service estimated 15% of workers did not pay taxes, a $345billion shortfall from what should have been paid in large part as a result of workers in the grey economy of which there are more than 140,000 in San Diego alone. 2 1 Peacock, Louisa, 2010, ‘Go East, if you want that top job’, The Telegraph , 19 November 2010 , 2 Calbreath , Dean, ‘Hidden economy a hidden danger’, Signs On San Diego , 30 May 2010
 
 **反驳 Counterpoint**：Grey imports benefit the importing economy. As some grey imports will be products originally targeted at a foreign market but which turn out to achieve some popularity in the host market, they increase foreign trade. In this way, grey imports act to internationalise consumer tastes and cross-cultural understanding. Through the downward pressure on retail prices, grey imports will also encourage industry to more efficiency, as ultimately factory gate prices will be expected to fall too. This leads to rising living standards in the cheaper economy as prices balance out, as we can see in for example China, with it's recent massive rises in living standards. 1 1 Mortishead, Carl, ‘China’s rising living standard cranks up resource competition’ The Australian , 18 October 2007 improve this
 
+**中文**
+
+灰色商品进入这个国家，但资金却流了出去，削弱了经济。
+
+灰色进口会损害进口国的经济。灰色进口降低了进口国制造商/分销商的利润，因此往往会减少公司在该国业务运营中可投入的资金。这是一个恶性循环，可能会减少需求，进而导致官方进口效率更加低下。接受进口——尤其是来源不明的进口——会加速进口国制造业基础的消亡。1 制造商将更没有理由在当地支持该品牌，例如通过广告，因为收益不会体现在他们的当地业绩中，而且无论如何，灰色进口往往开始让消费者的注意力集中在价格上，而不是品牌形象上。这可能损害进口国的广告和媒体支出，而对于高端消费品品牌（如香水、服装）来说，这可能代表相当可观的经济利益。对经济来说是损失，当然对政府来说也是损失。美国国税局估计有15%的工人曾……
+
+**Français**
+
+Les importations parallèles entrent dans le pays, mais l'argent en sort, affaiblissant l'économie.
+
+Les importations parallèles nuisent à l'économie du pays importateur. En réduisant la rentabilité du fabricant/distributeur dans le pays importateur, les importations parallèles diminuent souvent la somme d'argent que l'entreprise peut investir dans ses activités dans ce pays. C'est un cercle vicieux qui peut réduire la demande et donc conduire à de plus grandes inefficacités dans l'importation officielle. L'acceptation des importations – surtout de provenance incertaine – accélère la disparition de la base manufacturière du pays importateur. 1 Le fabricant aura moins de raisons de soutenir la marque localement, par exemple par la publicité, car le bénéfice n'apparaît pas dans ses résultats locaux et, de toute façon, les importations parallèles ont tendance à concentrer l'esprit des consommateurs sur le prix plutôt que sur l'identité de la marque. Cela peut nuire aux dépenses publicitaires et médiatiques dans le pays importateur, ce qui, pour une marque de biens de consommation haut de gamme (par exemple, parfum, vêtements), pourrait représenter un avantage économique assez important. Ce qui est une perte pour l'économie est bien sûr aussi une perte pour le gouvernement. L'Internal Revenue Service des États-Unis a estimé que 15 % des travailleurs avaient…
+
 ### Once a good has been sold, manufacturers have no business telling their customers how to use it. This includes selling that good on.
+
+**English**
 
 In general we do not accept as moral or socially permissible the idea that the makers of a good can tell their customers where and when they may use that good, who they may give it to, where and when. Car manufacturers do not sell cars on the basis you will only drive to the shops and back, clothes makers do not sell clothes on the basis you will only wear them on Sundays or every full moon. Limiting customer ability to resell items they have paid for in full is irrational and immoral. improve this
 
 **反驳 Counterpoint**：While we do not see limitations on reselling by customers in general, there are, in fact, a good few occasions where such limitations on reselling and use occur. Books and other media are limited through copyright laws in their ability to be legitimately re-sold, motor insurance is indeed sold at least partly on the basis of what you are going to do with your vehicle.
 
+**中文**
+
+一旦商品已经售出，制造商就无权告诉顾客如何使用它。这包括转售该商品。
+
+总的来说，我们不认为商品制造者可以告诉顾客他们可以在哪里、何时使用该商品，可以把它给谁，在哪里、何时给，这种想法是道德的或社会可接受的。汽车制造商不会以你只开车去商店再回来为条件卖车，服装制造商不会以你只在星期天或每次满月时才穿为条件卖衣服。限制顾客转售他们已经全额付款购买的物品是不合理且不道德的。改进这一点
+
+反方观点：虽然我们总体上不认为顾客转售会受到限制，但实际上，确实有不少情况下会出现这种对转售和使用的限制。书籍和其他媒体通过版权法在合法转售能力上受到限制，汽车保险确实至少部分是根据你打算用你的车做什么来出售的。
+
+**Français**
+
+Une fois qu'un bien a été vendu, les fabricants n'ont pas à dire à leurs clients comment l'utiliser. Cela inclut la revente de ce bien.
+
+En général, nous n'acceptons pas comme moral ou socialement permis l'idée que les fabricants d'un bien puissent dire à leurs clients où et quand ils peuvent utiliser ce bien, à qui ils peuvent le donner, où et quand. Les constructeurs automobiles ne vendent pas les voitures en partant du principe que vous ne ferez que conduire jusqu'aux magasins et revenir, les fabricants de vêtements ne vendent pas les vêtements en partant du principe que vous ne les porterez que le dimanche ou à chaque pleine lune. Limiter la capacité des clients à revendre des articles qu'ils ont payés en totalité est irrationnel et immoral. améliorer ceci
+
+Contre-argument : Bien que nous ne voyions pas de limitations à la revente par les clients en général, il y a, en fait, un certain nombre d'occasions où de telles limitations à la revente et à l'utilisation se produisent. Les livres et autres médias sont limités par les lois sur le droit d'auteur dans leur capacité à être légitimement revendus, l'assurance automobile est en effet vendue au moins en partie sur la base de ce que vous allez faire avec votre véhicule.
+
 ### Grey imports limit a company's control over its own products.
+
+**English**
 
 A free flow of goods is not always an automatic good. The extra transport and pollution involved in grey imports alone is a serious argument against it. Grey importers often do not make clear that products sold under the same brand name in different markets are in fact sometimes tailored to suit the local market environment. So, for example, one of the reasons for lower pricing in some products in particular countries is that they do not include all of the same ingredients as a product sold under the same brand name in another country. This can be, for example, because the performance needs (e.g. the climate), regulatory framework, or consumers' willingness to pay in the two countries vary. Accordingly, in the importing country, consumers may end up paying for a familiar brand that is not actually as well designed for their needs as the domestically marketed version. 1 There are many practical problems with grey importation. For example, consumers may not understand usage instructions. 1 Santos, Botchi, 'Why locally sold cars are still better than grey-market options, 26 January 2010 improve this
 
 **反驳 Counterpoint**：A free flow in goods is a desirable end in itself. The rational, efficient supply chain of grey imports reflects the ideal of the free market. Moving it from the shadows to a position of legitimacy would make it even more efficient, by reducing the effort currently employed to keep the imports' trail hidden, etc. There is also job creation involved in the distribution network. For example, the logistics and transportation activities involved in grey imports will create new work as the trade grows. improve this Add to favourites Add to Favourites Please Log In to add this debate to Favourites Log In Bibliography Ayau, M.F., 'Not a zero Sum Game', Economic Affairs, 26, no. 1 (March 2006): BBC News, 'Tesco defeated in cheap jeans battle', 31 July 2002, Bun, Mara and Horrocks, Steve, 'In Support of Parallel Imports of CDs', Australian Consumers' Association, February 1998, Calbreath, Dean, 'Hidden economy a hidden danger', Signs On San Diego, 30 May 2010, Etherington-Smith, James, '"Grey" imports: The black and white of it', mybroadband.co.za, 14 December 2010, Heath, Christopher, 'Parallel Imports and International Trade', World Intellectual Property Organization, KPMG in India. "Combating Counterfeit and Grey Market." December 22, 2008. Mortishead, Carl, 'China's rising living standard cranks up resource competition' The Australian, 18 October 2007, Ostry, Sylvia, 'Intellectual property protection in the WTO: Major issues in the millennium round', Fraser Institute Conference, 19 April 1999, Out-Law.com, 'Court of Appeal challenges parallel import blocking', 26 August 2010, Peacock, Louisa, 2010, 'Go East, if you want that top job', The Telegraph, 19 November 2010, Santos, Botchi, 'Why locally sold cars are still better than grey-market options, 26 January 2010, Smith, Adam, "An Inquiry into the Nature and Causes of the Wealth of Nations" 1776 Trade and Industry Committee, Eighth Report, 29 June 1999, World Trade Organisation "UNDERSTANDING THE WTO: BASICS", WTO 2011, Have a good for or against point on this topic? Share it with us!
+
+**中文**
+
+灰色进口限制了公司对自己产品的控制。
+
+商品的自由流通并不总是自动带来好处。仅灰色进口所涉及的额外运输和污染就是一个严肃的反对理由。灰色进口商往往没有明确说明，在不同市场上以同一品牌名称销售的产品实际上有时是为适应当地市场环境而量身定制的。因此，例如，某些产品在特定国家定价较低的原因之一是，它们并不包含在另一个国家以同一品牌名称销售的产品的所有相同成分。这可能是因为，例如，两国的性能需求（如气候）、监管框架或消费者的支付意愿不同。因此，在进口国，消费者最终可能为一个熟悉的品牌付费，而该品牌实际上并不像国内销售版本那样针对他们的需求设计得那么好。1 灰色进口有许多实际问题。例如，消费者可能看不懂使用说明。1 Santos, Botchi，《为什么本地销售的汽车仍然比灰色市场选择更好》，2010年1月26日 改进这一点
+
+反方观点：一个自由……
+
+**Français**
+
+Les importations parallèles limitent le contrôle d'une entreprise sur ses propres produits.
+
+La libre circulation des marchandises n'est pas toujours automatiquement une bonne chose. Le transport supplémentaire et la pollution liés aux seules importations parallèles constituent déjà un argument sérieux contre elles. Les importateurs parallèles ne précisent souvent pas que les produits vendus sous le même nom de marque sur différents marchés sont en fait parfois adaptés à l'environnement du marché local. Ainsi, par exemple, l'une des raisons pour lesquelles certains produits sont moins chers dans certains pays est qu'ils ne contiennent pas tous les mêmes ingrédients qu'un produit vendu sous le même nom de marque dans un autre pays. Cela peut être dû, par exemple, au fait que les besoins de performance (par exemple le climat), le cadre réglementaire ou la volonté de payer des consommateurs varient entre les deux pays. Par conséquent, dans le pays importateur, les consommateurs peuvent finir par payer pour une marque familière qui n'est en fait pas aussi bien conçue pour leurs besoins que la version commercialisée localement. 1 Il y a de nombreux problèmes pratiques avec l'importation parallèle. Par exemple, les consommateurs peuvent ne pas comprendre les instructions d'utilisation. 1 Santos, Botchi, « Pourquoi les voitures vendues localement sont encore meilleures que les options du marché gris », 26 janvier 2010 améliorer ceci
+
+Contre-argument : Un libre…

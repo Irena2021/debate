@@ -1,136 +1,524 @@
 # Bill Clinton
 
-> **元信息**：英语 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Bill-Clinton-debate) | 2026-09-14
+> **元信息**：英·中·法 | 来源：Britannica ProCon | 分类：Social Issues | [原文](https://www.britannica.com/procon/Bill-Clinton-debate) | 2026-09-14
 
 ---
 
-## 🎯 中文导读
+## 🎯 三语导读
 
 ### 议题速览
-这个辩题在争论克林顿当总统到底算不算成功——支持者拿经济、犯罪率、环保等政绩说话，反对者则揪住丑闻、反恐失误和改革失败不放。
+
+- 中：比尔·克林顿当总统到底算不算成功——他的经济、社会、外交政策是功大于过，还是过大于功？
+- EN：Was Bill Clinton a successful president—do his economic, social, and foreign policies do more good than harm, or more harm than good?
+- FR : Bill Clinton a-t-il été un bon président — ses politiques économiques, sociales et étrangères font-elles plus de bien que de mal, ou l'inverse ?
 
 ### 正方立场
-- 人品有信仰支撑：克林顿从小虔诚，成年后常去教堂，私人婚姻问题不影响他治理国家的能力。
-- 犯罪率大降：任内犯罪率年年下降，卸任时创26年新低，还推动了禁攻击性武器和购枪背景审查。
-- 经济成绩亮眼：把2900亿赤字变成1270亿盈余，新增2250万就业，失业率降到4%，贫困率也下降。
-- 环保有作为：保护460万英亩国家纪念地，加强饮用水安全法，制定更严的排放和能效标准。
-- 外交有突破：推动北爱尔兰和平进程达成《贝尔法斯特协议》，还促成前苏联国家放弃核武器。
+
+- 中：经济表现亮眼：赤字变盈余，新增2200多万个就业岗位，失业率降到30年最低，贫困率下降。
+- EN：Strong economic record: the deficit turned into a surplus, over 22 million new jobs were created, unemployment fell to a 30-year low, and poverty dropped.
+- FR : Un bilan économique solide : le déficit s'est transformé en excédent, plus de 22 millions d'emplois ont été créés, le chômage a atteint son plus bas niveau en 30 ans et la pauvreté a reculé.
+
+- 中：治安明显改善：犯罪率年年下降，新增10万名警察，通过控枪法案，枪支犯罪大幅减少。
+- EN：Crime dropped clearly: crime fell every year, 100,000 new police officers were funded, gun-control bills were signed, and gun crime fell sharply.
+- FR : La criminalité a nettement baissé : elle a diminué chaque année, 100 000 policiers ont été embauchés, des lois sur le contrôle des armes ont été adoptées et les crimes par arme à feu ont fortement chuté.
+
+- 中：外交有成果：推动北爱尔兰和平协议，促使前苏联国家放弃核武器，并联合北约制止塞尔维亚的种族清洗。
+- EN：Foreign-policy achievements: he helped bring about the Good Friday Agreement in Northern Ireland, pushed former Soviet states to give up nuclear weapons, and worked with NATO to stop ethnic cleansing in Serbia.
+- FR : Des réussites en politique étrangère : il a contribué à l'Accord du Vendredi saint en Irlande du Nord, incité d'anciens pays soviétiques à renoncer à leurs armes nucléaires et collaboré avec l'OTAN pour arrêter le nettoyage ethnique en Serbie.
+
+- 中：社会与民生有进步：改革福利制度让领福利人数大减，推动艾滋病防治，签署母婴健康保护法。
+- EN：Progress on social and health issues: welfare reform sharply reduced the number of people on welfare, he pushed the fight against HIV/AIDS, and he signed the Newborns' and Mothers' Health Protection Act.
+- FR : Des progrès sociaux et sanitaires : la réforme de l'aide sociale a fortement réduit le nombre de bénéficiaires, il a fait avancer la lutte contre le VIH/sida et a signé la loi sur la protection de la santé des nouveau-nés et des mères.
+
+- 中：个人品德争议不影响执政能力：他从小虔诚信教，私生活问题与他治理国家的能力无关。
+- EN：Personal scandals don't affect his ability to govern: he was deeply religious from a young age, and his private-life issues are unrelated to his capacity to run the country.
+- FR : Les scandales personnels n'affectent pas sa capacité à gouverner : il était profondément croyant depuis l'enfance, et ses problèmes de vie privée n'ont rien à voir avec sa capacité à diriger le pays.
 
 ### 反方立场
-- 丑闻拖累治国：性骚扰诉讼和莱温斯基事件导致他被众议院弹劾，精力被分散，无法专注国事。
-- 犯罪政策有代价：联邦囚犯翻倍，58%因毒品入狱，钱花在关人而不是预防和改造上。
-- 经济功劳被高估：经济在他上任前就在增长，共和党国会的财政克制也有贡献，他还放松金融监管埋下2007年危机隐患。
-- 医保改革失败：上任时最大目标——医保改革——因准备不足和共和党反对而彻底失败，被认为是任内最大败笔。
-- 反恐失误严重：没能解决本·拉登威胁，恐怖活动升级，最终导致2001年9·11事件，造成2973人死亡。
+
+- 中：丑闻不断分散精力：性骚扰诉讼和莱温斯基事件导致他被众议院弹劾，让他无法专心治国。
+- EN：Constant scandals distracted him: a sexual-harassment lawsuit and the Lewinsky affair led to his impeachment by the House, keeping his focus off running the country.
+- FR : Des scandales à répétition l'ont distrait : une poursuite pour harcèlement sexuel et l'affaire Lewinsky ont mené à sa mise en accusation par la Chambre, l'empêchant de se concentrer sur la gouvernance.
+
+- 中：治安政策有副作用：联邦囚犯翻倍，多数因毒品入狱，钱花在监禁而非预防和改造上。
+- EN：His crime policy had side effects: federal prisoners doubled, most for drug offenses, and money went to incarceration instead of prevention or rehabilitation.
+- FR : Sa politique pénale a eu des effets secondaires : le nombre de prisonniers fédéraux a doublé, surtout pour des infractions liées aux drogues, et l'argent est allé à l'incarcération plutôt qu'à la prévention ou à la réinsertion.
+
+- 中：经济功劳被夸大：他上任时经济已在增长，共和党国会的财政节制也有贡献，而他未监管金融市场，埋下2007年金融危机的祸根。
+- EN：His economic credit is exaggerated: the economy was already growing when he took office, the Republican Congress helped with fiscal restraint, and his failure to regulate financial markets planted the seeds of the 2007 crisis.
+- FR : Son mérite économique est exagéré : l'économie croissait déjà à son arrivée, le Congrès républicain a contribué par sa rigueur budgétaire, et son absence de régulation des marchés financiers a semé les graines de la crise de 2007.
+
+- 中：外交有重大失误：1993年索马里行动失败后，他在1994年卢旺达大屠杀时犹豫不决，导致50多万人遇害。
+- EN：Major foreign-policy failures: after the failed 1993 Somalia mission, he hesitated during the 1994 Rwandan genocide, and more than half a million people were killed.
+- FR : De graves échecs en politique étrangère : après l'échec de la mission en Somalie en 1993, il a hésité pendant le génocide rwandais de 1994, et plus de 500 000 personnes ont été tuées.
+
+- 中：重大改革失败：医改计划彻底失败，社保和医保也未改革，他本人后来也承认这是遗憾。
+- EN：Major reforms failed: his health-care plan collapsed, and he never reformed Social Security or Medicare—something he later admitted he regretted.
+- FR : De grandes réformes ont échoué : son plan de santé a échoué et il n'a jamais réformé la Sécurité sociale ni Medicare — ce qu'il a lui-même admis regretter plus tard.
 
 ### 写作借鉴
-- 引出论点：Clinton’s private marital issues were unrelated to his ability to govern the US.（用来区分私德与公职能力，适合做让步后的转折）
-- 让步转折：Clinton gets too much credit for the good economy of the 1990s, which was already growing when he took office.（用来承认对方部分事实，再指出其归因错误）
-- 总结：Clinton failed to deal with the threat of Osama bin Laden, whose terrorist acts escalated and culminated in the Sep. 11, 2001 attacks.（用来收束反方最重的一击，强调后果的严重性）
+
+- EN：Clinton gets too much credit for the good economy of the 1990s, which was already growing when he took office.
+- 中：用途：反驳对方论点、指出对方夸大了功劳（「驳论 / 削弱对方论据」）。
+- FR : Utilité : réfuter l'argument adverse et montrer qu'il exagère le mérite (réfutation / affaiblir la thèse opposée).
+
+- EN：The result of his focus was lower collateral damage, lower casualty rates, and advanced communications.
+- 中：用途：用「The result of... was...」引出政策带来的具体成果（「列举结果 / 论证成效」）。
+- FR : Utilité : utiliser « The result of... was... » pour présenter les résultats concrets d'une politique (énumérer les effets / prouver l'efficacité).
+
+- EN：While he failed to act, more than half a million Tutsis were murdered.
+- 中：用途：用「While...」形成对比，强调不作为造成的严重后果（「对比转折 / 突出后果」）。
+- FR : Utilité : employer « While... » pour créer un contraste et souligner les graves conséquences d'une inaction (contraste / mettre en relief les conséquences).
 
 ## 📖 背景 Background
 
+**English**
+
 This topic has not been updated since October 16, 2020. Stay tuned for a complete update.
+
+**中文**
+
+本主题自2020年10月16日起未更新。敬请期待完整更新。
+
+**Français**
+
+Ce sujet n'a pas été mis à jour depuis le 16 octobre 2020. Restez à l'écoute pour une mise à jour complète.
 
 ## ✅ 正方论点 Pros
 
 ### Pro 1: Character
 
+**English**
+
 Clinton was deeply religious from a young age and regularly attended a Baptist church as an adult. He once said, “Religious faith has permitted me to believe in the continuing possibility of becoming a better person every day, to believe in the search for complete integrity in life.” Clinton’s private marital issues were unrelated to his ability to govern the US. Even after the news of his affair with White House intern Monica Lewinsky broke in early 1998, his approval rating was 63 percent according to a Washington Post poll.
+
+**中文**
+
+正方1：品格
+
+克林顿从小笃信宗教，成年后定期参加浸信会教堂活动。他曾说：“宗教信仰让我相信，每天都有可能成为更好的人，相信可以追求完整的人生操守。”克林顿的私人婚姻问题与他治理美国的能力无关。即使在1998年初他与白宫实习生莫妮卡·莱温斯基的绯闻曝光后，据《华盛顿邮报》民调，他的支持率仍为63%。
+
+**Français**
+
+Pour 1 : Caractère
+
+Clinton était profondément religieux depuis son jeune âge et fréquentait régulièrement une église baptiste à l'âge adulte. Il a dit un jour : « La foi religieuse m'a permis de croire en la possibilité continue de devenir une meilleure personne chaque jour, de croire en la recherche d'une intégrité complète dans la vie. » Les problèmes conjugaux privés de Clinton n'avaient aucun rapport avec sa capacité à gouverner les États-Unis. Même après que la nouvelle de sa liaison avec la stagiaire de la Maison-Blanche Monica Lewinsky a éclaté au début de 1998, son taux d'approbation était de 63 % selon un sondage du Washington Post.
 
 ### Pro 2: Crime
 
+**English**
+
 The crime rate fell every year that Clinton was president and was at a 26-year low by the end of his two terms. He got funding for 100,000 new police officers nationwide. He signed the 1993 Brady Bill requiring a waiting period and background check to purchase handguns. Clinton’s 1994 Crime Bill included a ban on assault weapons, and there was a 40 percent decline in gun crime by 2001.
+
+**中文**
+
+正方2：犯罪
+
+克林顿担任总统期间，犯罪率逐年下降，到两届任期结束时降至26年来的最低点。他为全国新增10万名警察争取到了资金。他签署了1993年《布雷迪法案》，要求购买手枪须有等待期和背景审查。克林顿1994年的《犯罪法案》包含攻击性武器禁令，到2001年枪支犯罪下降了40%。
+
+**Français**
+
+Pour 2 : Criminalité
+
+Le taux de criminalité a baissé chaque année où Clinton a été président et était à son plus bas niveau en 26 ans à la fin de ses deux mandats. Il a obtenu des financements pour 100 000 nouveaux policiers dans tout le pays. Il a signé la loi Brady de 1993, qui exigeait un délai d'attente et une vérification des antécédents pour acheter des armes de poing. La loi sur la criminalité de 1994 de Clinton incluait une interdiction des armes d'assaut, et la criminalité liée aux armes à feu avait diminué de 40 % en 2001.
 
 ### Pro 3: Defense
 
+**English**
+
 Clinton presided over a modernization of the US military which led to increased readiness and efficiency. His administration focused on precision weapons and the use of GPS (Global Positioning System) technology. The result of his focus was lower collateral damage, lower casualty rates, and advanced communications. He also increased pay and benefits for military personnel.
+
+**中文**
+
+正方3：国防
+
+克林顿主持了美国军队的现代化，提高了战备水平和效率。他的政府专注于精确武器和GPS（全球定位系统）技术的使用。这种专注的结果是附带损害更少、伤亡率更低、通信更先进。他还提高了军人的薪水和福利。
+
+**Français**
+
+Pour 3 : Défense
+
+Clinton a présidé à la modernisation de l'armée américaine, ce qui a amélioré la préparation et l'efficacité. Son administration s'est concentrée sur les armes de précision et l'utilisation de la technologie GPS (système de positionnement mondial). Le résultat de cette orientation a été moins de dommages collatéraux, des taux de pertes plus faibles et des communications avancées. Il a également augmenté la solde et les avantages du personnel militaire.
 
 ### Pro 4: Economy
 
+**English**
+
 The US went from having the largest budget deficit in American history ($290 billion) in 1992 when Clinton was elected to having a budget surplus of $127 billion when he left office in 2001. 22.5 million new jobs were created and unemployment dropped from 7.5% when Clinton took office to 4.0% by the end of his second term, the lowest in 30 years. The poverty rate dropped to 11.8% in 1999, which was the lowest it had been since 1979.
+
+**中文**
+
+正方4：经济
+
+美国从1992年克林顿当选时美国历史上最大的预算赤字（2900亿美元），变为2001年他离任时的1270亿美元预算盈余。创造了2250万个新就业岗位，失业率从克林顿上任时的7.5%降至第二任期结束时的4.0%，为30年来最低。贫困率在1999年降至11.8%，为1979年以来最低。
+
+**Français**
+
+Pour 4 : Économie
+
+Les États-Unis sont passés du plus grand déficit budgétaire de l'histoire américaine (290 milliards de dollars) en 1992, lorsque Clinton a été élu, à un excédent budgétaire de 127 milliards de dollars lorsqu'il a quitté ses fonctions en 2001. 22,5 millions de nouveaux emplois ont été créés et le chômage est passé de 7,5 % lorsque Clinton est arrivé au pouvoir à 4,0 % à la fin de son second mandat, le taux le plus bas en 30 ans. Le taux de pauvreté est tombé à 11,8 % en 1999, le niveau le plus bas depuis 1979.
 
 ### Pro 5: Education
 
+**English**
+
 Clinton’s Goals 2000 program distributed two billion dollars between 1994 and 1999 to set uniform standards in US schools. His 1994 Improving America’s School Act (IASA) received support from Republicans and Democrats and from the education and business communities. IASA required that standards and accountability be the same for economically disadvantaged students as for other students.
+
+**中文**
+
+正方5：教育
+
+克林顿的“2000年目标”计划在1994年至1999年间分配了20亿美元，用于在美国学校制定统一标准。他1994年的《改善美国学校法案》（IASA）得到了共和党人和民主党人以及教育和商业界的支持。IASA要求对经济困难学生和其他学生采用相同的标准和问责制。
+
+**Français**
+
+Pour 5 : Éducation
+
+Le programme « Objectifs 2000 » de Clinton a distribué deux milliards de dollars entre 1994 et 1999 pour établir des normes uniformes dans les écoles américaines. Sa loi de 1994 sur l'amélioration des écoles américaines (IASA) a reçu le soutien des républicains et des démocrates ainsi que des milieux de l'éducation et des affaires. L'IASA exigeait que les normes et la responsabilité soient les mêmes pour les élèves économiquement défavorisés que pour les autres élèves.
 
 ### Pro 6: Environment
 
+**English**
+
 Clinton’s pro-environmental policies included preserving 4.6 million acres of land in national monuments, strengthening the Safe Drinking Water Act, and enacting tougher emissions and energy efficiency standards. The communities of more than 44 million Americans were brought up to clean air standards during his presidency. The Environmental Protection Agency and Justice Department prosecuted 241 environmental-related crimes in 1999, more than twice as many as in 1992, the year before Clinton took office.
+
+**中文**
+
+正方6：环境
+
+克林顿的环保政策包括保护460万英亩国家纪念地土地、加强《安全饮用水法》，以及实施更严格的排放和能效标准。在他担任总统期间，超过4400万美国人所在的社区达到了清洁空气标准。1999年，环境保护局和司法部起诉了241起与环境有关的犯罪，是克林顿上任前一年1992年的两倍多。
+
+**Français**
+
+Pour 6 : Environnement
+
+Les politiques pro-environnementales de Clinton comprenaient la préservation de 4,6 millions d'acres de terres en monuments nationaux, le renforcement de la loi sur l'eau potable sûre et l'adoption de normes plus strictes en matière d'émissions et d'efficacité énergétique. Les communautés de plus de 44 millions d'Américains ont été mises aux normes d'air pur pendant sa présidence. L'Agence de protection de l'environnement et le ministère de la Justice ont poursuivi 241 crimes liés à l'environnement en 1999, plus du double qu'en 1992, l'année précédant l'arrivée de Clinton au pouvoir.
 
 ### Pro 7: Foreign Policy
 
+**English**
+
 Clinton played an instrumental role in the peace process in Northern Ireland, which culminated in the 1998 Good Friday Agreement. He helped to get former Soviet nations to give up their nuclear arsenals and improve their control of nuclear materials. Clinton worked with NATO, a military alliance between Europe and North America, to bomb Serbia to end Slobodan Milosevic’s ethnic cleansing campaign. Clinton then sent 20,000 American troops to enforce peace in the region, a mission with no American casualties. He nearly orchestrated a historic Israeli-Palestinian peace agreement at Camp David in 2001.
+
+**中文**
+
+正方7：外交政策
+
+克林顿在北爱尔兰和平进程中发挥了关键作用，最终促成了1998年《贝尔法斯特协议》（耶稣受难日协议）。他帮助前苏联国家放弃核武库并改善对核材料的控制。克林顿与北约——欧洲和北美的军事联盟——合作，轰炸塞尔维亚，以结束斯洛博丹·米洛舍维奇的种族清洗行动。随后，克林顿派遣2万名美军在该地区执行和平任务，该任务没有美军伤亡。他几乎在2001年戴维营促成了一项历史性的以巴和平协议。
+
+**Français**
+
+Pour 7 : Politique étrangère
+
+Clinton a joué un rôle déterminant dans le processus de paix en Irlande du Nord, qui a abouti à l'accord du Vendredi saint de 1998. Il a aidé les anciennes nations soviétiques à abandonner leurs arsenaux nucléaires et à améliorer leur contrôle des matières nucléaires. Clinton a travaillé avec l'OTAN, une alliance militaire entre l'Europe et l'Amérique du Nord, pour bombarder la Serbie afin de mettre fin à la campagne de nettoyage ethnique de Slobodan Milosevic. Clinton a ensuite envoyé 20 000 soldats américains pour maintenir la paix dans la région, une mission sans pertes américaines. Il a presque orchestré un accord de paix historique israélo-palestinien à Camp David en 2001.
 
 ### Pro 8: Health
 
+**English**
+
 Clinton sought to bring attention and action to the fight against HIV/AIDS. Funding for AIDS-related programs increased 150 percent during his presidency, and he was a leader in developing international initiatives to search for a vaccine. He signed the Newborns’ and Mothers’ Health Protection Act of 1996, allowing women to stay in the hospital for 48 to 96 hours after giving birth instead of being kicked out in less than 24 hours.
+
+**中文**
+
+正方8：健康
+
+克林顿力求引起人们对抗击艾滋病毒/艾滋病的关注并采取行动。在他担任总统期间，艾滋病相关项目的资金增加了150%，他还是制定国际疫苗研发倡议的领导者。他签署了1996年《新生儿和母亲健康保护法》，允许女性在分娩后住院48至96小时，而不是不到24小时就被赶出医院。
+
+**Français**
+
+Pour 8 : Santé
+
+Clinton a cherché à attirer l'attention et à agir dans la lutte contre le VIH/sida. Le financement des programmes liés au sida a augmenté de 150 % pendant sa présidence, et il a été un leader dans l'élaboration d'initiatives internationales pour rechercher un vaccin. Il a signé la loi de 1996 sur la protection de la santé des nouveau-nés et des mères, permettant aux femmes de rester à l'hôpital pendant 48 à 96 heures après l'accouchement au lieu d'être renvoyées chez elles en moins de 24 heures.
 
 ### Pro 9: Science / Technology
 
+**English**
+
 Clinton’s instructions to NASA in 1993 led to productivity gains and reduced overhead for the International Space Station program, as well as a better research relationship with Russia. Clinton fought to bridge the “digital divide,” an inequality of access to technology that would make poor people even more disadvantaged in education and employment opportunities. His policies helped schools and libraries introduce computers and the internet to people who wouldn’t otherwise have had access.
+
+**中文**
+
+正方9：科学/技术
+
+克林顿1993年对美国国家航空航天局的指示，使国际空间站项目的生产率提高、管理费用降低，并与俄罗斯建立了更好的研究关系。克林顿努力弥合“数字鸿沟”，即技术获取方面的不平等，这种不平等会使穷人在教育和就业机会方面更加处于劣势。他的政策帮助学校和图书馆向原本无法接触计算机和互联网的人介绍了这些技术。
+
+**Français**
+
+Pour 9 : Science / Technologie
+
+Les instructions de Clinton à la NASA en 1993 ont conduit à des gains de productivité et à une réduction des frais généraux pour le programme de la Station spatiale internationale, ainsi qu'à une meilleure relation de recherche avec la Russie. Clinton s'est battu pour combler le « fossé numérique », une inégalité d'accès à la technologie qui désavantagerait encore plus les pauvres en matière d'éducation et d'opportunités d'emploi. Ses politiques ont aidé les écoles et les bibliothèques à faire découvrir les ordinateurs et Internet à des personnes qui n'y auraient pas eu accès autrement.
 
 ### Pro 10: Social Policy
 
+**English**
+
 In 1996, Clinton fulfilled his campaign promise to reform welfare by creating new rules that required recipients to work within two years of getting benefits and limited the time most people could spend on welfare to five years. As proof that the reform was successful, 10 years after he signed the Personal Responsibility and Work Opportunity Reconciliation Act, welfare rolls had dropped from 12.2 million to 4.5 million.
+
+**中文**
+
+正方10：社会政策
+
+1996年，克林顿履行了他的竞选承诺，改革福利制度，制定了新规则，要求受助者在获得福利后两年内工作，并将大多数人领取福利的时间限制为五年。作为改革成功的证明，在他签署《个人责任与工作机会协调法案》十年后，福利名册从1220万人降至450万人。
+
+**Français**
+
+Pour 10 : Politique sociale
+
+En 1996, Clinton a tenu sa promesse de campagne de réformer l'aide sociale en créant de nouvelles règles qui exigeaient des bénéficiaires qu'ils travaillent dans les deux ans suivant l'obtention des prestations et limitaient à cinq ans la durée pendant laquelle la plupart des gens pouvaient bénéficier de l'aide sociale. Comme preuve du succès de la réforme, dix ans après avoir signé la loi sur la responsabilité personnelle et la réconciliation des possibilités de travail, le nombre de bénéficiaires de l'aide sociale est passé de 12,2 millions à 4,5 millions.
 
 ### Pro 11: Taxes
 
+**English**
+
 The $290 billion national deficit of 1992 became a $124 billion surplus by 1999 because Clinton’s Omnibus Budget Reconciliation Act of 1993 raised taxes on the top income rate from 28 percent to 39.6 percent, thus increasing tax revenues. Just as the 1980s economic boom followed a tax increase by Reagan, the economy likewise improved after Clinton raised taxes in 1993. He also limited the ability of corporations to claim deductions for entertainment expenses.
+
+**中文**
+
+正方11：税收
+
+1992年2900亿美元的全国赤字到1999年变成了1240亿美元的盈余，因为克林顿1993年的《综合预算协调法案》将最高收入税率从28%提高到39.6%，从而增加了税收收入。正如20世纪80年代的经济繁荣发生在里根增税之后一样，克林顿1993年增税后经济也同样改善。他还限制了企业申报娱乐费用扣除的能力。
+
+**Français**
+
+Pour 11 : Impôts
+
+Le déficit national de 290 milliards de dollars de 1992 est devenu un excédent de 124 milliards de dollars en 1999 parce que la loi d'omnibus de réconciliation budgétaire de 1993 de Clinton a augmenté le taux d'imposition le plus élevé de 28 % à 39,6 %, augmentant ainsi les recettes fiscales. Tout comme le boom économique des années 1980 a suivi une augmentation d'impôts de Reagan, l'économie s'est également améliorée après que Clinton a augmenté les impôts en 1993. Il a également limité la capacité des entreprises à déduire les dépenses de divertissement.
 
 ### Pro 12: Other
 
+**English**
+
 Clinton was aware of the threat of Al Qaeda and authorized the CIA to kill Osama bin Laden. He sought to hunt down bin Laden after the Oct. 12, 2000 attack on the USS Cole, but the CIA and FBI refused to certify bin Laden’s involvement in the terrorist act. “I got closer to killing him than anybody’s gotten since,” Clinton said in a Sep. 24, 2006 interview with Chris Wallace.
+
+**中文**
+
+正方12：其他
+
+克林顿意识到基地组织的威胁，并授权中央情报局击杀奥萨马·本·拉登。2000年10月12日美国“科尔”号驱逐舰遭袭后，他试图追捕本·拉登，但中央情报局和联邦调查局拒绝证实本·拉登参与了这次恐怖行动。克林顿在2006年9月24日接受克里斯·华莱士采访时说：“我比之后任何人都更接近杀死他。”
+
+**Français**
+
+Pour 12 : Autre
+
+Clinton était conscient de la menace d'Al-Qaïda et a autorisé la CIA à tuer Oussama ben Laden. Il a cherché à traquer ben Laden après l'attaque du 12 octobre 2000 contre l'USS Cole, mais la CIA et le FBI ont refusé de certifier l'implication de ben Laden dans cet acte terroriste. « Je me suis rapproché de le tuer plus que quiconque depuis », a déclaré Clinton dans une interview accordée à Chris Wallace le 24 septembre 2006.
 
 ## ❌ 反方论点 Cons
 
 ### Con 1: Character
 
+**English**
+
 Constant scandals took Clinton’s focus off running the country. When Paula Jones sued Clinton for sexual harassment, he became the first sitting president to testify before a grand jury investigating his own conduct. An affair with White House intern Monica Lewinsky culminated in Clinton’s impeachment by the House of Representatives on Dec. 19, 1998 on charges of perjury and obstruction of justice. The only other president in US history to be impeached was Andrew Johnson in 1868. Some blame Clinton’s moral shortcomings for disenfranchising Democratic Party members and Independents, and causing Al Gore to lose the 2000 presidential election.
+
+**中文**
+
+反对观点1：品格
+
+接连不断的丑闻让克林顿无法专心治理国家。当保拉·琼斯以性骚扰罪名起诉克林顿时，他成为美国历史上第一位在调查自己行为的大陪审团面前作证的在任总统。他与白宫实习生莫妮卡·莱温斯基的绯闻最终导致众议院于1998年12月19日以作伪证和妨碍司法公正的罪名弹劾他。美国历史上另一位被弹劾的总统是1868年的安德鲁·约翰逊。有人将民主党人和独立选民失去选举权归咎于克林顿的道德缺陷，并认为这导致阿尔·戈尔在2000年总统大选中落败。
+
+**Français**
+
+Con 1 : Caractère
+
+Des scandales constants détournèrent Clinton de la direction du pays. Lorsque Paula Jones poursuivit Clinton pour harcèlement sexuel, il devint le premier président en exercice à témoigner devant un grand jury enquêtant sur sa propre conduite. Une liaison avec la stagiaire de la Maison-Blanche Monica Lewinsky aboutit à la mise en accusation de Clinton par la Chambre des représentants le 19 décembre 1998, pour parjure et obstruction à la justice. L'autre seul président de l'histoire américaine à avoir été mis en accusation fut Andrew Johnson en 1868. Certains attribuent aux défauts moraux de Clinton la privation des droits électoraux des membres du Parti démocrate et des indépendants, et la défaite d'Al Gore à l'élection présidentielle de 2000.
 
 ### Con 2: Crime
 
+**English**
+
 The number of federal prisoners doubled under Clinton, and 58 percent of them were serving time for drug-related offenses. Resources were geared towards incarceration instead of rehabilitation or crime prevention. Clinton’s 1994 Crime Bill was filled with “pork spending” that distributed $10 billion to states and special interest groups.
+
+**中文**
+
+反对观点2：犯罪
+
+在克林顿执政期间，联邦囚犯人数翻了一番，其中58%的人因毒品相关犯罪在服刑。资源被用于监禁，而非改造或预防犯罪。克林顿1994年的犯罪法案充斥着“政治分肥”支出，向各州和特殊利益集团分配了100亿美元。
+
+**Français**
+
+Con 2 : Criminalité
+
+Le nombre de prisonniers fédéraux doubla sous Clinton, et 58 % d'entre eux purgeaient une peine pour des infractions liées à la drogue. Les ressources étaient orientées vers l'incarcération plutôt que vers la réinsertion ou la prévention de la criminalité. La loi de 1994 sur la criminalité de Clinton était remplie de « dépenses de clientélisme » qui distribuèrent 10 milliards de dollars aux États et à des groupes d'intérêts particuliers.
 
 ### Con 3: Defense
 
+**English**
+
 Clinton was unable to fulfill his campaign promise to repeal the ban on homosexuals serving in the military. Faced with strong opposition from conservatives early in his presidency, Clinton settled on a compromise policy referred to as “don’t ask, don’t tell,” which allowed gays to serve in the military if they did not disclose their sexual orientation. Neither conservatives nor liberals were satisfied by the outcome.
+
+**中文**
+
+反对观点3：国防
+
+克林顿未能兑现其竞选承诺，即废除禁止同性恋者在军队服役的禁令。由于执政初期面临保守派的强烈反对，克林顿最终妥协，采取了一项被称为“不问，不说”的政策，允许同性恋者在不说出自己性取向的情况下服役。这一结果让保守派和自由派都不满意。
+
+**Français**
+
+Con 3 : Défense
+
+Clinton ne put tenir sa promesse de campagne d'abroger l'interdiction faite aux homosexuels de servir dans l'armée. Face à la forte opposition des conservateurs au début de sa présidence, Clinton opta pour une politique de compromis appelée « don't ask, don't tell », qui permettait aux homosexuels de servir dans l'armée s'ils ne révélaient pas leur orientation sexuelle. Ni les conservateurs ni les libéraux ne furent satisfaits du résultat.
 
 ### Con 4: Economy
 
+**English**
+
 Clinton gets too much credit for the good economy of the 1990s, which was already growing when he took office. The Republican-controlled Congress helped improve the economy by exercising fiscal restraint. Clinton’s failure to regulate the financial-services markets enabled the bad lending and Wall Street scams that led to the 2007 banking crisis.
+
+**中文**
+
+反对观点4：经济
+
+克林顿因20世纪90年代的良好经济而获得了过多赞誉，而在他上任时经济其实已经在增长了。共和党控制的国会通过实行财政紧缩帮助改善了经济。克林顿未能监管金融服务市场，导致不良贷款和华尔街骗局，最终引发了2007年的银行业危机。
+
+**Français**
+
+Con 4 : Économie
+
+Clinton reçoit trop de crédit pour la bonne économie des années 1990, qui était déjà en croissance lorsqu'il prit ses fonctions. Le Congrès contrôlé par les républicains contribua à améliorer l'économie en exerçant une retenue budgétaire. L'échec de Clinton à réguler les marchés des services financiers permit les prêts abusifs et les escroqueries de Wall Street qui menèrent à la crise bancaire de 2007.
 
 ### Con 5: Education
 
+**English**
+
 Clinton’s Goals 2000 program did not ensure uniform quality of standards among all the states because he compromised on oversight to get the program passed. The impact therefore varied by state and Clinton never fulfilled his goal of equalizing education standards and improving results for all students. By 2000, six years after IASA was implemented, only 17 states were in full compliance with the standards.
+
+**中文**
+
+反对观点5：教育
+
+克林顿的“2000年目标”计划未能确保各州标准质量的统一，因为为了通过该计划，他在监督方面做出了妥协。因此，其影响因州而异，克林顿从未实现其统一教育标准和改善所有学生成绩的目标。到2000年，即《美国教育改进法》实施六年后，只有17个州完全符合这些标准。
+
+**Français**
+
+Con 5 : Éducation
+
+Le programme « Goals 2000 » de Clinton ne garantit pas une qualité uniforme des normes dans tous les États, car il fit des compromis sur la supervision pour faire passer le programme. L'impact varia donc selon les États et Clinton ne réalisa jamais son objectif d'égaliser les normes éducatives et d'améliorer les résultats de tous les élèves. En 2000, six ans après la mise en œuvre de l'IASA, seuls 17 États se conformaient pleinement aux normes.
 
 ### Con 6: Environment
 
+**English**
+
 Clinton passed the North American Free Trade Agreement (NAFTA) despite the fact that it traded lower environmental standards for increased free trade. NAFTA resulted in more air pollution on the US/Mexico border, which experts estimated would cost $15 billion to clean up. Clinton also signed a 1995 measure to allow logging in national forests which suspended environmental laws protecting those forests.
+
+**中文**
+
+反对观点6：环境
+
+克林顿通过了《北美自由贸易协定》（NAFTA），尽管它以降低环境标准换取了更多的自由贸易。NAFTA导致美墨边境空气污染加剧，专家估计清理费用将高达150亿美元。克林顿还于1995年签署了一项允许在国家森林中伐木的措施，该措施中止了保护这些森林的环境法律。
+
+**Français**
+
+Con 6 : Environnement
+
+Clinton fit adopter l'Accord de libre-échange nord-américain (ALENA) bien qu'il échangeât des normes environnementales plus basses contre un libre-échange accru. L'ALENA entraîna davantage de pollution de l'air à la frontière entre les États-Unis et le Mexique, dont le nettoyage coûterait, selon les experts, 15 milliards de dollars. Clinton signa également en 1995 une mesure autorisant l'exploitation forestière dans les forêts nationales, qui suspendait les lois environnementales protégeant ces forêts.
 
 ### Con 7: Foreign Policy
 
+**English**
+
 A year after 18 American troops were killed in a failed 1993 mission to capture a warlord in Somalia, Clinton was hesitant to take action to stop a genocide in Rwanda. While he failed to act, more than half a million Tutsis were murdered. Critics accused Clinton of appeasement when he gave China Most Favored Nation (MFN) status despite their terrible human rights record and when he granted North Korea concessions in exchange for a promise to discontinue their nuclear weapons program.
+
+**中文**
+
+反对观点7：外交政策
+
+1993年，18名美国士兵在索马里抓捕一名军阀的失败任务中丧生。一年后，克林顿在采取行动阻止卢旺达种族灭绝时犹豫不决。在他未能采取行动期间，超过50万图西族人被杀害。批评者指责克林顿实行绥靖政策，因为他给予中国最惠国待遇，尽管中国的人权记录糟糕；还因为他向朝鲜做出让步，以换取其承诺停止核武器计划。
+
+**Français**
+
+Con 7 : Politique étrangère
+
+Un an après la mort de 18 soldats américains lors d'une mission ratée en 1993 visant à capturer un chef de guerre en Somalie, Clinton hésita à agir pour arrêter un génocide au Rwanda. Pendant qu'il n'agissait pas, plus d'un demi-million de Tutsis furent assassinés. Les critiques accusèrent Clinton d'apaisement lorsqu'il accorda à la Chine le statut de nation la plus favorisée (NPF) malgré son terrible bilan en matière de droits humains, et lorsqu'il accorda des concessions à la Corée du Nord en échange de sa promesse d'abandonner son programme d'armes nucléaires.
 
 ### Con 8: Health
 
+**English**
+
 Health care reform was Clinton’s major goal when he took office but his administration was ill-prepared for such a large task and made several missteps. Republican opposition was insurmountable and Senate Majority Leader George Mitchell (D-ME) declared on Sep. 26, 1994 that Clinton’s plan would never pass. The failure is considered the biggest of his administration in part because it led to the Republicans regaining control of Congress in the next election but also because he expended a lot of political capital without getting anything in return.
+
+**中文**
+
+反对观点8：医疗
+
+医疗改革是克林顿上任时的主要目标，但他的政府对此类重大任务准备不足，犯了几次失误。共和党的反对无法克服，参议院多数党领袖乔治·米切尔（民主党-缅因州）于1994年9月26日宣布，克林顿的计划永远不会通过。这次失败被认为是他政府最大的失败，部分原因是它导致共和党在接下来的选举中重新控制国会，也因为他耗费了大量政治资本却一无所获。
+
+**Français**
+
+Con 8 : Santé
+
+La réforme des soins de santé était le principal objectif de Clinton à son arrivée au pouvoir, mais son administration était mal préparée à une tâche aussi vaste et commit plusieurs faux pas. L'opposition républicaine était insurmontable et le chef de la majorité au Sénat, George Mitchell (D-ME), déclara le 26 septembre 1994 que le plan de Clinton ne passerait jamais. Cet échec est considéré comme le plus grand de son administration, en partie parce qu'il conduisit les républicains à reprendre le contrôle du Congrès lors de l'élection suivante, mais aussi parce qu'il dépensa beaucoup de capital politique sans rien obtenir en retour.
 
 ### Con 9: Science / Technology
 
+**English**
+
 Clinton cut NASA’s budget by $715 million in 1995 (about 5%) and did not restore the bulk of the money until three months before he left office. The result was a space program struggling to operate with less money for most of Clinton’s time in office. Some blame the 2003 Space Shuttle Columbia explosion on Clinton’s decision to slash NASA’s budget by an aggregate of $56 million over his presidency.
+
+**中文**
+
+反对观点9：科学/技术
+
+克林顿在1995年将NASA的预算削减了7.15亿美元（约5%），直到离任前三个月才恢复了大部分资金。结果是，在克林顿执政的大部分时间里，太空计划都在资金减少的情况下艰难运作。有人将2003年“哥伦比亚号”航天飞机爆炸归咎于克林顿在其任期内总共削减NASA预算5600万美元的决定。
+
+**Français**
+
+Con 9 : Science / Technologie
+
+Clinton réduisit le budget de la NASA de 715 millions de dollars en 1995 (environ 5 %) et ne restaura la majeure partie de cet argent que trois mois avant de quitter ses fonctions. Il en résulta un programme spatial luttant pour fonctionner avec moins d'argent pendant la majeure partie du mandat de Clinton. Certains attribuent l'explosion de la navette spatiale Columbia en 2003 à la décision de Clinton de réduire le budget de la NASA d'un total de 56 millions de dollars au cours de sa présidence.
 
 ### Con 10: Social Policy
 
+**English**
+
 Clinton neglected to take to steps to restructure Social Security and Medicare. In anticipation of the upcoming Baby Boom generation retiring and drawing heavily on those social services, Clinton should have worked to secure those programs. In a June 20, 2004 interview with 60 Minutes, he admitted “I’m sorry on the home front that we didn’t get healthcare and that we didn’t reform Social Security.”
+
+**中文**
+
+反对观点10：社会政策
+
+克林顿未能采取措施重组社会保障和医疗保险。考虑到即将到来的婴儿潮一代将退休并大量依赖这些社会服务，克林顿本应努力保障这些项目。在2004年6月20日接受《60分钟》采访时，他承认：“我很抱歉，在国内方面，我们没能实现医疗改革，也没能改革社会保障。”
+
+**Français**
+
+Con 10 : Politique sociale
+
+Clinton négligea de prendre des mesures pour restructurer la Sécurité sociale et Medicare. En prévision du départ à la retraite de la génération du baby-boom et de son recours massif à ces services sociaux, Clinton aurait dû œuvrer à sécuriser ces programmes. Dans une interview accordée à 60 Minutes le 20 juin 2004, il admit : « Je regrette, sur le plan intérieur, que nous n'ayons pas obtenu de soins de santé et que nous n'ayons pas réformé la Sécurité sociale. »
 
 ### Con 11: Taxes
 
+**English**
+
 The Omnibus Budget Reconciliation Act of 1993 increased the gasoline tax by 4.3 cents per gallon, which directly impacted the middle class. The 1993 tax hikes cannot be credited with the economic boom of the 1990s: it was after the Republican Congress passed tax cuts in 1997 that the economy really became stronger and the budget was balanced. Clinton designed his tax plans to place an unfair burden on the wealthy, punishing the most productive members of the US economy while cutting taxes for the least productive.
+
+**中文**
+
+反对观点11：税收
+
+1993年的《综合预算调节法案》将汽油税每加仑提高了4.3美分，直接影响了中产阶级。1993年的增税不能归功于20世纪90年代的经济繁荣：正是在共和党国会于1997年通过减税之后，经济才真正变得更加强劲，预算才实现平衡。克林顿的税收计划旨在将不公平的负担加在富人身上，惩罚美国经济中最具生产力的成员，同时为生产力最低的人减税。
+
+**Français**
+
+Con 11 : Impôts
+
+L'Omnibus Budget Reconciliation Act de 1993 augmenta la taxe sur l'essence de 4,3 cents par gallon, ce qui toucha directement la classe moyenne. Les hausses d'impôts de 1993 ne peuvent être créditées du boom économique des années 1990 : c'est après que le Congrès républicain eut fait passer des réductions d'impôts en 1997 que l'économie devint vraiment plus forte et que le budget fut équilibré. Clinton conçut ses plans fiscaux pour imposer un fardeau injuste aux riches, punissant les membres les plus productifs de l'économie américaine tout en réduisant les impôts des moins productifs.
 
 ### Con 12: Other
 
+**English**
+
 Clinton failed to deal with the threat of Osama bin Laden, whose terrorist acts escalated and culminated in the Sep. 11, 2001 attacks that killed 2,973 people. Clinton was too distracted by scandals such as the threat of impeachment to take action against Al Qaeda. A former CIA station chief in Pakistan said Clinton ordered the CIA to capture bin Laden alive, which resulted in a missed opportunity to kill him at an al-Qaida training camp in 2000.
+
+**中文**
+
+反对观点12：其他
+
+克林顿未能应对奥萨马·本·拉登的威胁，后者的恐怖行动不断升级，最终导致2001年9月11日的袭击，造成2973人死亡。克林顿被弹劾威胁等丑闻分散了太多注意力，无法对基地组织采取行动。一位前中情局驻巴基斯坦站站长表示，克林顿命令中情局活捉本·拉登，导致2000年错失了在基地组织训练营将其击毙的机会。
+
+**Français**
+
+Con 12 : Autre
+
+Clinton ne parvint pas à faire face à la menace d'Oussama ben Laden, dont les actes terroristes s'intensifièrent et aboutirent aux attentats du 11 septembre 2001 qui tuèrent 2 973 personnes. Clinton était trop distrait par des scandales tels que la menace de mise en accusation pour agir contre Al-Qaïda. Un ancien chef de poste de la CIA au Pakistan déclara que Clinton avait ordonné à la CIA de capturer ben Laden vivant, ce qui entraîna une occasion manquée de le tuer dans un camp d'entraînement d'Al-Qaïda en 2000.
 
 ## 📚 引用来源 Sources
 
