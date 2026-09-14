@@ -1,6 +1,6 @@
 # Debate 辩论素材库
 
-给魁北克 Secondary 5 学生准备的英语议论文（argumentative essay）辩论素材系统：自动抓取两个权威辩论网站的辩题（正反论点）→ 用 DeepSeek 生成中文导读 → 同步到思源笔记 → 发布成静态网站。
+给魁北克 Secondary 5 学生准备的英语议论文（argumentative essay）辩论素材系统：自动抓取两个权威辩论网站的辩题（正反论点）→ 用 DeepSeek 生成三语导读 → 同步到思源笔记 → 发布成静态网站。
 
 ---
 
@@ -17,7 +17,7 @@
 
 **核心能力**：
 - 自动抓取两个网站的辩题（背景 + 正方论点 + 反方论点 + 引用来源）
-- 用 DeepSeek 生成中文导读（议题速览 + 正反立场概括 + 英文写作句型）
+- 用 DeepSeek 生成三语导读（议题速览 + 正反立场概括 + 英文写作句型）
 - 笔记同时存本地和思源笔记（独立项目区 / Debate）
 - 自动构建成静态网站，发布到 Cloudflare Pages
 
@@ -25,7 +25,7 @@
 
 ```
 fetch.py       抓取辩题            → data/<来源>/*.json
-convert.py     DeepSeek 中文导读    → 01-Inbox/*.md + 思源
+convert.py     DeepSeek 三语导读    → 01-Inbox/*.md + 思源
 build_site.py  渲染成静态网站      → docs/（供 Cloudflare 发布）
 ```
 
@@ -36,7 +36,7 @@ build_site.py  渲染成静态网站      → docs/（供 Cloudflare 发布）
 | 路径 | 作用 |
 |---|---|
 | `fetch.py` | 第 1 步：抓 ProCon + iDebate 辩题 |
-| `convert.py` | 第 2 步：调 DeepSeek 生成中文导读 |
+| `convert.py` | 第 2 步：调 DeepSeek 生成三语导读 |
 | `build_site.py` | 第 3 步：把笔记渲染成静态网站 |
 | `sources.json` | **数据源配置（两个网站）** |
 | `.env` | 密钥配置（DeepSeek key、思源 token 等，勿提交） |
@@ -83,7 +83,7 @@ pip install markdown      # 建站必需（否则笔记正文变成纯文本）
 ```powershell
 cd E:\Projects\debate
 python fetch.py          # 抓辩题（每个来源默认 20 个）
-python convert.py        # 调 DeepSeek 生成中文导读
+python convert.py        # 调 DeepSeek 生成三语导读
 python build_site.py     # 重新生成 docs/
 git add 01-Inbox/ docs/
 git commit -m "feat: 更新辩论素材"
@@ -129,7 +129,7 @@ python build_site.py             # 把 01-Inbox/*.md 渲染成 docs/
 
 改 `sources.json` 里的 `max_items`（抓取上限）或 `enabled`（true/false）。
 
-### 2. 改中文导读的结构 / 提示词
+### 2. 改三语导读的结构 / 提示词
 
 改 `convert.py` 里的 `SYSTEM_PROMPT`。这是发给 DeepSeek 的提示词，定义了「议题速览 → 正方立场 → 反方立场 → 写作借鉴」的结构。
 
